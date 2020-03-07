@@ -1,0 +1,2448 @@
+True label :CÀ PHÊ TRÊN THỊ TRƯỜNG THẾ GIỚI
+Predict    :TA VÊ TRÊN THỊ TRƯỜNG THẾ GIỚI
+
+True label :KHI CON ĐƯỢC MỘT TUỔI RƯỠI TÔI VẪN CHO CON BÚ KHI CON GÁI MUỐN
+Predict    :KHI CON ĐỢC MỘT TUỔI RƯỠI TÔI VẪN CHO CON BỐ KHÌ CON AI MUỐN
+
+True label :ĐỂ THỬ TÀI BẮN CUNG CỦA TRƯỜNG TÔN THÀNH
+Predict    :ĐỂ THỰ TẠI ĐẮN CUNG CỦA TRƯỜNG TÔN THẠYH
+
+True label :CÁC NGHỆ SĨ NHẬT BẢN ỦNG HỘ NHỮNG
+Predict    :VÁT NGUỆN SĨ NHẬTP BẠN ỦNG HỘ
+
+True label :TĂNG KHÔNG PHẨY KHÔNG TÁM PHẦN TRĂM ĐỒ UỐNG VÀ THUỐC LÁ TĂNG KHÔNG PHẨY KHÔNG BẢY PHẦN TRĂM VĂN HÓA GIẢI TRÍ DU LỊCH VÀ GIÁO DỤC
+Predict    :TĂNG KHÔNG PHẨY KHÔNG TÁM PHẦN TRĂM ĐẦU GUỐN VÀ THÚC LÁ TĂNG KHÔNG PHẨY KHÔNG BẢY PHẦN TRĂM VĂN HÓA GIẢI CHÍ DU LỊCH VÀ GIÁO DỤC
+
+True label :THỐNG GIAO THÔNG THUẬN TIỆN CÁCH ĐƯỜNG PHỐ CHÍNH CẤP
+Predict    :THỐNG GIAO THÔNG THUẬT TIỆN CÁCH ĐƯỜNG PHỐ CHÍNH CẤP
+
+True label :TẠI PHƯỜNG LONG BÌNH
+Predict    :TẠI PHƯỜNG LHĂNG BÌNH
+
+True label :HIỆN LĨNH VỰC TÀI CHÍNH
+Predict    :HIỆN LĨNH VỰC TÀI CHÍNH
+
+True label :TIẾT GIẢM CHI PHÍ CHO DOANH NGHIỆP VIỆC RA MẮT CÁC DỊCH VỤ
+Predict    :TIẾT GIẢM CHI PHÍ CHO DOANH NGHIỆP ĐƯIỀC RA MÁC CÁC DỊCH VỤ
+
+True label :RÕ RÀNG LÀ BRANDY ĐÃ KHÔNG TỐN NHIỀU TIỀN BẠC ĐẦU TƯ VÀO TUYÊN TRUYỀN QUẢNG CÁO Ở MỸ
+Predict    :RÕ RÀNG LÀ TROANDY ĐÃ KHÔNG TỐN NHIỀU TIÊN ĐẠC ĐẦU TƯ VÀO TIYÊN TRUYỀN QUANG CÁO Ở MỸ
+
+True label :CHIẾM HAI MƯƠI TƯ PHẦN TRĂM THỊ PHẦN
+Predict    :CHIẾM HAI MƯƠI TƯ PHẦN TRĂM THỊ PHẦN
+
+True label :DOANH NGHIỆP THÉP VIỆT NAM GẶP KHÓ VÌ CÁC VỤ KIỆN PHÒNG VỆ THƯƠNG MẠI
+Predict    :DOANH NHIỆP THÁC VIỆT NAM CÀ KHÓ VÌ CÁC DỤ KIỆN PHONG VỀ THƯƠNG MẠI
+
+True label :CỤC DỰ TRỮ NHÀ NƯỚC HÀNG DỰ TRỮ QUỐC GIA LUÔN ĐƯỢC
+Predict    :THỘC VIỆU THỮNG NHÀ NƯỚC HÀNG NHIƯ TRƯỢNG QUỐC GIA NUÔN ĐỢC
+
+True label :ĐANG TĂNG NHẸ TRONG NHỮNG NGÀY ĐẦU THÁNG MƯỜI MỘT
+Predict    :ĐANG TĂMG NGHIỆ TRONG NỮNG NÀY ĐẦU THÁNG MƯỜI MỘT
+
+True label :ĐẢNG THỰC HIỆN
+Predict    :ĐẢNG THỰC HIỆN
+
+True label :BỞI NHƯ THẾ CHÚNG TA KHÔNG
+Predict    :BỞY NHÝ THẾ CHÚNG CÁC KHÔNG
+
+True label :TRẺ CÓ CHỦ ĐỘNG MỞ LÒNG VÀ TÌM CÁCH GIẢI QUYẾT KHÔNG
+Predict    :TRẺ CÓ CHU ĐỘNG MỜ LÒN VÀ TIÌNG CKÁCH GIẢI QUYẾT KHÔNG
+
+True label :SẼ CÓ TÁC ĐỘNG TÍCH CỰC VÀ CẢ NHỮNG THỬ THÁCH ĐỐI VỚI NỀN KINH
+Predict    :SẼ CÓ TÁC ĐỘNG TÍCH CỰC VÀ CÀN NHỮNG THỜI THÁC ĐỀA VBẤN LÊN TÍNH
+
+True label :THẾ NHƯNG LỰC LƯỢNG NGỤY QUÂN DO NHẬT TỔ CHỨC
+Predict    :HẾ NHƯNG LƠN LƯỢN NGÀY QUÂN DON NÀM TỔ THỨC
+
+True label :TỔ CHỨC LỄ CÔNG BỐ
+Predict    :TỔ CHỨC LỄA CÔNG BỐ
+
+True label :CẢ CÁC THỦ TỤC QUY ĐỊNH
+Predict    :CẢ CÁC THỘ CỤC QUY NH
+
+True label :VỀ CHƯƠNG TRÌNH HÀNH ĐỘNG CẮT GIẢM CHI PHÍ CHO DOANH NGHIỆP CỦA CHÍNH PHỦ
+Predict    :VỀ TRƯƠNG Ì HÀNH ĐỘNG CÁT GIẢM CHIN PHÍ CÁO DOAN NGHIỆP CỦA CHÍNH PHỦ
+
+True label :VẤN ĐỀ NÀY CẦN SỚM ĐƯỢC GIẢI QUYẾT
+Predict    :VÀ VẤN ĐỀ NÀY CẦN SỐU NƯỚC GIẢI QUYẾT
+
+True label :CÒN TA THÌ LỢI DỤNG CHỖ YẾU MÀ TẤN CÔNG VÀO TẤT ĐẠT ĐƯỢC MỤC TIÊU
+Predict    :CÒN TA THÌ LỰ DỤN CHỖI YẾU VÀ TẤN CÔNG VÀO TẤT ĐẶT ĐƯỢC MỤC TIÊU
+
+True label :QUẢN LÝ PHÔI GIẤY
+Predict    :QUẢN LÝ PHƠI DẤY
+
+True label :TỶ ĐÔ LA MỸ THU NHẬP TỪ THUẾ CHO CHÍNH PHỦ ANH MỖI NĂM
+Predict    :TỶ ĐÔ LA MỸ THU NHẬP TỪ THUẾI CHO CHÍNH PHỦ ANH MỖI NĂM
+
+True label :CÁC TỔ CHỨC CÁ NHÂN HOẠT ĐỘNG TRONG LĨNH VỰC XÂY DỰNG CÓ VI PHẠM NHƯ TỔ CHỨC THI CÔNG
+Predict    :CÁCH TỔ CHỨC CÁ NHÂN HOẠT ĐỘNG TRONG LĨNG VỰC XÂY DỰNG CÓ VI PHẠM NHƯU TỔ CHỨC THÌN CÔNG
+
+True label :TRONG ĐÓ
+Predict    :TRONG ĐÓ
+
+True label :VỪA VÀ NHỎ CỦA VIỆT NAM HỘI NHẬP SÂU HƠN KHÔNG
+Predict    :VỪA LỢ VÀI NHÀO CỦA VIỆT NAM HỘI NHẬT SAU HƠN KHÔNG
+
+True label :VIỆC CHA MẸ TIẾP NHẬN SỰ NŨNG NỊU CỦA TRẺ
+Predict    :VIỆN CHA MẸ TIẾT NHIỆT SỰ NŨNG NIỀU CỦA TRẺ
+
+True label :NĂM HAI NGÀN MƯỜI CHÍNH
+Predict    :NĂM HAI NGÀN MƯỜI CHÍN
+
+True label :NHẬT BẢN SẼ TĂNG NGÂN SÁCH QUỐC PHÒNG LÊN MỨC KỶ LỤC TIN CỦA NHÓM PHÓNG VIÊN THƯỜNG TRÚ ĐÀI TRUYỀN HÌNH
+Predict    :NẬT BÀN SẼ TĂNG NGÂN SÁCH QUỐC PÒNG LẾN MỨC KỶ LỤC TÌN CỦA NHÀNG KHÔNG VIÊN THƯỜNG CHÚ ĐÀ TRYỀN NÌNH
+
+True label :TẠI MỘT SỐ NƯỚC ĐANG CÓ THUẾ SUẤT CAO NHƯ CANADA NEW ZEALAND AUSTRALIA
+Predict    :TẠI MỘT SỐ NƯỚC ĐÀN CÓ THUẾ XUẤT CAO NHIƯN CANABA NHƯNG ZI LAN HỘATRALIA
+
+True label :KIỂM TRA HƯỚNG DẪN CÁC CƠ SỞ KHẮC PHỤC
+Predict    :CẦN TRA HƯỜN DẪN CĂM CƠ SỞ KHÁC PỤC
+
+True label :CÒN KHI CHA MẸ KHÔNG THÍCH NHẬN SỰ NŨNG NỊU CỦA TRẺ THÌ NHƯ THẾ NÀO
+Predict    :CÒN KHI CHA MẸ KHÔNG TẾC NHẬN SỰ NŨNG NIỊU CỦA TRẺ THÌ SẼ THẾ NÀO
+
+True label :ĐÓ CHÍNH LÀ ĐIỀU MÀ CHÚNG TA NHỮNG XỨ THẦN ĐEM ÁNH SÁNG ĐẾN SOI RỌI MUỐN TRUYỀN ĐẠT
+Predict    :ĐÓ CHÍNH LÀ ĐIỀU MÀ CHÚNG TA NHỮNG RƯỚT HẦN ĐA BÁNH SÁNG ĐẾN SAO RỒI MUỐU CRUYỀN ĐẸT
+
+True label :TỚI GIẢM THIỂU Ô NHIỄM MÔI TRƯỜNG
+Predict    :TỚI GIẢM THIỆU Ô NHIỆM MÔI TRƯỜNG
+
+True label :THEO DÕI CHƯƠNG TRÌNH THỜI SỰ TỐI CỦA ĐÀI TRUYỀN HÌNH VIỆT NAM
+Predict    :THAO DÕ CHƯƠNG TRÌNH THỜI SỰC TỐI CỦA ĐÀI THUÊN ÌNH VIỆT NAM
+
+True label :SẼ CHO ĐẠI QUÂN XUẤT QUẦN ĐÁNH DẸP
+Predict    :SẼ CHO ĐẠI QUÂN XUỐT QUÂN ĐÁNH DẸT
+
+True label :HAI NGÀY LÀM VIỆC VỚI TINH THẦN TRÁCH NHIỆM HỘI NGHỊ QUỐC HỘI VÀ CÁC MỤC
+Predict    :CAI NGÀN LÀM VIỆT CÁI TÌNH THẦNH CRÁCH NHIỆM HỘI NGHỊ QUỐC HỘI VÀ CÁC BỤC
+
+True label :NẾU CÁC BẬC CHA MẸ CỨ LÀM HẾT MỌI VIỆC THAY TRẺ VÌ NGHĨ TRẺ LÀ CHƯA BIẾT GÌ
+Predict    :NỀU CÁC BẬC CHA MẸ CỨI LÀM HẾT MỎA VIỆC THAY TRẺ VÌ NGHĨ TRẺ LÀ CHƯA BIẾT GÌ
+
+True label :NHỜ HỘI TỤ NHIỀU YẾU TỐ THUẬN LỢI
+Predict    :NHỜ HỘI TỤ NHỀU YẾU TỐ THẬT LỢI
+
+True label :SAU HAI MƯƠI NĂM SỬ DỤNG BÃI RÁC Ở XÃ LƯƠNG HÒA HUYỆN CHÂU THÀNH TỈNH TRÀ VINH ĐÃ BỊ QUÁ TẢI
+Predict    :SÁU HAI MƯƠI NĂM SỬ DỤNG BÁY GIÁP CỞA XÃ NHƯƠNG HÒA VIỆN TRÂU THÀNH TỈNH TRÀO HINH CÁC BỊ QUÁ TẢI
+
+True label :SẼ TIẾP TỤC ĐẶT NHIỆM VỤ ỔN ĐỊNH VĨ MÔ LÊN HÀNG ĐẦU GIA TĂNG KHẢ NĂNG CHỐNG CHỊU KINH TẾ NHẤT LÀ HỆ THỐNG TÀI CHÍNH VÀ NGÂN HÀNG
+Predict    :SẼ TẾC TỤC CẶC NHIÂN DỤ ỔNG ĐIỂNH HIN NA BÊN HÀNG ĐẦU GIA TĂNG KHẢN NĂMG CHỐNG TRỊ C KIN TẾ NHẤT LÀ HỆ THỐNG TÀI CHÍNH VÀ NÂN HGÀNG
+
+True label :GIẢI QUYẾT VẤN ĐỀ MỘT CÁCH TỔNG THỂ
+Predict    :GIẢI QUYẾT VẤN ĐỀ MỘT CÁCH TỔNG THỂ
+
+True label :THẾ GIỚI LÀ APPLE ENC VÀ GẤP HAI MƯƠI LĂM LẦN LẦN GIÁ TRỊ VỐN HÓA THỊ TRƯỜNG CỦA CÔNG TY GIÁ TRỊ NHẤT
+Predict    :THẾ GIỚI LÀ ÁC BỔ ĐIÊNSI VÀ CẤP HAI MƯƠI LĂM LÀN GIÁ TRỊ VỐN HÓA THỊ TRƯỜNG CỦA CÔNG TY GIÁ TRÍN NHẤT
+
+True label :THAM GIA LỄ VINH DANH PHÓ THỦ TƯỚNG CHÍNH PHỦ VƯƠNG ĐÌNH HUỆ NHẤN MẠNH
+Predict    :THAM GIA LỄ VINH DANH PHÓ THỦ TƯỚNG CHÍNH PHỦ VƯỚNG ĐỊNH HUỆI NHẤN MẢNH
+
+True label :NHÀ PHỐ BIỆT THỰ CAO CẤP KHAN HIẾM GIÁ TĂNG MẠNH
+Predict    :NHÀ PHỐ BIỆT THỮ CAO CẤP KHAN HIẾM GIÁ TĂNG MẠNH
+
+True label :MÀ CHỈ YÊU CHÍNH BẢN THÂN CHA MẸ MÀ
+Predict    :MÀ CHỈ IÊU CHÍNH BẢN THÂN CHA MẸ MÀ
+
+True label :BÂY GIỜ TA KHÔNG ĐÒI CẬU CHÚT THÙ LAO NÀO HẾT BÀ LÃO NÓI
+Predict    :BÂY GIỜ TA KHÔNG ĐỒI CẬU CHÚC CHU LAO NẠU HẾT BÀY LÃU NÓI
+
+True label :NHƯNG KHI TRÒ CHUYỆN VỚI NGƯỜI THÌ CÓ THỂ HỌ SẼ NÓI NÓI NHỮNG ĐIỀU QUÁI LẠ
+Predict    :NHƯ THI TRỜ CHUYỆN VỚT NGƯỜI THÌ CÓC THỂ HÒ CƠ NÓO NHỮNG ĐIỀU QUÁI LẠ
+
+True label :ĐƯỢC BIẾT TRONG GIẤY PHÉP XÂY DỰNG DOANH NGHIỆP NÀY ĐƯỢC XÂY DỰNG
+Predict    :ĐƯỢC NIẾT TRONG GIẤ CHÉC XÂY DỰNG DOANH NGHIỆP NÀY ĐƯỢC XÂY DỰNG
+
+True label :GẮN ĐẦY ĐÁ QUÝ ĐỦ MÀU
+Predict    :NÓNG ĐỂ ĐAO QUY ĐŨNG MẦU
+
+True label :ĐỂ GIẢI QUYẾT DỨT ĐIỂM RÕ RÀNG CÁC TRƯỜNG HỢP NÀY CÁC TRƯỜNG HỢP
+Predict    :ĐỂ GIẢI QUYẾT RẤT ĐIỂM RÕ RÀNG CÁC TRUÊN HỢC NÀY CÁC TRƯỜNG HỢP
+
+True label :ĐIỀU ĐÓ CŨNG ĐỒNG NGHĨA VỚI VIỆC TRẺ KHÔNG THỂ ĐỐI XỬ NHẸ NHÀNG VỚI CHÍNH MÌNH VÀ NGƯỜI KHÁC
+Predict    :ĐIỀU ĐÓ CŨNG ĐỒNG NGHĨA VỚI VIỆC TRẺ KHÔNG THỂ ĐỐI XỬ NHẸN NHÀN VỚI CHÍNH MÌNH VÀ NGƯỜI KHÁC
+
+True label :HỘI NGHỊ TRUNG ƯƠNG SÁU
+Predict    :HỘI NGHỊ CHÚNG MÔNG SÁU
+
+True label :TÌNH TRẠNG XUỐNG CẤP TẠI CÁC KHU CHỢ Ở HÀ NỘI ĐANG NGÀY CÀNG TRỞ NÊN NGHIÊM TRỌNG TIỀM ẨN RẤT
+Predict    :TÌNH TRẠNG DŨNG CẤP TẠI CÁC KHU CHỢ Ở HÀ NỘI ĐANG NGÀY CÀNG TRỞ LÊN NGHIÊM TRỌNG ĐIỀM BẢN SẤTH
+
+True label :TRẺ LUÔN MANG TRONG MÌNH SỰ TÒ MÒ HAM HỌC HỎI
+Predict    :TRẺ LUÔN MANG TRON MÌNH DỰ TO MỎ HĂM HỌC HỎI
+
+True label :ĐOÀN NGHỊ VIỆN NHẬT
+Predict    :ĐAN NGHỊN KIỆN NIẬT
+
+True label :VỚI VAI TRÒ SỨ GIẢ THIỆN CHÍ
+Predict    :VỚI VAI TRÒ SỨ GIẢ KHIỆN TRÍ
+
+True label :CAO ĐÃ KHIẾN CÁC NHÀ ĐẦU TƯ KHÔNG CÒN MẶN MÀ VỚI PHÂN KHÚC NÀY
+Predict    :CAO ĐÃ KIẾN TỨCH NHÀ ĐẦU TƯ KHÔNG CÒN MẬT NÀ VGƯỜI DÂN KHÚC ĐÀY
+
+True label :ÔNG BAN CHO LÝ TẢ SA NGỒI LÊN GHẾ TRÊN
+Predict    :ÔNG BÀN CO LÝ TẢ SXA NGỜI LÊN ĐẾ XÊN
+
+True label :CỤ THỂ HÓA NỘI DUNG ĐIỀU CHỈNH ĐÁP ỨNG YÊU CẦU VỀ QUẢN LÝ ĐẤT ĐAI PHÁT
+Predict    :CHỦ THỂ HÓ NỘI DUNG ĐIỆU CHỊNH ĐÃP VỞNG NHYÊU CẦU VỀ QUẢN LÝ ĐẤT ĐAI PHÁC
+
+True label :CỦA QUỐC HỘI VIỆT NAM ĐỐI VỚI QUỐC HỘI LÀO
+Predict    :KHỦA QUỐC HỘI VIỆT NAM ĐÙI VỚI QUỐC HỘI LÀO
+
+True label :TRONG KHI ĐI TÀU HỎA VÀ Ô TÔ THÌ MẤT TỪ BA MƯƠI TƯ ĐẾN BA MƯƠI LĂM GIỜ LÀ ƯU ĐIỂM KHIẾN MÁY HÚT KHÁCH VÀ TĂNG TRƯỞNG NHANH
+Predict    :TRONG KHI ĐI TẦU HỎA VÀ  TÔ TỈN MẤT TỪ BA MƯƠI TƯ ĐẾN BA MƯƠI LĂM GIỜ LÀ ÔU ĐIỂM KHẾN MÁY BAY KHỐT KHÁCH VÀ TĂNG CHƯỜNG NHANH
+
+True label :QUYẾT CHỐNG THAM NHŨNG TRONG CÔNG TÁC CÁN BỘ TỔNG BÍ THƯ NGUYỄN PHÚ TRỌNG NHẤN MẠNH TẠI HỘI NGHỊ
+Predict    :KUIẾT CHỐNG THAM NỮNG TRONG CÔN TÁC CÁN BỘ TĐỔNG BỸ TƯI NỚI TÔNG TRẶNG NẾN MẠNH TẠI HỘI NGHỊN
+
+True label :TƯỚNG BẤT THẮNG KỈ PHẪN
+Predict    :TƯỚNG BẤT THẮNG THÌ PHẪN
+
+True label :BAN HÀNH BẢNG GIÁ
+Predict    :BAN HÀNH BẢNG GIÁ
+
+True label :CHỦ ĐẦU TƯ HIỆN NAY NGÀY CÀNG
+Predict    :CHỦ ĐẦU TƯ HIỆN NAY NÀY CĂNG
+
+True label :XUẤT CHO VAY MUA NHÀ ĐẤT ĐÃ TĂNG KHÁ CAO SO VỚI
+Predict    :PẤT CHO VÀY MUA NHÀ ĐẤT ĐÃ TĂNG KHÁ CAO SO VỚI
+
+True label :THẤY NHẬT VIỆT ĐƯỢC TRỌNG DỤNG Ở BÊN NÀY TẤT CŨNG TỚI ĐẦU HÀNG MONG CHIẾM ĐƯỢC MỘT VỊ TRÍ
+Predict    :TẤY LẬT VIỆC ĐƯỢC CHỌN DỤNG HỞ BÊN NÀY TẤ TƠ CỦ BÊN ĐẦU HÀNG MÔNG CHỨNG ĐƯỢC MỘT VỊ SRÍ
+
+True label :HOẶC BAN ÂN HUỆ
+Predict    :HOẶC BÀN BÂN HỆ
+
+True label :THƯA QUÝ VỊ TỐI NAY THỦ TƯỚNG NGUYỄN XUÂN PHÚC SẼ RỜI HÀ NỘI LÊN ĐƯỜNG THAM DỰ HỘI NGHỊ CẤP CAO DIỄN ĐÀN HỢP TÁC KINH TẾ CHÂU Á THÁI BÌNH DƯƠNG APEC
+Predict    :THƯA QUÝ VỊ TỚI NAY THỦ TƯỚNG NGUYỄN XUÂN PHÚC SẼ DỜI HÀ NỘI ĐÊN ĐƯỜN TAM DỰ HỘI NGHỊ CẤP CAO DIỄN ĐÀN HỢP TÁC KINH TẾ CHÂU Á THÁC HÌNH DƯƠNG HAP PẾC
+
+True label :VÀ KHÔI PHỤC ĐỊA VỊ CHO THÁI TỬ MỘT MẶT
+Predict    :VÀ KHỐI VỤC ĐIỆU VỊ CHO THÁI TỬ MỘT MẶT
+
+True label :NGA KHÁNH THÀNH TUYẾN ĐƯỜNG DẪN KHÍ ĐỐT DƯỚI BIỂN NỐI GIỮA NGA VÀ THỔ NHĨ KỲ
+Predict    :NGHA KHÁNH THÀNH TUYẾN ĐƯU DẦN THẾ ĐỐT SỂ BIỂN GỚI DẪN ĐÀ CÀ KỐN VÌ
+
+True label :THIẾT LẬP QUAN HỆ NGOẠI GIAO VIỆT NAM NHẬT BẢN
+Predict    :LÀM QUAN HỆ NGOÀI GIAO VIỆT NAM NHẬT BẢN
+
+True label :ĐỐI TƯỢNG CỦA CĂN HỘ DỊCH VỤ THƯỜNG LÀ NHỮNG CHUYÊN GIA NGƯỜI NƯỚC NGOÀI
+Predict    :ĐỠI TỰ CỦA CĂN NỘ DỊCH VỤ THƯỜNG LÀ NHỮNG CHUYÊN GIAO NGƯỜI NƯỚC NGOÀI
+
+True label :BA TRĂM BA MƯƠI LĂM HÉC
+Predict    :BÁN TRĂM BA MƯƠI LĂM HÁC
+
+True label :LẦN NÀY SAU KHI BẮT ĐƯỢC MƯU SĨ NƯỚC TRIỆU LÝ TẢ SA
+Predict    :LẦN NÀY SAU KHI BẮT ĐƯỢC MƯU SĨ NƯỚC TRIỆU LÝ TẢ SA
+
+True label :PHƯƠNG ỨNG PHƯƠNG HƯỚNG VÀ BIỆN PHÁP TĂNG CƯỜNG QUAN HỆ GIỮA HAI ĐẢNG THỜI GIAN TỚI
+Predict    :PƠ ỚNG PHƯƠN HƯỚNG VÀC BIỆN PHÁP TĂNG CƯỜNG QUAN HỆ GIỮA HAI ĐẢNG THỜI GIAM TỚI
+
+True label :PHÓNG VIÊN HẠNH VÂN CÓ MẶT TẠI HIỆN TRƯỜNG SẼ THÔNG TIN THÊM TỚI QUÝ VỊ
+Predict    :PHÒNG NIÊN HÀNH VÂN CÓNG MẶT TẠI LỆN TRƯỜNG SẼ THÔNG TIN THÊN TỪI QUỐY ĐỊ
+
+True label :DỊCH BỆNH ĐANG ĐE DỌA NGÀNH CHĂN NUÔI TRUNG QUỐC ĐẨY GIÁ THỊT LỢN TĂNG CAO
+Predict    :DÍN ĐỘNH ĐANG ĐE DO HẢ NGÀNH TRONG NỒI TRUNG QUỐC ĐẨY GIA TIN LỢ CÁCG CAO
+
+True label :VÀ SÀNG LỌC ĐẢNG VIÊN
+Predict    :VÀ SẢNG LỘP XỐNG ĐẠNG VIÊN
+
+True label :CÓ HÀNG LOẠT ĐỘNG THÁI ĐÁNG CHÚ Ý ĐỂ CHUẨN BỊ VỀ HẠ TẦNG NHÂN SỰ CHỦ CHỐT CHO VIỆC CẤT CÁNH CHÍNH THỨC
+Predict    :CÓ HÀNG LOẠT ĐỘCG THÁI ĐÁNG CHÚ Ý ĐỂ CHUẨN BỊ VỀ HẠ TẦNG NHÂN SỰ CHỦ CHỐT CHO VIỆC TẤT CÁNH CHÍNH THỨC
+
+True label :THÚC TÔN ĐẠI PHU ĐÃ NHƯỜNG NHƯ VẬY VẬY XIN MỜI CẢ YẾN TỬ VÀ THÚC TIÊN SINH
+Predict    :THÚT TƯ TÔNG ĐẠI PHU ĐÁN NHƯỜNG NHƯ BẬY BẬY SI NGƯỜI CẢ IẾN TỬ VÀ THÚNG TIYÊN SINH
+
+True label :CỐ TĂNG LÊN MỨC NĂM MƯƠI SÁU NGHÌN SÁU TRĂM NĂM MƯƠI TÁM TỶ ĐỒNG
+Predict    :CỐ TĂNG MLÊN MỨC NĂM MƯƠI SÁU NGHÌN SÁU TRĂM NĂM MƯƠI TÁM TỶ ĐỒNG
+
+True label :ĐẠT HAI MƯƠI SÁU PHẨY CHÍN TRIỆU TẤN ĐẠT MỘT TRĂM LINH BA PHẦN TRĂM
+Predict    :ĐÃ HAI MƯƠI SÁU PHẨY CHÍN TRƯỆU TẤN ĐẠN MỘT TRĂÁM MINH BA PHẦN TRĂM
+
+True label :QUY ĐỊNH VỀ PHÒNG
+Predict    :QUY ĐỊNH VỆ PHÒNG
+
+True label :CÓ THỂ TRÌ HOÃN TIẾN TRÌNH BÌNH THƯỜNG HÓA LÃI SUẤT
+Predict    :CÓ THỂ CHỈ HOÃN TIN CHỈNH BÌNH THƯƠNG HÓA LÃI XUẤT
+
+True label :TỔNG SỐ TIỀN THUẾ GIÁ TRỊ GIA TĂNG ĐƯỢC HOÀN LÀ SÁU MƯƠI BẢY NGHÌN TÁM TRĂM BA MƯƠI BẢY TỶ ĐỒNG
+Predict    :TỔNG SỐ TIỂN THUẾ GIÁ TRỊ GIA TĂNG ĐƯỢC HOAN LÀ SÁU MƯƠI BẢY NGHÌN TÁM TRĂM BA MƯƠI BẢY TỶ ĐỒNG
+
+True label :TỪ ĐẦU THÁNG MƯỜI
+Predict    :TỪ ĐỒU THÁNG NMƯỜI
+
+True label :VOV TV
+Predict    :VOV TV
+
+True label :SẢN ĐÁNG CHÚ Ý MÀ CHÚNG TÔI VỪA CẬP NHẬT MỜI QUÝ VỊ CÙNG THEO DÕI
+Predict    :Ả ĐÁNG CHÚ Ý MÀ CHÚNG TÔI VƯỪC CẬP NHẬT MỜI QUÝ VỊ CÙNG THEO DÕI
+
+True label :TÁC CHIẾN LƯỢC SÂU RỘNG VIỆT NAM NHẬT
+Predict    :CHIẾN ĐƯỢC SÂU DỰ VIỆT NAM NHỆ
+
+True label :TRÊN CAO LẦN ĐẦU TIÊN XUẤT HIỆN TẠI VIỆT NAM
+Predict    :TRÊN CAO LẦN ĐẦU TÊN XUẤT HIỆN TÀI VIỆT NAM
+
+True label :SAU KHI XEM XÉT BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG
+Predict    :SAU KHI XEM XÉT BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG
+
+True label :PHẦN TRĂM NHU CẦU TRONG NƯỚC ĐÓNG GÓP CAO NHẤT VÀO KIM NGẠCH NÀY LÀ BÌNH DƯƠNG
+Predict    :PHẦN TRĂM NHU CẦU CHO NƯỚC ĐÓNG GÓP CAO NHẤT VỎ KIM NGẠNH NÀY LÃ BÌNH DƯƠNG
+
+True label :TỐ ĐÓ ĐÃ ĐẨY GIÁ BẤT ĐỘNG SẢN LÊN CAO
+Predict    :TỪ ĐÓ ĐÃ ĐẨY GIÁ BẤT ĐỘNG SẢN ĐẾNH CAO
+
+True label :QUÝ VỊ HÃY XEM BẢN THÂN MÌNH CẦN THIẾT PHẢI THAY ĐỔI NHỮNG GÌ NGÀY LẬP TỨC
+Predict    :QUỐI VỊ HÃY XEM MBẢN THÂN MÌNH CẦN THIẾT VẢI THAY ĐỔI NHỮNG GÌ NÀY LẬP TỨC
+
+True label :SẼ TIẾP TỤC VẬN ĐỘNG THÚC ĐẨY CÁC DOANH NGHIỆP VƯƠNG QUỐC ANH TĂNG CƯỜNG ĐẦU TƯ VÀO VIỆT NAM THÚC ĐẨY HỢP TÁC VỚI VIỆT NAM TRONG CÁC LĨNH VỰC KHỞI NGHIỆP
+Predict    :SẼ TIẾP TỤC TẠN ĐỘNG TÚC ĐẨY CÁC DOANH NGHIỆU CƯỀNG CỐ ANH TĂNG CƯỜNG ĐẦU TƯ VÀ VIỆT NAM THÚC ĐẨY HỢP TÁC CỚC VIỆT NAM TRONG CÁC LĨNH VỰC KHỀI NGHIỆU
+
+True label :ĐÃ ĐEM ĐẾN CHO CẬU CẢM GIÁC TƯƠI MÁT
+Predict    :ĐÃ ĐEM ĐẾN CHO CẬU CEN GIÉT TỪ MÉT
+
+True label :CỦA XU THẾ TỰ DO HÓA THƯƠNG MẠI KHÔNG THỂ ĐẢO NGƯỢC VÀ VIỆT NAM CHÚNG TA LÀ MỘT QUỐC GIA NĂNG ĐỘNG VÀ
+Predict    :CỦA SÚ THẾ TỰ DAO HLUÓA THƯƠNG MẠC KHÔNG THÌ ĐÀO NỢC VÀ VIỆT NAM CHÚNG TA LÀ MỘT QUỐC GIA NĂNG ĐỘNG VÀ
+
+True label :CÒN Ở KHU VỰC
+Predict    :CON Ở KHU VỰC
+
+True label :NHƯNG KHÔNG CÒN KỊP NỮA
+Predict    :NHƯNG KHÔNG CÒN KỀM NỮA
+
+True label :CỬA TIỆM ĐANG ĐẦY KHÁCH HÀNG NÊN ÔNG TA YÊU CẦU CHÀNG CHĂN CỪU ĐỢI ĐẾN XẾ TRƯA
+Predict    :CÔ TIỆN ĐAN NỀ KHẮCH THÀY NÂN ÔNG TÂY CẦU TỂ CHĂN CỪU ĐỜI ĐÁNG PHẾ CHƯA
+
+True label :CƯỚP NGÔI HOÀNG ĐẾ NHẤT LÀ NGƯỜI CON THỨ TƯ CỦA CHU NGUYÊN CHƯƠNG YÊN VƯƠNG CHU ĐỆ
+Predict    :CỚC NGỒI GÀNG ĐẾ NHẤT LÀ NGỀ CON THỨ TƯ CỦA TRUNG NGUYÊN CHƯƠNG TUYÊN VƯƠNG CHU ĐỆ
+
+True label :CỞI TRÓI MẠNH MẼ ĐỂ DOANH NGHIỆP GẠO THAM GIA XUẤT KHẨU
+Predict    :TỬ CHỐNG MẠNH MẼ ĐỂ DOANH NGHIỆP CẠO THAM GIA XUẤT KHẨU
+
+True label :VÀ NHÂN DÂN VIỆT NAM ĐÃ DÀNH CHO QUỐC VƯƠNG
+Predict    :VÀ NHÂN DÂN VIỆT NAM ĐÃ DÀNH CHO QUỐC VƯƠNG
+
+True label :TẠI MƯỜI LĂM TỈNH ỦY VÀ TỔ CHỨC ĐẢNG TRỰC THUỘC TRUNG ƯƠNG
+Predict    :ĐẠI MƯỜI LĂM TÁI GUỀN CÁO THỔ CHỨN ĐẢNG CHỰC THUỦC TRUNG ƯƠNG
+
+True label :LÀ CẢM XÚC CƠ BẢN NHẤT
+Predict    :LÀ CẢM XÚC CƠ BẢN NHẤT
+
+True label :THU NẮM TAY VỀ LÀ ĐỂ CÓ SỨC MẠNH NHIỀU HƠN CHO ĐÒN TẤN CÔNG TIẾP THEO
+Predict    :THU LẤM TAY VỀ LÀ ĐỂ CÓ XỨC MẠNH NHIỀU HƠN CHỨ ĐỎN TẤN CÔNG THIẾP THEO
+
+True label :VÌ CHÚNG CHỈ LO CÓ MỖI CHUYỆN ĂN VÀ UỐNG NHƯNG BIẾT ĐÂU CON NGƯỜI CŨNG Y NHƯ THẾ
+Predict    :VỀ CHÚNG CHIẾN NHAO CÓC MỌI CHỰNG ĂN VÀ UỐNG NHƯNG BẾN ĐAU VO NMGƯỜI CÙNG TY NHƯ THẾ
+
+True label :BÊN NÀO CÓ THỂ DÀNH ĐƯỢC CHIẾN THẮNG TRONG CHIẾN TRANH
+Predict    :BÊN NÀO CÓ THỂ GIÀNH ĐƯỢC CHIẾN THẮNG TRONG CHIẾN TRANH
+
+True label :CẬU NGHĨ NHƯNG SAU MỘT LÚC SUY NGẪM CẬU LẠI THẤY CÓ THỂ NGƯỢC LẠI LẮM
+Predict    :CẬU NGHĨ NHƯNG SAU MỘT LÚC XÊN NHẮM CẬU LÃ THẤY CÓ HẸ MỤC LẠI LẮM
+
+True label :CẬU NHÌN TRỜI
+Predict    :CẬU NHÌM TRỜI
+
+True label :TỈNH CAO BẰNG CẦN LÀM TỐT CÔNG TÁC NẮM VÀ DỰ BÁO TÌNH HÌNH
+Predict    :THING CÁC BẰNG CẦ LÀM TỐT CÔNG TÁC NÓM VÀ DỰ LÓO TÌNH HÌNH
+
+True label :CÓ BA NHÀ CHỞ KHÁC NHAU NĂNG LỰC VẬN CHUYỂN BỐN NGHÌN NGƯỜI TRÊN MỘT GIỜ TRÊN MỘT
+Predict    :CÓ BA NHÀ TRỞ KHẤC NHỎ NĂNG LỢC VẦN CHUYỂN BỐN NGHÌN NGƯỜI CHƯ MỘT SỞ TRO MỘT
+
+True label :TÍN HIỆU TÍCH CỰC CHO THẤY NỘI LỰC
+Predict    :NHANH THẾY HƯỢN TẾCH CUỂN SỐ NHẾ NỘI LỢC
+
+True label :BA MƯƠI BA NGÀN NGƯỜI CHÂU TỬ VONG MỖI NĂM VÌ BỆNH NHIỄM
+Predict    :BAN MƠI BA LÀN NGƯỜI CHÂU Â TỪ VÀM MỖI NĂM VỀ BẢY NHỮN
+
+True label :THỰC VÀ NÔNG NGHIỆP CỦA LIÊN HỢP QUỐC CUỐI THÁNG CHÍN ĐÃ RA CẢNH BÁO DỊCH TẢ LỢN CHÂU PHI Ở TRUNG QUỐC CÓ KHẢ NĂNG ẢNH HƯỞNG TỚI CÁC NƯỚC CHÂU Á KHÁC
+Predict    :TUỰC VÀO NĂNG NHIỆP C LÊN HÀ QUỐC HÔI TĂU CHÍN ĐỚC RIA TẢNH BÁO DỊCH TẢ NỘI CHẦU PHIY LỊ TRUNG QUỐC CUỐC PHẢN NĂNG ẢNH HƯỞNG TỚ CÁC ĐỢC TRÔ KHÁC
+
+True label :HIỆP HỘI SẼ TỔ CHỨC
+Predict    :THIỆP HỘI SẼ TỔI CHIẾT
+
+True label :ÔNG GIÀ CHỈ VÀ MỘT NGƯỜI BÁN KEM VỚI CÁI XE KÉO MÀU ĐỎ HAI BÁNH ĐẬU Ở MỘT GÓC BÃI CHỢ KHI CÒN NHỎ
+Predict    :ÔNG GIÀ CHỈ VÀ MỘT NGƯỜA BÁN KÊM VỚI CÁI SẺ KHẾU MỒ ĐÓ HÀI BÁNH ĐẦU Ở MỘT GÓC PHẢI CHỢ KHI CÔN NHỎ
+
+True label :DỰ ÁN HOÀN THÀNH HÀNG NĂM
+Predict    :DỰ ÁN HOÀN THÀNH HÀNG NĂM
+
+True label :TÌM ẨN RỦI RO CHO CÁC THÀNH PHẦN THAM GIA VÀO THỊ TRƯỜNG
+Predict    :TỶ MẦN RỦI GIAO CHO CÁC THÀNH PHẦN THAM GIA VÀ THỊ TRƯỜNG BC
+
+True label :PHƯƠNG KHOÁN TRẮNG CHO MỘT PHÓ CHỦ TỊCH ỦY BAN NHÂN DÂN
+Predict    :PHƯƠNG KHUAN CHẮNG TRONG MỘT PHÓ CHỦ TỊCH ỦY BAN NHÂN DÂN
+
+True label :NHỮNG BÌNH SĨ GIÀ YẾU BỆNH TẬT
+Predict    :NHỮNG BINH SĨ RÀ YẾU VỆNH TẬT
+
+True label :DU LỊCH SINH THÁI BÁI TỬ LONG ĐÃ ĐƯỢC ỦY BAN NHÂN DÂN TỈNH PHÊ DUYỆT NGÀY MÙNG BẢY
+Predict    :KHU LỊCH SINH THẢI BAI TỬ LONG LÀ ĐƯỢC ỦY BAN NHÂN DÂN TỈNH PHÊ DUYỆT NGÀY MƯƠN BẢYG
+
+True label :NHƯNG CHỈ KHI TRẺ CÒN NHỎ
+Predict    :NHƯNG CHỈ KHI TRẺ CÒN NHỎ
+
+True label :MƯA LỚN GÂY NHIỀU THIỆT HẠI CHO CÁC TỈNH MIỀN
+Predict    :MƯƠ LỚN THAN NHIỀU KIẾT HẠI CHÁC THỨC TẾN BÌN
+
+True label :TẠM HÒA HOÃN TRONG THỜI GIAN CHÍN MƯƠI NGÀY ĐỂ TÌM GIẢI PHÁP CHO NHỮNG CĂNG THẲNG THƯƠNG MẠI HIỆN NAY NGAY SAU PHÁT NGÔN CỦA ÔNG CẢNH SẢN ĐỒNG NHÂN DÂN
+Predict    :PHẢM QHUÀA BOÃN TRĂN THỀ GIAN CHẾN QUY NGÀY ĐỂ TẦN GIẢI PHÁP TRON LẪN RĂN THÁNG THƯƠ MẠI HỆN NAY NHÀY SAU PHÁT NHÔN QẢN GÀN SẢN ĐỒNG NHÂ DÂN
+
+True label :QUÂN ĐIỆN KHAI CƯƠNG CHIẾN ĐẤU QUYẾT LIỆT VỚI TỪ TỬ Ở BỒ THỦY
+Predict    :QUÂN ĐIỆN KẢI HƯNG CHIẾN ĐẤU QUYẾT TIỆT TẾT QUÂN TỪ TỬ HÒ ĐỒ TY
+
+True label :PHÒNG VỪA BAN HÀNH QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT ĐỀ CƯƠNG ĐỀ ÁN PHÁT TRIỂN DU LỊCH CỘNG ĐỒNG XÃ
+Predict    :KHÒNG VỪA BAN NHÀNH QUYẾT ĐỊNH VỀ VIỆC V DUIỆT ĐỀ CƯƠNG NỜI ÁM PHÁT TRIỂN DU HỆCH CỘN ĐỒNG XÃ
+
+True label :DOANH NGHIỆP KHÔNG NHỮNG PHẢI CUNG ỨNG NHỮNG SẢN PHẨM VÀ DỊCH VỤ TỐT CHO NGƯỜI TIÊU DÙNG
+Predict    :DOANH NGHIỆT KHÔNG NHỮNG PHẢI CÔNG ỨNG NHỮNG SẢN PHẨM VÀ DỊCH PVỤ TỐT CHO NGỜI TIÊU DÙNG
+
+True label :HÀ NỘI KHÁCH CHƯA MẶN MÀ VỚI THẺ XE BUÝT ĐIỆN TỬ
+Predict    :HÀ NỘI CÁCH TRIÊN NMẠN MÀO CỪU THỚI XẢY BỨC TIỆN TỬ
+
+True label :NGOẠI THÀNH THÌ CŨNG TĂNG
+Predict    :NGOẠI THANH THÌ CỐNG Ứ TĂNG
+
+True label :VÀ CUỐI CÙNG THỦ TƯỚNG CHU ÂN LAI TỎ RÕ QUAN ĐIỂM CỦA MÌNH VẪN NẮM CHẮC TRẬN ĐỊA BAN ĐẦU
+Predict    :BẠM QUYẾN CÙNG THỦ TỨNG CRHUNÂN LAI TỎ SÓ QUAN LIỆC CỦA MÌNH MÀ CẤI NẮM CHÁC TRẺ ĐỂA BAN ĐẦU
+
+True label :CAO HƠN MỨC DỰ KIẾN MƯỜI BỐN PHẦN TRĂM CỦA CÁC NHÀ PHÂN TÍCH ĐƯA RA TRƯỚC ĐÓ
+Predict    :CAO HƠN MỨC SỰ KIẾN MƯỜI BỐN PHẦN TRĂM CỦA GÁN NHÀ PHÂN TÍCH ĐƯA RIA TRƯỚC ĐÓ
+
+True label :XIN ĐƯỢC CHUYỂN SANG NHỮNG NỘI DUNG ĐÁNG CHÚ Ý TIẾP THEO VỚI NGHỊ QUYẾT ĐIỀU CHỈNH KẾ HOẠCH ĐẦU TƯ CÔNG
+Predict    :SẾN ĐƠC CHUYỂN XANG NHỮNG NỘI DUNG ĐÁNG CHÚÝ TẾPTHEO VỚI NGHỊ QUYẾT ĐIỀU CHỈNH KẾ HOẠCH ĐẦU TƯ CÔNG
+
+True label :ÔNG GIÀ KỂ RẰNG TUẦN TRƯỚC ÔNG DƯỚI DẠNG MỘT VIÊN ĐÁ
+Predict    :ÔNG GIÀ KỂ CẲNG CỪNG TRƯỚC ÔNG NGHI DẸP MỘT VIÊN ĐÁ
+
+True label :PHẠT MỘT PHẨY SÁU
+Predict    :PHOẠT MỒN PHẨY SÁU
+
+True label :BẢY MƯƠI MÉT VUÔNG CÓ GIÁ KHOẢNG HAI
+Predict    :ĐẨY NỮN MÍTH VUNG CÓ GIÁ KHOẢNG HAẠCH
+
+True label :VỚI MỘT ĐỨA TRẺ ĐƯỢC COI LÀ ĐỨA TRẺ LÀM ĐƯỢC MỌI THỨ
+Predict    :VỚI MỘT ĐỨA TRẺ ĐƯỢC COI LÀ ĐỨA TRẺ LÀM ĐƯỢC MỌI THỨ
+
+True label :CẦU THẦN LINH PHÙ HỘ CHO MÌNH PHÁT ĐỘNG CHÍNH BIẾN PHẾ TRUẤT NGÔI VỊ CỦA PHỤ VƯƠNG ĐƯỢC THÀNH CÔNG
+Predict    :CẦU THẦN ĐINH CỦA TRONG MÌNH HÁC ĐỘ CHÍNH BIẾN PHẾ TRỚC NÔI VỊ CỘ PVỦ PHƯƠNG ĐƯỢNG THÀNH CÔNG
+
+True label :TUY NHIÊN LỘ TRÌNH TĂNG LÃI SUẤT CỦA CỤC DỰ TRỮ LIÊN BANG MỸ TRONG NĂM NAY VẪN TIẾP TỤC LÀ MỐI LO LẮNG ĐỐI VỚI THỊ TRƯỜNG
+Predict    :TUY NGHIÊN LỘU CHÍNH TĂNG LAN XUẤT CỦA CUỘC DỰ CHẾA LIÊN BANG MỸ TRONG NĂM NÀY VẪN TIẾP TỤC LÀM MỖI LO LẮNG ĐỐI VỚI THỊ TRƯỜNG
+
+True label :TRONG MỌI NHÀ CẦM QUÂN MƯU TRÍ
+Predict    :TRONG MỌA NHÀ CẦM QUÂN MƯU TRÍ
+
+True label :KHÔNG PHẢI LÚC NÀO CŨNG DƯỚI HÌNH DÁNG NÀY NHƯNG TA LUÔN LUÔN XUẤT HIỆN DƯỚI MỘT DẠNG NÀO ĐÓ
+Predict    :CÔN PHẢI LÚC NÀO CŨNG NGHỚI ÀNH NGHÁN NÀY NHƯNG TA LUÔN LUÔN XỨC HIỆN NHỮU LẾT MỘT DIẠN NỜ ĐÓ
+
+True label :VỚI THẮNG LỢI CỦA ĐỘI TUYỂN BÓNG ĐÁ VIỆT NAM
+Predict    :VỐI THÁN MỢN CỦA H TẾC BÔNG TÁ VIỆT NAM
+
+True label :THÌ SỰ HAM HỌC HỎI VÀ TRÍ TÒ MÒ Ở TRẺ VẪN ĐƯỢC HÌNH THÀNH MỘT CÁCH TỰ NHIÊN
+Predict    :THÌ SỰ HAM HỌC HỎI VÀ CHÍ CAN MÒ Ở TRẺ MẪN ĐƯỢC HÌNH THÀNH MỘT CÁCH TỰ NHIÊN
+
+True label :PHẢI XUẤT QUÂN CÓ DANH NGHĨA
+Predict    :PHẢI SUỐT QUÂN CÓ GAI NGHĨA
+
+True label :TRONG ĐÓ CÓ HAI CẢNH SÁT
+Predict    :ĐÓ CỐC KHAI ĐẢN SÁT
+
+True label :ĐỂ ĐƯỢC XOA DỊU ĐI NHỮNG NỖI ĐAU HAY SỰ SỢ HÃI ĐỒNG THỜI
+Predict    :ĐỂ ĐƯỢC RA DỊU LI NHỮNG NỖI ĐAO HAY SỰ SỢ HÃI ĐỒNG THỜI
+
+True label :ĐẦY ĐỦ THEO QUY ĐỊNH CỦA HỒ SƠ YÊU CẦU
+Predict    :TỶ ĐÙ THEO QUY ĐỊNH HỦA CỐ YU ỔI
+
+True label :ĐÃ ĐƯỢC XEM XÉT TẠI CUỘC HỌP VỀ VẤN ĐỀ HỢP TÁC TÀI CHÍNH HỒI CUỐI THÁNG CHÍN
+Predict    :ĐÃ ĐƯỢC XÁM CHÉP TẠI CU HỌP VỚ VẤN ĐỀ HỢP TÁC TÀI CHÍNH HỒI CUỐI THÀNG CHÍN
+
+True label :KHU VỰC CÁC TRANH CHẤP CẦN ĐƯỢC GIẢI QUYẾT BẰNG BIỆN PHÁP HÒA BÌNH TRÊN CƠ SỞ LUẬT PHÁP QUỐC TẾ TRONG THỜI GIAN TỚI
+Predict    :KHU VỰC CÁC TRĂN CHẤP CẦN NDHỊC GIẺ QUYẾT BẢNG BIỆN PHẮP HÒA BÌNH TRÊN CƠ SỞ  LƯỢN PHÁP QUỐC TẾ TRONG THỜ GIAN TỚI
+
+True label :NAM CÓ VAI TRÒ QUAN TRỌNG TRONG TIẾN TRÌNH NÀY CHỦ TỊCH HIỆP HỘI
+Predict    :NAM CÓ VAI TRÒ QUAN TRỌNG TRONG TIẾN TRỊNH NÀY CHỦ TỊCH HIỆP HỘI
+
+True label :CHÍNH SÁCH CUNG ỨNG CỦA MÌNH VỚI CÁC DOANH NGHIỆP VIỆT NAM
+Predict    :CHÍNH SÁCH CUNG HƯỚNG CỦA MÌNH VỚI CÁC DOANH NHIỆP VIỆT NAM
+
+True label :TRÔNG NGƯỠNG BỐN MƯƠI TƯ ĐẾN BỐN MƯƠI TÁM NGHÌN ĐỒNG MỘT KI LÔ GAM
+Predict    :TRONG MƯỚNG BỐI MƯƠI TƯ ĐÊN BỐN MƯƠI TÁM NGHÌN ĐỒNG MỘT KI LÔ GAM
+
+True label :CHỨNG KHOÁN MỸ BỊ BÁN THÁO CŨNG CÓ THỂ ĐÃ GÂY SỨC ÉP LÊN TIỀN ẢO
+Predict    :TRƯỪNG QUÁN MỸ BỊ BAN THÁU CHŨNG CÓ THỂ ĐÀ GÂY SỰ ÉP LÊN TỀ NÀO
+
+True label :HỌ KHÔNG NHỮNG KHÔNG HỀ XUA ĐUỔI KHÁCH HÀNG ĐI
+Predict    :KHỎ KHÔNG NHỮNG KHÔNG HỀ SUA ĐUỔI KHÁCH HÀN ĐI
+
+True label :BẢY PHẨY SÁU TỶ ĐÔ LA MỸ TĂNG BỐN MƯƠI BỐN PHẨY BỐN PHẦN TRĂM SO VỚI CÙNG KỲ HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY
+Predict    :BẢY PHỜY SÁU TỶ ĐÔ LA MỸ TĂNG BỐNƠ BỐN PHẨY BỐN PHẦN TRĂM SO VỚI CÙNG KỲ HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY
+
+True label :BỘ CHỈ HUY KHÔNG GIAN SẼ TÍCH HỢP TẤT CẢ CÁC TIỀM LỰC KHÔNG GIAN CỦA QUÂN ĐỘI MỸ
+Predict    :BỘ CHỞ HY KHÔNG GIAN SẼ TÍCH THỢP TẤT CẢ CÁC TIỂM LỰC KHÔNG GIANG CỘA QUỐN ĐỘI MỸ
+
+True label :HẬU GIANG
+Predict    :HỘP GIANG
+
+True label :ĐỐI VỚI SỰ PHÁT TRIỂN CỦA THƯƠNG MẠI QUỐC TẾ
+Predict    :ĐỐI PHỚY SỬU PHÁT TRIỂN CỦA THƯƠNG MẠI QUỐC TẾ
+
+True label :MƯỜI NĂM VÀ KẾ HOẠCH NĂM NĂM CẦN ĐƯA RA MỘT TẦM NHÌN MỚI VỀ PHÁT TRIỂN NÔNG THÔN XA HƠN TRONG ĐÓ CÁC ĐỊA
+Predict    :MỜI NĂM VÀ KẾC HOẠCH NĂN NĂM KỀN ĐƯA RA MỘT TẦN NHÌN MỚI VỀ PHÁT TRIỂN NÔNG THÔN XA HƠN TRONG ĐÓ CÁC ĐỊN
+
+True label :CHÍNH QUYỀN WASHINGTON VỪA ĐƯA RA TUYÊN BỐ CẤM BÁN CÁC SẢN PHẨM LINH KIỆN PHẦN MỀM
+Predict    :CHÍNH QUYÊNG MA SINH TƠN VỪA ĐƯA GIA TUYÊN BỐ CÔNG BÁN CÁC SẢN PHẨM LIÊNH KIỆN PHẦN MÊN
+
+True label :HỘI NGHỊ TRỰC TUYẾN CỦA NGÂN HÀNG NHÀ NƯỚC
+Predict    :HUỘI NHỊ THỰN KÝ CỘN NÂN HAI NHÀ NƯỚC
+
+True label :BẤT CỨ MỘT NƯỚC NÀO ĐỂ TRỞ THÀNH QUỐC GIA THỊNH VƯỢNG KHẲNG ĐỊNH CỦA THỦ TƯỚNG NGUYỄN XUÂN PHÚC TẠI DIỄN ĐÀN DOANH NGHIỆP VIỆT NAM
+Predict    :BỨCNÝ BẢN NÂC NÀO VỀ CHỤC THÀNH XẢ THỆNH LƯỢNG CÁN ĐẾY CỦ THỦ TƯỚNG NGỚI DUÂNH PHÚC ĐÃ DẤT ĐÀN DOANH NGHIỆP VIỆT NAM
+
+True label :BÂY GIỜ CHƯƠNG TRÌNH THỜI SỰ TỐI CỦA TRUYỀN HÌNH VIỆT
+Predict    :BÂY DA NÀ CHIƠNG TRÌNH THỜI SỐ TỐI CỦA THẠI TRUNG HÌNH VIỆC
+
+True label :HƯỚNG DẪN CHỦ ĐẦU TƯ THỰC HIỆN CÔNG TÁC QUYẾT TOÁN DỰ ÁN HOÀN THÀNH
+Predict    :HÂN DẪN CHỦ ĐẦU TƯ THỰC HIỆN CÔNG TÁC QUIYẾT TOÁN DỰ ÁN HOÀN THÀNH
+
+True label :GIẢM BAI MƯƠI PHẦN TRĂM GIÁ THUÊ TỪ CHÍN HỘ
+Predict    :GIẢM BÁA MƯƠI PHẦN TRĂM GIÁO THUÊ TƯỪNG CHÍ NÓ
+
+True label :NGAY BÂY GIỜ CẦN CỐ GẮNG HƠN
+Predict    :NGAY ĐỂ GIỜ CẦN CỐ GẮNG HƠN
+
+True label :CHỮA BỆNH TRÊN TOÀN QUỐC
+Predict    :SỮỠ BẨN TRÊN TOÀN QUỐC
+
+True label :CHƯƠNG TRÌNH BẤT ĐỘNG SẢN
+Predict    :CHƯƠNG TRÌNH BẤT ĐỘNG SẢN
+
+True label :LUÔN CÓ SỰ ĐỒNG HÀNH CỦA VIỆT NAM VỚI NHỮNG ĐÓNG GÓP TRÁCH NHIỆM VÀ CHẤT
+Predict    :N GOỌA SỰ ĐỒNG NÀY CỦA VIỆT NAM VỚI TẬN GÓ CHỌC NHIỆM VÀ TRẶT
+
+True label :TRONG KHI HIỆP ĐỊNH KHÔNG CÓ ĐIỀU KHOẢN VỀ LAO ĐỘNG CHỈ TĂNG TRUNG BÌNH HAI MƯƠI SÁU PHẦN TRĂM
+Predict    :TRONG KHI HIỆP ĐỊNH KHÔNG CÓ ĐIỀU KHOẢN VỀ LAO ĐỘNG CHỈ TĂNG TRUNG BÌNH HAI MƯƠI SÁU PHẦN TRĂM
+
+True label :VIỆC AI ĐÓ CÓ THỂ SỐNG SÓT QUA NHỮNG TRẢI NGHIỆM TƯỞNG NHƯ CẬN KỀ CÁI CHẾT
+Predict    :VIỆ KÁI ĐÓ CÓ THỂ SỐNG RÁT QUA NHỮNG TRẢI NGHIỆM TƯỜNG NHƯ CẦN KỂ CÁI CHẾT
+
+True label :THẾ NHƯNG HIỆN TẠI NGHỀ CÁ TẠI ĐÂY ĐANG GẶP NHIỀU BẤT CẬP
+Predict    :THẾ NHƯNG NHỆ TẠI NGỀ CÁ TIĐÂY ĐANG GẶP NHIỀU BẤT CẬP
+
+True label :LÀM MỨC CAO THỨ HAI KỂ TỪ CUỐI NĂM HAI NGÀN KHÔNG TRĂM MƯỜI SÁU
+Predict    :LÀ MỨC CÀO THỨ HẠI TỀ TỰC CUỐI NĂM HAI NGÀN KHÔNG TRĂM MƯỜI SÁU
+
+True label :XUỐNG MƯỜI BỐN PHẨY TƯ TỶ ĐÔ LA MỸ TRONG QUÝ BA NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+Predict    :XUỐNG MƯỜI BỐN PHẨY TƯ TỶ ĐÔ LA MỸ TRONG QUÝ BA NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+
+True label :PHỐ QUẢN LÝ GIÁM ĐỐC SỞ XÂY DỰNG THÀNH PHỐ
+Predict    :CHŨ QUẢN LÝ GIÁM NẤP SỞ XÂY DỰNG THÀNH PHỐ
+
+True label :SAU ĐÂY LÀ
+Predict    :SAU ĐÂY LÀ
+
+True label :VẬY LÀ GIA CÁT LƯỢNG ĐỐI MẶT VỚI KẺ ĐỊCH LỚN
+Predict    :VẬY LÀ GIA CÁC LƯỢN ĐỐI MẶT VỚI KẺ ĐỊCH LỚN
+
+True label :NGƯỜI MẸ ẤY
+Predict    :NGƯỜI MÃ ẤY
+
+True label :BẮT ĐẦU CUỘC BAO VÂY TẤN CÔNG LẦN THỨ BA ĐỐI VỚI HỒNG QUÂN TRUNG QUỐC
+Predict    :BẮT ĐẦU CUỘC BAO VÂY TẤN CÔNG LẬN PHỨ BA ĐỐA MỚI HÔNG QUÂN TRUNG QUỐC
+
+True label :VÀ QUYỀN SỬ CHO NGƯỜI KHÁC ĐỐI VỚI CÁC TRƯỜNG HỢP LẬP VI BẰNG
+Predict    :VA QUYỀN SỞ HƯỮNG TRONG NGHỜI TÁC ĐỠ VỜI CÁC THƯƠNG HỢP LẬT TI BẰNG
+
+True label :CẬU BÉ CON CÔ BẠN TÔI CHỈ MỈM CƯỜI MÀ CHẲNG CÓ BIỂU CẢM PHẢN ỨNG GÌ ĐẶC BIỆT
+Predict    :CẬU BẸ CON CỦA BẢN TÔI CHỈ NHÌN THƯƠI MÀ CHẲNG CÓC ĐIỂU CẢM PHẢ ỨNG GÌ ĐẶC ĐIỆP
+
+True label :LÚC NÀO CŨNG CỐ GẮNG ĐỂ VƯƠN LÊN PHÍA TRƯỚC
+Predict    :LÚC NÀO CŨNG CỦA GÁNG ĐỂ VUƯƠN LỀN PHÍ TRƯỚC
+
+True label :CÓ THỂ ĐẤU GIÁ KHOẢNG MỘT TRĂM CHÍN MƯƠI BA PHẨY BỐN MƯƠI MỐT HECTA
+Predict    :CÓ THỂ ĐẤU GIÁ KHOẢN MỘT TRĂM CHÍN MƯƠT BA PHẨY BỐA MƯƠI MÔ HECTA
+
+True label :MUỐN LÀ BẠN CỦA NHỮNG NGƯỜI GIỎI NHẤT VÀ DÂN TỘC VIỆT NAM CÓ KHÁT VỌNG MÃNH LIỆT KHÔNG THUA KÉM BẤT CỨ MỘT
+Predict    :MÚN LÀ BẠNG CÔA NHỮNG NGƯỜI GỌO NHẤT VÀ DIÊN TỘC VIỆT NAM CÓ KHÁC PHỌNG MÃNH LIỆN KHÔNG THỐ CÁN BẤC CỨU MỘT
+
+True label :HÀN TÍN HẤY LÝ TẢ SA NÓI CŨNG CÓ LÝ BÈN NGHE THEO LỜI GÓP Ý
+Predict    :HÀN TÍN THAY LÝ TẢSA NÓI CÔ CO LÝ ĐÈNG NGHE THEO LỢI PHÁP KÝ
+
+True label :TƯ CỦA VIỆT NAM MỘT CÁCH SÂU RỘNG ĐÓ MỚI CHÍNH LÀ LỢI ÍCH TOÀN DIỆN VÀ TIẾN BỘ LÂU DÀI CHO NGƯỜI DÂN
+Predict    :TƯ CỦA VIỆT NAM CƯC CÁC SAU RỘNG ĐÓ MƯƠI CHÍNH LÀ LỄY TOÀN DIỆN VÀ KIẾN BỘ LÂU DÀI CHO NGƯỜI DÂN
+
+True label :VÀ ĐẶC BIỆT LÀ ĐỂ CÁC DOANH NGHIỆP NƯỚC NGOÀI CÓ TIỀM LỰC
+Predict    :VÀ ĐẶC BIỆT LÀ ĐỂ CÁC DOANH NGHIỆP NƯỚC NGOÀI CÓ TIỀM LỰC
+
+True label :BIẾT CÁCH YÊU THƯƠNG BẢN THÂN VÀ NGƯỜI KHÁC
+Predict    :BIẾT CÁCH YÊU THƯƠNG BẢN THÂN VÀO NGƯỜI KHÁC
+
+True label :GIẢM BỚT SỰ PHIỀN HÀ
+Predict    :GIẢM BỚT SỰ VIÊN HÀ
+
+True label :SONG ĐÂY VẪN LÀ QUỐC GIA TIÊU THỤ
+Predict    :SONG ĐÂY VẤT LÀ QUỐC GIA TIÊU THỤC
+
+True label :KỶ NIỆM BẢY MƯƠI TƯ NĂM NGÀY THÀNH LẬP QUÂN ĐỘI NHÂN DÂN VIỆT NAM HÔM NAY
+Predict    :KỈN NIỆN BẢY MƯI TƯ NĂM NGÀY THÀNH LẬP QUÂN ĐỘI NHƯN DÂN VIỆT NĂNG HÔM NAY
+
+True label :HAY LÀ ĐƯỢC LẤY CON GÁI NHÀ BUÔN VẢI HAY SAO
+Predict    :THÌ LÀ ĐƯỢC LẤY CON GÁI NHÀ BUNG VẢI Ì SAO
+
+True label :LÝ QUANG BẬT LÂU NAY VẪN CỐ THỦ GIỮ THÀNH KHIẾP SỢ DÃ CHIẾN
+Predict    :LÝ QUANG BẬT LÔN NAY BẤN QUỐNG THỦ DỰ THÀNH THIẾP CHẠT RÁ CHIẾN
+
+True label :NHANH CHÓNG BUỘC ĐẠI QUÂN CAN ĐAN PHẢI RÚT LUI
+Predict    :NHANH TRÓNG BỘ ĐẠI QUÂN CAN ĐANG PHẢI RÚT LUI
+
+True label :ĐỂ XỬ LÝ CÁC VI PHẠM
+Predict    :ĐỂY XÂU LÝY CÁC VI PHẠM
+
+True label :VỊ QUAN DƯỚI CỦA MIÊU PHÓ LÀ PHÓ TÚC
+Predict    :VI QUAN DƯỚI CỦA MIÊU PHÓ LÀ PHÓ TÚC
+
+True label :QUÂN ĐỘI NHÂN DÂN VIỆT NAM
+Predict    :QÂN ĐỘI NHÂN DÂN VIỆT NAM
+
+True label :ĐƯỢC DƯ LUẬN XÃ HỘI HẾT SỨC QUAN TÂM KHÔNG CHỈ BỞI QUY MÔ MỨC
+Predict    :ĐỀ DU LUẬN XÃ HỘI HUẾT SỨ QUAN TÂNG KHÔNG CHỈ BỞI QUY MÔ
+
+True label :NẾU KHÔNG BẮT ĐƯỢC LÝ QUANG BẬT THÌ ÔNG ĐỪNG CÓ QUAY VỀ GẶP TA
+Predict    :NẾU KHÔNG BẮT ĐƯỢC LÝ QUANG BẬT TIẾM ĐƯƠNG CÓ QUAY VỀ ĐẶC TA
+
+True label :NHẰM TIẾP TỤC XÂY DỰNG VÀ HOÀN THIỆN NHÀ NƯỚC PHÁP QUYỀN XÃ HỘI CHỦ NGHĨA
+Predict    :NHẰM TIẾP TỤC XÂY DỰNG VÀ HOÀN THIỆN NHÀ NƯỚC PHÁP QUYỂN XÃ HỘ CHỦ NGĨA
+
+True label :TRONG VÒNG NĂM NĂM TỚI DO LỢI NHUẬN GIẢM
+Predict    :TRONG VÒNG NĂM NĂM TỚI SO LỢI ĐỘN GIẢM
+
+True label :TRA NẮM TÌNH HÌNH
+Predict    :GIEO NGẰM THÀNH NHÊN
+
+True label :CHÍNH BỞI XÁC ĐỊNH KHÁCH HÀNG MỤC TIÊU CỦA MÌNH LÀ NGƯỜI NHẬT NÊN
+Predict    :CHÍNH BỞI XÁC ĐỊNH KHẾCH HÀNG TIÊU CỦA BỀN NHÀ NGƯỜI NHẬT NÊN
+
+True label :CHO BẤT ĐỘNG SẢN
+Predict    :TÁO BẤT ĐỘNG SẢN
+
+True label :CHỊU ĐỠ SỨC NẶNG CỦA CỖ XE NƯỚC NHÀ
+Predict    :CHIẾU ĐỘ SỨC MẶNG CỦA CỖ XE NƯỚC NHÀ
+
+True label :NHANH CHÓNG GIÀNH THẮNG LỢI VÌ VẬY TRƯỚC HẾT CẦN PHÁN ĐOÁN CHÍNH XÁC SỰ PHÂN CHIA LỰC LƯỢNG CỦA ĐỐI PHƯƠNG
+Predict    :NHEN CHÓNG GIẢNH THÁ LỢI VÌ VẬY TRƯỚC HIẾT GẦN PHÁN ĐOÁN CHÍNH XÁC SỰ TÁN CHIỆT LỰC LƯỢN CỦAĐỐI PHƯƠNG
+
+True label :THỦ TƯỚNG CŨNG ĐỒNG THỜI ĐỀ NGHỊ PHÚ YÊN
+Predict    :THỦ TƯỚNG KHŨNG ĐỒNG THƯỜI ĐỀ NGHÝ PHU YÊN
+
+True label :MỘT NGƯỜI BÌNH THƯỜNG SAU HƠN HAI MƯƠI NĂM MANG KHỐI U TRÊN MẶT
+Predict    :PHỦN MỘC MUƯỜI BÌN THỜI SAU HƠN HAI MƯƠI NĂM MÀNG KHÔ  TRÊN MẶC
+
+True label :KÉO LÙI TĂNG TRƯỞNG KINH TẾ TOÀN CẦU MÀ SẢN LƯỢNG DẦU CỦA CÁC NƯỚC SẢN XUẤT
+Predict    :ĐÉM LÔI TĂNG TRIỞN KINH ĐẾ TOÀN CẦU MÀ SẢN LƯỠNG DẦU CỦA CÁC NƯỚC SẢN XUẤT
+
+True label :THEO ĐIỀU TRA
+Predict    :THEO ĐIỀU TRAO CỘC
+
+True label :BÀY TỎ TIN TƯỞNG ĐẢNG CỘNG SẢN NHẬT BẢN SẼ TIẾP TỤC ĐẠT ĐƯỢC NHIỀU THÀNH CÔNG TRONG VIỆC THỰC HIỆN NGHỊ QUYẾT ĐẠI HỘI LẦN THỨ HAI BẢY VÀ CƯƠNG LĨNH
+Predict    :VỀY TẢO TIN TƯỜNG ĐAN CỘNG SẢN NHẬT BẢN CHẼ TIẾP TỤC ĐẶN C LIỀU THÀNH CÔNG TRONG VIỆC THỰC HIỆN NGHỊ QUYẾT ĐẠI HỘI ĐẦN THỨ HAI BẢY VÀ CÔNG LỊNH
+
+True label :LẦN ĐẦU TIÊN KHI TA LIỀU CHƠI ĐỎ ĐEN
+Predict    :LƠNG ĐÔ TẾN KHI TAO LỀU CHRỜI ĐÓ ĐÊN
+
+True label :BÍ THƯ TRUNG ƯƠNG ĐẢNG CHỦ TỊCH NHÓM NGHỊ SỸ HỮU NGHỊ VỚI VIỆT NAM CỦA
+Predict    :THƯ TRUNG ƯƠNG ĐẢNG CHỦ TỊCH NÓU NGHI SĨ HÔI NGHỊ CỐI VIỆT NAM CỦA
+
+True label :CÁC CHUYÊN GIA ĐÃ CHỈ RA NHIỀU VẤN ĐỀ PHÁP
+Predict    :CÁCHYÊN GIA ĐÃ CHỈ RA NHIỀU VẪN ĐỀ PHÁP
+
+True label :BÁO CÁO SỐ HAI MƯƠI TƯ CỦA HỘI ĐỒNG NHÂN DÂN THÀNH
+Predict    :BÁO CÁO SỐ HAI MƯƠI TƯ CỦA HỘI ĐỒNG NHÂN DÂN THÀY
+
+True label :NHƯNG VỚI LÝ DO CHÍNH ĐÁNG NHƯ VÌ MUỐN BẢO VỆ CON
+Predict    :NHƯNG VỚI LÝ RO CHÍNH ĐÁNG NHƯ VÌ MUỐN BẢO VỆ CON
+
+True label :ÁP DỤNG NGUYÊN GIÁ THUÊ NHÀ BIỆT THỰ THEO HẠN TƯƠNG ỨNG NẾU HAI HỘ
+Predict    :ẮC DỤNG NGUYÊN GIÁ THUÊ ĐHÀ BỊN TỰ THEO HẠNG TƠNG LÚI NIỀU HAY HỎ
+
+True label :TỔ CHỨC TÍN DỤNG ĐEN NÀY CHO ĐỐI TƯỢNG NGUYỄN ĐỨC THÀNH PHỐI HỢP VỚI NGUYỄN CAO THẮNG MỞ CÔNG TY TÀI CHÍNH NAM LONG
+Predict    :TỔ CHỨC TIẾN DỤNG ĐEN NÀY SE ĐỐI TƯỢNG NGUYỄN ĐỨC THÀNH PHỐI HỢP VỚI NGUYÊN CƠU THÁNG MÀ CÔNG TY TẢI CHÍNH NÀM LÔNG
+
+True label :TỤT MỘT BẬC SO VỚI NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY
+Predict    :TỪ MỘT BỘT SO VỚI NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY
+
+True label :CÒN BỎ TRỐNG Ở VÀI NƠI
+Predict    :CÒN BỎ CHỐNG Ở VÀI NƠI
+
+True label :THÌ CHA MẸ LẠI CÀNG GIA TĂNG NHỮNG TỪ RA LỆNH ĐỂ BẮT CON LÀM THEO Ý MÌNH
+Predict    :THÌ CHA MẸ LẠI CÀNG GIA TĂNG NHỮNG TỪ RA LỆNH NỂ BẮT CON LÀM THEO Ý MÌNH
+
+True label :TRĂM TỶ ĐÔ LA MỸ TRONG MƯỜI NĂM CỦA TỔNG THỐNG MỸ DONALD TRUMP
+Predict    :TRONG TỶ ĐÔ LA MỸ TRONG MƯỜI NĂM CỦA TỔNG TÁMG MỸ ĐÔ NA TRĂM
+
+True label :MỨC TRẦN NGUỒN VỐN VAY NƯỚC NGOÀI SẼ TĂNG TỪ BA TRĂM NGHÌN TỶ ĐỒNG LÊN TỐI ĐA BA TRĂM SÁU MƯƠI NGHÌN TỶ ĐỒNG
+Predict    :MỨC TRẦN NGUỒN VỐN VÀY NƯỚC NGOÀI SẼ TĂNG TỪ BA TRĂM NGHÌN TỶ ĐỒNG LÊN TỐI ĐA BA TRĂM SÁU NÔƠI NGHÌN TỶ ĐỒNG
+
+True label :MÀ THÀNH VẪN CHƯA LẤY ĐƯỢC ĐÓ LÀ CÁI THIỆT HẠI CỦA SỰ ĐÁNH THÀNH
+Predict    :MÀ THANH VẪN TRON LẤI ĐƯỢC ĐÓ LÀ CÁC THIỆT HẠI CỦA SỰ ĐÁNH THÀNH
+
+True label :CẬU QUEN BIẾT NHIỀU NGƯỜI Ở VÙNG NÀY CẬU THÍCH ĐI NHIỀU CŨNG VÌ THẾ LUÔN LUÔN KẾT ĐƯỢC BẠN MỚI
+Predict    :CẬU LAN BIẾT NHIƯU NGỪA VÙNG NÀY CẬU KHÁTH ĐIN NHIỀU CŨNG VÌ THẾ LÔN RỒNG KÁT ĐƯỢC ĐẶNG MỚI
+
+True label :TUYẾN VỚI MƯỜI CHUYÊN KHOA UNG BƯỚU NGOẠI CHẤN THƯƠNG TIM MẠCH
+Predict    :TIẾN VỚI NGƯỜI TRÂN QUA LÀ U BẾU LẠI CHẤN THƯƠNG TIÊM MẠNH
+
+True label :THÌ NHẤT ĐỊNH PHẢI CÓ CẬU SẼ TÌM THẤY Ở ĐẤY CÁI KHO TÀNG KHIẾN CẬU GIÀU TO
+Predict    :THÌ NHẤT MỊNH VÀI CÓ CẬU SẼ TIỂM THÁY LÒ ĐẤY KHẾT HO TÀN CHÍN CẬU GIỜO TO
+
+True label :THẤP NHẤT TRONG LỊCH SỬ NHƯNG VẪN CHƯA ĐỦ ĐỂ KÉO GIÁ BẤT ĐỘNG SẢN HẠ XUỐNG
+Predict    :CẤP NHẤT TRONG LỊCH Ử NHƯNG VẪN CHƯA ĐỦ ĐỂ KÉO GIÁ BẤT ĐỘNG SẢN HẠ XUỐNG
+
+True label :KHÔNG GIAN CHUNG
+Predict    :KHÔNG GIAN TRUNG
+
+True label :BA LÀ TƯỚNG SĨ TRÊN DƯỚI ĐỒNG TÂM HỢP NHẤT THÌ SẼ THẮNG
+Predict    :BÀ LÀ TƯỨNG SĨ CHIẾN DƯỚI ĐỒNG TÂM HỢP NHẤT THÌ SẼ THẮNG
+
+True label :NGƯỜI LÀM BÁO VIỆT NAM KHÔNG ĐƯỢC ĐĂNG TẢI GỠ BÀI VIẾT HÌNH ẢNH ÂM THANH TRÊN MẠNG XÃ HỘI
+Predict    :NGƯỜI LÀM BÁO VIỆT NAM KHÔNG ĐƯỢC ĐĂNG TẢI GỖ ĐÀI VIẾT KYÊN ÀNH TAN THÀNH TRIÊN MỘNG XÃ HỘI
+
+True label :MỚI ĐÂY THÀNH ỦY THÀNH PHỐ
+Predict    :MỜI ĐƠI VHIỀN HỦY THÀNH PHỐ
+
+True label :NGÀY QUA NGÀY NHỮNG VIỆC TRẺ BIẾT LÀM LẠI TĂNG LÊN
+Predict    :NÀY CUAN NGÀY NHỮNG ĐỊC TRẺ BIẾT LÀM GẠI TĂNG LÊN
+
+True label :VẪN SẢN XUẤT Ở QUY MÔ NHỎ
+Predict    :PUẪN SẢN XUẤT Ở QUY NMÔI NHỎ
+
+True label :ĐỀU KHẨN TRƯƠNG GIẢI PHÓNG MẶT BẰNG THƯỜNG XUYÊN ĐÔN ĐỐC TIẾN ĐỘ
+Predict    :ĐỂC KHOẦN TRƯNG GIẢI PHỐ À BẰNG THƯỜNG XÊN ĐÔC ĐỐC TIẾN ĐỘ
+
+True label :VÍ DỤ
+Predict    :NÍ DỤ
+
+True label :PHÁT TRIỂN DỰ ÁN VÀ PHÂN TÍCH
+Predict    :PÁT TRIỂN DỰ ÁN VÀ THYẾT TỊNH
+
+True label :TRĂM MƯỜI TÁM MÃ LỰC ĐẤT NỀN
+Predict    :TRĂM MƯỜI TÁM MÀ LƯỢC ĐẤT NỀN
+
+True label :TRĂM HỘ
+Predict    :TRONG NGỘ
+
+True label :BIẾT RẰNG TẰNG TỔ CỦA NGƯỜI HỒI HỘT TỪNG CÙNG TRIỀU ĐƯỜNG DẸP LOẠN YÊN XỬ
+Predict    :BIẾT RẰNG TĂNG TỔ CỦA NGƯỜI HỒI HỘT TỪNG CÙNG TRIỀU ĐƯƠNG GIẸC LẠI YÊN XỬ
+
+True label :XÁC ĐỊNH ĐÂY LÀ NHIỆM VỤ TỰ THÂN ĐỒNG THỜI CÓ BƯỚC
+Predict    :SÁN ĐỊNH ĐÂY LÀ NHỊP VỤ TỨ THÂN ĐỒNG THỜI CÓ BƯỚC
+
+True label :ĐỂ ĐẢM BẢO AN TOÀN PHÁI TRƯỜNG TÔN THÀNH DẪN MỘT ĐOÀN QUÂN HỘ TỐNG CÔNG CHÚA ĐẾN ĐỘT QUYẾT
+Predict    :ĐỂ ĐÀM BẢO AN TOÀN PHÁI TRƯỜNG TÔI THÀNH DẪN MÚC ĐOÀN QUÂN VỦ TÔNG CÔNG CHÚ ĐẾN ĐỘT QUYẾT
+
+True label :PHÚ TỌNG BAN BÍ THƯ ĐÃ HỌP CHO Ý KIẾN ĐỐI VỚI TỜ TRÌNH
+Predict    :CƠ TRÒNG BA MƠY THỜ ĐẠ HỌP CHO Ý KIẾN ĐƯỚI VIẾT ĐƯỢ TRÌNH
+
+True label :CHÍNH PHỦ VIỆT NAM KHUYẾN KHÍCH CÁC DOANH NGHIỆP VÀ CÁ NHÂN NƯỚC MÌNH ĐẦU TƯ VÀO CÁC ĐỊA BÀN CÓ QUAN HỆ HỢP TÁC TRUYỀN THỐNG
+Predict    :CHÍNH PHỦ VIỆT NAM KHUYÊN KÍCH CÁC DOAN NGHIỆP VÀ CÁM NHÂN NƯỚC MÌNH ĐẦU TƯ VÀO CÁC ĐỊ BÀN CÓ QUAN HỆ HỢP TÁC TRIỀN THỐNG
+
+True label :DỐC SỎI PLÂYKU HAI
+Predict    :NẤC SÁI KÊ PHÙ HAI
+
+True label :MỸ SẼ ÁP ĐẶT MỨC THUẾ QUAN MƯỜI PHẦN TRĂM HOẶC HAI MƯƠI NHĂM PHẦN TRĂM LÊN GÓI HÀNG HÓA
+Predict    :MỸ XẼ ĐẠT MỨC THẾ QUAN MƯỜI PHẦN TRĂM HOỌT HAI MƯƠI NHĂM PHẦN TRĂM NHÂN GÓI HÀNG HÓA
+
+True label :TOÀN QUÂN VI THƯỢNG
+Predict    :TOÀN QUÂN VI THƯỢCG
+
+True label :VÀ THỊ TRƯỜNG CHỨNG KHOÁN TIẾP TỤC GIẢM THÌ GIÁ NHÀ ĐẮT ĐỎ TẠI HỒNG KÔNG CÓ THỂ GIẢM ÍT NHẤT MƯỜI LĂM PHẦN TRĂM
+Predict    :VÀ THỊ TRƯỜNG CHỨNG KHOÁN TIẾP TỤC GIẢM THÌ GIÁ NHÀ ĐÁT ĐỎ TẠI HỒNG CÔNG CÓ THỂ GIAM ÍN NẤT MƯỜI LĂM PHẦN TRĂM
+
+True label :PHÁ VỠ QUÂN NGŨ CỦA ĐỊCH CHỈ LÀ THỨ SÁCH VÌ THẾ
+Predict    :THÁ VỠ QUÂN NGŨ CỦA ĐỊCH CHỈ LÀ THỨ SÁCH VÌ THẾ
+
+True label :GIÚP CHJO LƯU BANG GIÀNH ĐƯỢC THẮNG LỢI TRONG CHIẾN TRANH SỞ HÁN NGOÀI RA ĐỐI VỚI HÀN TÍN MÀ NÓI
+Predict    :SÚP CHO LƯU BANG GIÀNH ĐƯỢC THẮNG LỢI TRONG CHIẾN TRANH SỞ HÁNG NGOÀI RA ĐỐI VỚI HÀN TÍN MÀ NÓI
+
+True label :Ở NGÔI TRƯỜNG NÀY
+Predict    :Ở MÔI TRIỀN NÀY
+
+True label :TĂNG MƯỜI HAI PHẦN TRĂM NHẬT BẢN HAI PHẨY TÁM MƯƠI NHĂM TỶ ĐÔ LA MỸ
+Predict    :TĂNG MƯỜI HAI PHẦN TRĂM NHẬT BẢN HAI PHẨY TÁM MƯƠI NHĂM TỶ ĐÔ LA MỸ
+
+True label :QUYẾT LIỆT SẮP XẾP BỐ TRÍ NHÂN SỰ LÃNH ĐẠO PHÙ HỢP VỚI NĂNG LỰC
+Predict    :QUYẾT IỆC SẮT XẾT BỐ KIẾN NHÂN SỰ LÃNH ĐẠO PHỦA HỢP VẾI NĂM LỢC
+
+True label :TRONG KHUÔN KHỔ CHUYẾN THĂM CHÍNH THỨC
+Predict    :TCRONG KHUÔN KHỔ CHUYÊN THĂM CHÍNH TẾC CA MỘT
+
+True label :HOẶC XÂY DỰNG DỞ DANG RỒI ĐỂ ĐÓ
+Predict    :CUỘC XÂY DỰNG SỞ RAN GỜI ĐẾ ĐÓ
+
+True label :CHUYẾN RA BIỂN
+Predict    :CHUIẾN RAO BIỂN
+
+True label :ĐỂ GIÚP TRẺ TỰ MÌNH PHÁT HIỆN
+Predict    :ĐỂ GIÚP TRẺ TỰ MÌNH PHÁT HIỆN
+
+True label :QUỐC GIA LẤY HỘI NHẬP
+Predict    :QUỐC GIA ĐẤN LÔ NHẬP
+
+True label :CÁC ƯU ĐÃI ĐỘT PHÁ CHO NGƯỜI DÙNG
+Predict    :CẤT U ĐÃI ĐỘT PHÁ DON NGỬI RỒNG
+
+True label :CỦA BAN CÔNG TÁC MẶT TRẬN VÀ NHÂN DÂN HAI KHU DÂN CƯ TRONG VIỆC THỰC HIỆN CÁC CUỘC
+Predict    :CỦA BAN CÔNG TÁC MẠT CHẬN CÀ NHÂN DÂN KHAI CÓ DÂN TƯ TRONG VỀ THỰC HIỆN CÁC QUỐ
+
+True label :CHA MẸ CÀNG KHÔNG TIẾP NHẬN SỰ NŨNG NỊU TỪ TRẺ
+Predict    :CHA MẸ CÀNG KHÔNG TIẾC NHẬN SỰ NŨNG NIỀU TỪ TRẺ
+
+True label :ĐÊM QUA ÔNG ẤY ĐÃ TRỞ VỀ HÀ THÀNH RỒI
+Predict    :ĐÊN QUA CÓN MẤY ĐÉT TRỞ VỀ HÀ HANH RỒI
+
+True label :TẾ XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM HAI NGHÌN
+Predict    :TẾ XÃ HỘI VÀ DỰ TOÁN NHÂN SÁCH NHÀ NƯỚC NĂM HAI NGHÌN
+
+True label :CÁC CÔNG TRÌNH LOẠI NÀY SẼ
+Predict    :TỚC CHÔNG TRÌNH LOẠI NÀYH SẼ
+
+True label :NHÂN CHUYẾN THĂM VIỆT NAM
+Predict    :NHÂNG CHIẾN THĂNG VIỆT NAM
+
+True label :CỦA TRUNG QUỐC BỊ BẮT GIỮ TẠI VANCOUVER CANADA TẠI CUỘC GẶP TRUNG QUỐC ĐÃ YÊU CẦU
+Predict    :CỦA TRUNG QUỐC BỊ BẮC GIỮ TẠI VÀNH THU VE CANNADA TẠI CUỘ GẠC TRUNG QUỐC ĐÃ YÊU CẬU
+
+True label :CŨNG NHƯ THÂM NHẬP VÀO THỊ TRƯỜNG MỘT CÁCH THUẬN LỢI HƠN
+Predict    :CŨNG NHƯ THEM NHẬP VÀ THỊ TRƯỜNG MỘT CÁCH THUẬN LỢI HƠN
+
+True label :TA SẢN XUẤT HOA CÂY KIỂNG
+Predict    :TA SẢN XUẤT HOA TÂY KIỂMNG
+
+True label :XONG QUÁ TRÌNH TĂNG CẦN PHẢI CHIA THEO TỪNG NHÓM NGÀNH NGHỀ KHU VỰC LÀM VIỆC PHÙ HỢP VỚI ĐIỀU KIỆN SỨC KHỎE
+Predict    :SONG PÁN TRÌN TĂNG CẦN PẦY CHƯA THÊU CỪNG NHẤM NGÀY NGHÌ KHÔNG CỤC LHÀM TIỆN THU HỢC VỚI ĐIỀU TỊ SÚC NGẢY
+
+True label :NHỮNG NỘI DUNG ĐÁNG CHÚ Ý TIẾP THEO CHƯƠNG TRÌNH TỐI NAY
+Predict    :TẾN CÓ DÂNG ĐÁNG CHÊ TIẾT NHAO THỦC CHỨƠ TRINH TỐI NAY
+
+True label :VÀ SƯ ĐOÀN SÁU CHÍN SO VỚI NHỮNG CÁNH QUÂN KHÁC TƯƠNG ĐỐI DỄ ĐÁNH TRONG ĐÓ SƯ ĐOÀN MƯỜI MỘT
+Predict    :VÀ SƯ HOẢN SỐU CHÍN SO VỚI NHỮNG CÁNH QUÂN KHÁC THƯƠNG ĐỐI GIỄI ĐÁNH CHONG ĐÓ SI ĐẠN MGƯỜI BỘT
+
+True label :CHO THUÊ ĐẤT CHO PHÉP CHUYỂN MỤC ĐÍCH SỬ DỤNG ĐẤT VÀ MỤC ĐÍCH PHÁT
+Predict    :CHO KHẾ ĐẤT CHO KHẾT CHUYỀN MỤC ĐÍCH SỬ DỤNG ĐẤT VÀ HỢC KHẾCH KHÁCH
+
+True label :VIỆT NAM BUỘC VIỆT NAM PHẢI THỰC HIỆN QUYỀN
+Predict    :VIỆT NAM ĐỘC VIỆT NAM PHẢI THỰC HIỆN QUY
+
+True label :CÁC SỐ LIỆU CHO THẤY NỀN KINH TẾ TRUNG QUỐC ĐÃ TĂNG CHẬM LẠI
+Predict    :CÁ SỐ LIỆU CHO THẤY NỀN KINH TẾ TRUNG QUỐC ĐÃ TĂNG CHẬM LẠI
+
+True label :TIẾN TRONG LĨNH VỰC NÀY CÓ THỂ ĐÓNG GÓP CHUNG ĐƯỢC VÀO SỰ CẢI THIỆN TRONG MÔI TRƯỜNG KINH DOANH CỦA VIỆT NAM
+Predict    :TIẾN TRONG LĨNH VỰC NÀY CÓ THỂ ĐÓNG GẤP TRUNG ĐƯỢC VÀ SỰ CẢI THIỆN TRONG MÔI TRƯỜNG KINH DOANH CỦA VIỆT NAM
+
+True label :TUY NHIÊN NẾU THÀNH CÔNG
+Predict    :TUY NHIÊN NẾ THÀNH CÔNG
+
+True label :THÁNG MƯỜI ĐÃ CÓ CHÍN MƯƠI CHÍN PHẨY CHÍN MƯƠI TƯ SỐ DOANH NGHIỆP ĐANG HOẠT ĐỘNG
+Predict    :THÁNG MƯỜI ĐÃ CÓ CHÍN MƯƠI CHÍN PHẨY CHÍN MƯƠI TƯ PHẦN TRĂM SỐ DOANH NGHIỆP ĐANG HOẠT ĐỘNG
+
+True label :BIỂN KHAI CƯƠNG CŨNG DŨNG MÃNH KHÔNG KÉM
+Predict    :BIỂN KHAI CƯƠNG CŨNG DÚNG MÃNH KHÔNG KÉM
+
+True label :ĐẢM BẢO LỘ TRÌNH PHÁT TRIỂN NĂNG LƯỢNG PHÙ HỢP VỚI MỤC TIÊU THỎA THUẬN PARIS VÀ TRONG ĐỊNH HƯỚNG NÀY THÌ VIỆC
+Predict    :ĐẢM BẢO LỮNG TRÌNH PHÁT TRIỂN NĂNG LƯỢNG PHÙ HỢP VỚI MỤC TIỀU THỎO CHUẬN BA ĐI VÀ TRONG BỊN LƯỚN NÀY KHÌ VIỆ
+
+True label :CHÍNH PHỦ PHÁP MỚI ĐÂY ĐÃ HOÃN TĂNG THUẾ NHIÊN LIỆU
+Predict    :CHÍNH PHỦ PHÁP MỚI ĐÂY ĐÃ HOÃN TĂNG THẾI NHIÊN LIỆN
+
+True label :CỬA ĐỂ SANG TÊN SỔ ĐỎ THÌ BỊ TỪ CHỐI HOẶC KÉO DÀI THỜI GIAN HẸN NHIỀU
+Predict    :VỬA  ĐỂ SANG TÊN SAU ĐỎ KHI BỊ TÊ CHỐI HẶC KÉO DÀI THỜI GIAN HỆNH NHIỀU
+
+True label :ĐỂ CÁC NGÂN HÀNG CÓ THÊM THỜI GIAN TRANG TRẢI NHỮNG PHÍ
+Predict    :ĐỂ CÁC NGÂN HÀNG CÓ THIÊM THỜI GIAM TRONG TRÀ NHỮNG PÍ
+
+True label :CHƯA ĐĂNG KÝ MÃ SỐ THUẾ ĐỂ THỰC HIỆN GIAO DỊCH
+Predict    :THƯA ĐĂNG KỲ MÓ SỐ THUẾ ĐỂ THỰC HIỆN GIAO DỊCH
+
+True label :CÓ THỂ SẼ GIẢM TỪ MỘT TRĂM MƯỜI TÁM TỶ ĐÔ LA MỸ NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY XUỐNG CÒN BỐN MƯƠI MỐT
+Predict    :CÓ THỂ SẼ GIẢM TỪ MỘT TRĂM MƯỜI TÁM TỶ ĐÔ LA MỸ NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY XUỐNG CÒN BỐN MƯƠI MỐT
+
+True label :ỦY BAN NHÂN DÂN QUẬN
+Predict    :ỦY BANHÂN DÂN QUẬN
+
+True label :ĐẶC BIỆT QUAN TÂM ĐẾN TỔ CHỨC CÁC HOẠT ĐỘNG
+Predict    :ĐẠC BIỆT QUAN TÂM ĐẾN TỔ CHẾC CƠC HOẠT ĐỒNG
+
+True label :MỚI NHIỀU TIỀM NĂNG ĐỀ NGHỊ HỘI TIẾP TỤC QUAN TÂM HỖ TRỢ CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC
+Predict    :MỚI ĐIỀU VIỆT NĂNG VIỆN NHỂ HỘI KIẾP TỤC QUAN TÂM MỖ TRỢ CÔN ĐẦN NƯỜI VỆN VÀ HÀN QUỐC
+
+True label :THỦ TƯỚNG KHẲNG ĐỊNH
+Predict    :CỦA ĐẤN KHẲNG ĐỊNH
+
+True label :CHÍNH LẠI ĐANG TĂNG LÊN VIỆC SẢN LƯỢNG DẦU CỦA MỸ THIẾT LẬP MỨC KỶ LỤC MỚI SẼ CÀNG LÀM GIA TĂNG MỐI LO TRÊN
+Predict    :CHÍNH LẠI ĐA TĂNG LÊN VIỆC SẢN LƯƠNG DẦU CỦA MỸ THIẾP LẬP MỨC KỶ LỤC MỚI SẼ CANG LÀM GIA TĂNG MUỐI LÀ TRÊN
+
+True label :KẾT QUẢ TỪ KHẢO SÁT CHỈ SỐ MÔI TRƯỜNG KINH DOANH CỦA PHÒNG THƯƠNG MẠI CHÂU ÂU
+Predict    :KẾT QUA TỪC HẢO SÁT THỈN SỐN BÔI TRƯỜNG KINH DOANH CỦA PHÓNG THƯƠNG MẠI CHO HÂU KAY OỘC TRANG
+
+True label :SẠCH SINH HOẠT HẰNG NGÀY
+Predict    :SHÁCH XI HOẠTÔN GHÁI
+
+True label :LÀ KIM NGẠCH CHÍN PHẨY KHÔNG NĂM TỶ ĐÔ LA MỸ TĂNG TÁM PHẨY CHÍN PHẦN TRĂM SO VỚI NĂM NGOÁI
+Predict    :LÀ KIM NGẠCH CHÍN PHẨY KHÔNG NĂM TỶ ĐÔ LA MỸ TANG TÁM PHẨY CHÍN PHẦN TRĂM SO VƯỚI NĂM NGOÁI
+
+True label :GIÁO DỤC TRẺ EM CÓ HOÀN CẢNH ĐẶC BIỆT
+Predict    :GIÁO GIÚT CHẺ EN CÓ HÀN CÀNH ĐẶC BIỆT
+
+True label :THÌ SẼ KHÔNG BAO GIỜ CÒN CÓ NHỮNG ĐÒI HỎI ÍCH KỶ RẰNG
+Predict    :THÌ SẼ KHÔNG BA GIỜ CON CÓ NHỮNG ĐÒI HỌI ÍTH TÌ RẰNG
+
+True label :TẤN VĂN CÔNG
+Predict    :TẤN BAN CÔNG
+
+True label :CHO NGƯỜI NGHÈO NĂM HAI NGÀN MƯỜI BẢY
+Predict    :CHO NGHỜI NÈO NĂM HAI NGÀN MƯỜI BẢY
+
+True label :BỘ CÔNG THƯƠNG DỰ BÁO XUẤT KHẨU THỦY SẢN CÓ NHIỀU CƠ HỘI TĂNG TRƯỞNG TỐT TRONG GIAI ĐOẠN CUỐI NĂM
+Predict    :BỘ CÔNG THƯƠNG DỰ BÁO XUẤT KHẨN THỦ SIẢN CÓ NHIỀU CƠ HỘI TĂNG TRƯỞNG TỐT TRONG GIAI ĐOẠN CUỚI NĂM
+
+True label :SANG ĐẦU TƯ VÀ LÀM ĂN ỔN ĐỊNH LÂU DÀI TẠI MYANMAR
+Predict    :SANG ĐẦU TƯ VÀO LÀM ĂN ỔN ĐỊ LÂU DÀI TẠI MYÊNMA
+
+True label :XUẤT KHẨU LÚA GẠO RA ĐỜI XÓA BỎ HOÀN TOÀN QUY ĐỊNH CŨ
+Predict    :XUẤT KHẨU LỖ GẠO RA ĐỜI DÓ BỎ HOÀN TOÀN QUY LỊNH CỐ
+
+True label :MỚI THỞ DÀI VỀ THÁI ĐỘ THAY ĐỔI CỦA CON
+Predict    :MỚI THỜ DAI VỀ THÁY ĐỘ THAY ĐỔI CỦA CON
+
+True label :CON NGƯỜI THƯỜNG QUY TỘI VÀ KHIỂN TRÁCH NGƯỜI THỰC HIỆN NÓ LÀ VÔ TRÁCH NHIỆM
+Predict    :CON NGƯỜI TƯỜNG QUY TỘI VÀ KHÌNH TRÁCH NGƯỜI THỰC HIỆN NÓ LÀ VỔ TRÁCH NGHIỆM
+
+True label :CHỐT TRONG TƯ TƯỞNG VÀ HÀNH ĐỘNG CỦA ASEAN ĐÓ LÀ ĐỂ BẢO VỆ NGUYÊN TẮC VÀ LỢI ÍCH CỐT LÕI
+Predict    :GỐN TRONG TÔ TƯỜNG VÀ HANH ĐỘNG QUA SEM QAN ĐỊ BẢO VỆ NGUYỀN TẮC Ở CỚC LÃI
+
+True label :THỜI KỲ NGŨ ĐẠI THẬP QUỐC NỔI LOẠN
+Predict    :THỜI KÌ HGỖ ĐẠI THẬP QUỐC NỔI LOẠT
+
+True label :CHIẾM BA MƯƠI BA PHẦN TRĂM TRONG TỔNG KIM NGẠCH XUẤT KHẨU RAU QUẢ CỦA VIỆT NAM
+Predict    :CHIẾM BA MƯƠI BA PHẦN TRĂM TRONG TỔNG KIM NGẠCH XUẤT KHẨU RÁU QUẢ CỦA VIỆT NAM
+
+True label :THEO CÁC CHUYÊN GIA LIÊN KẾT ĐỂ PHÁT TRIỂN DỰ ÁN LÀ XU THẾ TẤT YẾU
+Predict    :THEO CỐ CHUYÊN GIA LHIÊN KIẾT ĐỂ PHÁT TRIỂN DỰ ÁN LÀ CHU TẾ TẤT ẾU
+
+True label :ĐÂY LÀ ĐIỀU DUY NHẤT MÀ TA CÓ THỂ KHUYÊN ANH
+Predict    :ĐÂY LÀ ĐIỀU GÍ NHẤC MÀ TÁC CÓ HỆ KHI LANH
+
+True label :BẢO ĐẢM TÍNH KHẢ THI CỦA CÁC DỰ ÁN HÀI HÒA LỢI ÍCH CỦA NHÀ NƯỚC
+Predict    :BẢO ĐÀM TÍNH KẠI KHI CỦA CÁC DỰ AN HGAY HÒA LỚIH CỦA NHÀ NƯỚC
+
+True label :DỰA VÀO KẾT QUẢ NÀY CÓ THỂ THẤY TRONG THÁNG MƯỜI VIỆT NAM ĐÃ XUẤT SIÊU MỘT TRĂM TRIỆU ĐÔ LA MỸ
+Predict    :DỮA VÓO KẾT QUẢ NÀY CÓ THỂ THẤY TRONG THÁNG MƯỜI VIỆT NAM ĐÁC XẤT SIÊU MỘT TRĂM TRIỆU ĐÔ LA MỸ
+
+True label :CÁC DỰ ÁN MỚI ĐƯỢC KHỞI CÔNG
+Predict    :CÁC DỰ ÁN MỚI ĐƯỢC KHỜI CÔNG XÂY DỰNG
+
+True label :HAI BAN CHẤP HÀNH
+Predict    :HAI BAN CHẤP HÀNH
+
+True label :VÀ CHUI BỨC THÀNH ĐÔ
+Predict    :VÀ CHUÍN BỨC THÀNH ĐÔ
+
+True label :QUẢ CAM VINH ĐẢM BẢO CHẤT LƯỢNG
+Predict    :VÀO CÁM VINH ĐẢM BẢO CHẤT LƯỢNG
+
+True label :TỪ ĐÓ THU LẠI ĐƯỢC NHỮNG THÀNH QUẢ BỀN VỮNG
+Predict    :TỪ ĐÓ THU LẠI ĐƯỢC NHỮNG THÀNH QUẢ ĐỀN VỮNG
+
+True label :NHẰM XÂY DỰNG THƯƠNG HIỆU TRÊN THỊ TRƯỜNG CHO SẢN PHẨM VÀ CHUỖI SẢN PHẨM
+Predict    :NHẰM XÂY DỰNG CƠNG LIỆU TRÊN TỊ TRƯỜNG CHÁ SẢN PHẨM CÓ CHỨ SẢN PHẨM
+
+True label :CŨNG YÊU CẦU CÁC VĂN PHÒNG THỪA PHÁT LẠI PHẢI DỪNG NGAY VIỆC LẬP
+Predict    :NHIỀU CẦU CÁC VĂN PHÒNG THIỢC PHÁN MẠN PHẢI DỪNG NAY VỆN LẬP VÍT BẰNG
+
+True label :NHIỀU HƠN HAI MƯƠI MỐT PHẦN TRĂM SO VỚI MỨC THIỆT HẠI CỦA NĂM HAI NGÀN MƯỜI BẢY ĐÂY LÀ KẾT QUẢ ĐƯỢC ĐƯA RA TỪ CHƯƠNG TRÌNH ĐÁNH GIÁ AN NINH MẠNG
+Predict    :TẮN NHIỀU HƠN HAI NƠM M PHẦN TRĂM SO VỚI MƯỚC VIỆT HẠI CỦA NĂM HAI NGĂM MƯỜI BẢY ĐÂY LÀ KẾT QUẢ ĐƯỢC ĐƯA RA TỪ CHƯƠNG TRÌNH ĐẤNH GIỮA H NGƯƠI MẠNG
+
+True label :CỦA QUÂN ĐỘI HÃNG NÀY CŨNG THÔNG TIN BUỔI THỬ NGHIỆM ĐÃ DIỄN RA THÀNH CÔNG
+Predict    :CUỘC QUÂN ĐỘI HÁNG NÀY CŨNG THÔNG TIN BỔI THỂ NIỆN ĐÃ DIỄN RA THÀNH CÔNG
+
+True label :CHÍNH PHỦ VỪA BAN HÀNH NGHỊ ĐỊNH MỘT NĂM TƯ SỬA ĐỔI BỔ SUNG
+Predict    :CHINH PHU Ô LAN HÀY NGHỈ ĐỊN MỘT NĂM TƯ SỬ ĐỔI BỘI SUNG
+
+True label :ÔNG BẢO ANH HÃY ĐI XEM KHẮP LÂU ĐÀI
+Predict    :ÔNG BÃ HANG NGẠI ĐI XEM KHẮP LAU ĐÀI
+
+True label :KINH ĐỘNG CÁC CHƯ HẦU KHIẾN BỌN HỌ ĐỀU PHẢI MAU CHÓNG ĐẾN TÔN CHÚA CÔNG TA LÀM MINH CHỦ
+Predict    :KẾN ĐẬU CÁC CHƯA CẦU KIẾN BẢO HỌ ĐỀ VỆT MAU CHÓNG ĐẾN TÔN CHỨA CÔNG TA LÀM NGUY CHỦ
+
+True label :TỪ ĐẦU NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM ĐẾN NAY ĐÂY LÀ THÁNG CÓ LƯỢNG XE NHẬP KHẨU NGUYÊN CHIẾC NHIỀU NHẤT
+Predict    :TỪ ĐẦNG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM ĐẾN NÀY ĐÂY LẬT HÁNG CÓN LƯỢNG DAY NHẬP KHẨU NGYÌỀN CHIẾC NHỮU NHẤT
+
+True label :NGÀY MƯỜI HAI THÁNG MƯỜI MỘT VỪA QUA
+Predict    :NGÀY MƯỜI HAI THÁNG MƯỜI MỘT VÔ QUA
+
+True label :CŨNG NHƯ CÁC NHÀ PHÁT TRIỂN ĐIỆN THOẠI KHÔNG CÓ CƠ HỘI CHẠM TAY VÀO
+Predict    :CU NHƯ CÁC NHÀ PHÁT CHIỂN VIỆN HOẠI KHÔNG CÓ CÁC HỘI TRỌNG TÀI VÀO
+
+True label :THÀNH PHỐ THANH HÓA ĐOẠN HAI VÀ GIAI ĐOẠN BA TẠI ĐỊA
+Predict    :THÀNH PHỐ HÁNH HÓA GIAI ĐOẠN HAI VÀ SỞ ĐƯỢNG BAN ĐẠI ĐIỆA
+
+True label :BÁO CHÍ
+Predict    :BÁO CHÍ
+
+True label :CÓ NHIỀU TÌNH CẢI THIỆN ĐƯỢC MÔI TRƯỜNG ĐẦU TƯ KINH DOANH
+Predict    :CÓ NHIỀU TỈNH CẢI THIỆN ĐƯỢC MÔI TRƯỜNG ĐẦU TƯ KINH DOANH
+
+True label :TÁC KINH TẾ QUAN TRỌNG HÀNG ĐẦU
+Predict    :TÁC KIN TẾ QUAN TRỌNG HÀNG ĐẦU
+
+True label :KHI NHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN CON TRẺ ĐANG NGÀY CÀNG PHÁT SINH
+Predict    :KHÝ NHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN CON TRẺ ĐĂNG NGÀY CẢMG PHÁT SINH
+
+True label :ĐÂY LÀ DỰ ÁN KẾT NỐI TUYẾN ĐƯỜNG BỘ VÀ ĐƯỜNG SẮT HAI NƯỚC QUA
+Predict    :ĐÂY LÀ DỰ ÁN KẾT NỐI TẾN ĐƯỜNG BỘ VÀ ĐƯỜNG SẮC HAI NƯỚC QUA
+
+True label :TÔI VỪA CẬP NHẬT
+Predict    :KTÔI VỪA CẬP NHẬT
+
+True label :TRONG SÁU THÁNG QUA CHỈ TIÊU THỤ ĐƯỢC VÀI CHỤC
+Predict    :TRONG SÁU THÁNG QUA CHỈ THẾU THỦ ĐƯỢC VÀI CHỦ
+
+True label :TẠI KON TUM VÀ ĐẮK NÔNG CÒN TẠI GIA LAI GIÁ CÀ PHÊ ĐỨNG Ở MỨC BA MƯƠI NHĂM NGHÌN HAI TRĂM ĐỒNG MỘT KI LÔ GAM
+Predict    :TẠI CÔNG TUNG VÀ ĐẮC NÔNG CÒN TẠI GIA LAI GIÁ CẠC PHỚ ĐỨNG ỞN MỨC BA MƯƠI NHĂM NGHÌN HAI TRĂM ĐỒNG MỘT KI LÔ GAM
+
+True label :KÈM THEO CHẾ ĐỘ PHÚC LỢI ĐÂY LÀ MỘT CƠ HỘI TỐT CHO LAO ĐỘNG ỔN ĐỊNH KHI VỀ NƯỚC
+Predict    :KIỂM THEO CHẾ ĐỘ PHÚC LỢI ĐÂY LÀ MỘT CƠ HỘI TỐT CHO LAO ĐỘNG ỔN ĐỊNH KHI VỀ NƯỚC
+
+True label :ĐÃ ĐƯA RA MỘT SỐ GÓP Ý ĐỔI MỚI SẢN PHẨM
+Predict    :ĐÃ ĐƯA RA MỘT SỐ KHÓP Ý ĐỔI MỚI SẢN PHẨM
+
+True label :CẢ LỚP ĐANG NGỒI NGHIÊM CHỈNH NGHE GIẢNG
+Predict    :CẢ LƯỚC ĐÀ NGỒI NHIÊN CHỈNH NHE DÀNG
+
+True label :KINH DOANH ĐỂ TRẢ NỢ VAY ĐƯỢC THỰC HIỆN KHÔNG GIỚI HẠN VỀ THỜI GIAN
+Predict    :KINH DOANH ĐỂ TRẢ NẠO VAY ĐƯỢC THỨC KIỆN KHÔNG GIỚI HẠN VỀ THỜI GIAN
+
+True label :KIM NGẠCH XUẤT KHẨU TOÀN NGÀNH DA GIÀY TÚI XÁCH ĐÃ ĐẠT MƯỜI CHÍN PHẨY NĂM
+Predict    :KIM NGẠCH XUẤT KHẨU TOAN NGÀNH GIA GÂY TÚI SÁCH ĐÃ ĐẠT MƯỜI CHÍN PHẢẨY NĂM
+
+True label :VÀ KHI KHÔNG KIỂM SOÁT ĐƯỢC THU NHẬP DÒNG TIỀN THÌ KHÔNG ĐỦ CĂN CỨ ĐỂ THU ĐƯỢC THUẾ
+Predict    :VÀ KHI KHÔNG KIỂM SOÁT ĐƯỢC THU NHẬP DÒNG TIỀN THÌ KHÔNG ĐỤ CĂN CỨ ĐỂ THU ĐỢC THUẾ
+
+True label :TIẾP ĐÓ LÀ CÁN BỘ
+Predict    :TIẾP ĐÓ LÀ CẤN BỘ
+
+True label :CHÂN TRỜI ĐỎ ÓI MẶT TRỜI DẦN LÊN CẬU CHĂN CỪU NHỚ ĐẾN LẦN CHUYỆN TRÒ VỚI BỐ VÀ CẢM THẤY SUNG SƯỚNG
+Predict    :TRONG TỜI ĐÃ HÓI MẶT CRỜI DẦN LÊN CẬU CHĂN CƯỜN NHƯ ĐẾN NẦN KHIỂN CRỜ VỚI BỐ VÀ CĂNG THẤY SÙNG XỐNG
+
+True label :CHỦ NHIỆM ỦY BAN KIỂM TRA TRUNG ƯƠNG ĐƯỢC SỰ TÍN NHIỆM CỦA BỘ CHÍNH TRỊ ĐỌC
+Predict    :CHỰU NGHỊ ỦY BAN KIỆM CHO TRUNG ƯƠNG ĐỢ SỬ Ý NHIỆM CỦA BỘ CHÍNH TRỊ ĐỎO
+
+True label :CHÍNH VIỆC ĐÓ ĐÃ KHIẾN CHO SỰ Ỉ LẠI
+Predict    :CHÍNH VIỆC ĐÓ ĐÃ KHIẾN CHO SỰ Ì LẠI
+
+True label :TƯ PHẦN TRĂM VÀO CUỐI NĂM NAY
+Predict    :TƯ PHẦN TRĂM VỌN CUỐI NĂM NAY
+
+True label :TRONG MỖI MẺ LƯỚI KÉO LÊN CỨ BA PHẦN CÁ LẠI CÓ MỘT PHẦN LÀ RÁC THẢI NHỰA
+Predict    :CON MỖ NẠI LỚI KÉO ĐÊNH CỨ BA PHẦN CÁ TỂ CÓ MỤC PHẦN LÀ RÁC THẢI NHỰA
+
+True label :ĐIỀU ĐẶC BIỆT TỆ HẠI LÀ KHI TRẺ KHÔNG NGHE LỜI
+Predict    :ĐIỀU ĐẶC BIỆC TỂ HẠI LÀ KHI TRẺ KHÔNG NGHE LỜI
+
+True label :CƠ QUAN TRUNG ƯƠNG
+Predict    :CƠ QUAN TRUNG ƯƠNG ĐẬT
+
+True label :CẬU ĐẾN ĐÂY VÌ MUỐN TÌM HIỂU VỀ GIẤC MƠ BÀ LÃO ĐÁP
+Predict    :CẬU ĐẾN NAY VỀ MUỐN TỀM HIỮU VỀ GIẤC MƠN BÀO ÃO ĐÁP
+
+True label :VÀ MƯỜI HAI LẦN GIỮ ỔN ĐỊNH
+Predict    :VÀO MẤY HAI LẦN DỮ CÒN ĐỊNH
+
+True label :THƯA QUÝ VỊ VÀ CÁC BẠN LÀ ĐỊA PHƯƠNG CÓ ĐỘI TÀU THUYỀN ĐÁNH BẮT XA BỜ KHÁ HÙNG HẬU VỚI NGƯ TRƯỜNG KHAI THÁC CHỦ YẾU
+Predict    :THƯA QUÝ VỊ VÀ CÁC BẠ LÀ ĐỊA PHƯƠNG CÓ ĐỔI TÀU THIYỀN ĐÁNH BÁT XA BỜ KHAOÔ HẬU VỚI NƯI TRƯỜNG KHAI THÁC CHỦ YẾU
+
+True label :THẾ NHƯNG THỰC TẾ THÌ NỘI TÂM BÊN TRONG HOÀN TOÀN NGƯỢC LẠI
+Predict    :THẾ NHƯNG TỰCH TẾ THÌ ĐỘI CÂM BIÊN TRONG HOÀN TOÀN NƯỢC LẠI
+
+True label :THU NGÂN SÁCH HIỆN NAY ĐẠT MỘT NGHÌN TÁM TRĂM TỶ ĐỒNG
+Predict    :CHTHUNG NÂN SÁCH HIỆN NAY ĐÀT MỘT NGHÌN TÁM TRĂNG TỶ ĐỒNG
+
+True label :VÀ TRƯỞNG ĐOÀN CÁC NGHỊ VIỆN THÀNH VIÊN
+Predict    :VÀ TRƯỞN ĐOÒN CÁC NGHỊ VIỆN THÀNH VIÊN
+
+True label :NHƯNG CHƯA THỰC CHẤT
+Predict    :NHƯNG CHƯA THỰC CHẤT
+
+True label :TRÌNH THỦ TƯỚNG CHÍNH
+Predict    :QÁ TRÌ THỦU TƯỚNG CHÍN 
+
+True label :VÀ LUẬT LỆ ĐẨY MẠNH HỢP TÁC TRONG HOẠT ĐỘNG QUẢN TRỊ
+Predict    :VÀ LƯỢC VỆ ĐẨY MẠNH HỢP TÁC TRONG HOẠT ĐỘNG QUẢN TRỊ
+
+True label :THEO QUY ĐỊNH CỦA TỔ CHỨC THÚ Y THẾ GIỚI CHO TẬP ĐOÀN VIỆT ÚC
+Predict    :THEO QUY ĐỊNH CỦA TỔ CHỨC THÚ THẾ GIỚI CHO TẬP ĐOÀN VIÊT GOÚC
+
+True label :PHẢI NANG NHI THỊ CHI BẤT NĂNG
+Predict    :PHẢI NANG NHI THỊ CHI BẤT NĂNG
+
+True label :TRÂM THẤP HƠN MỘT CHẤM HAI ĐIỂM PHẦN TRĂM SO VỚI CÙNG KỲ NĂM NGOÁI
+Predict    :TRĂM THẤP HƠN MỘT THỚM HƠI ĐIỀM PHẦN TRĂM SO VỚI CHÙNG KỲ NĂM NGOÁI
+
+True label :NHỮNG LO NGẠI ĐÓ CÙNG VỚI TÁC ĐỘNG TỪ NHỮNG BIỆN PHÁP KIỂM SOÁT CỦA CHÍNH PHỦ TRUNG QUỐC
+Predict    :NHỮNG LOU NGẠI ĐÓ CÙNG VỚI TÁC ĐỘNG TỪ NHỮNG BIỆN PHÁP KIỂM SÁT CỦA CHÍNH PHỦ TRUNG QUỐC
+
+True label :BINH THÁNH
+Predict    :ĐINH THÁNH VẦU LẦL NỮN LÊI LÔ
+
+True label :MỞ RỘNG NÂNG CAO HIỆU QUẢ HỢP TÁC TRÊN CÁC LĨNH VỰC
+Predict    :MỞA RỘNG LÔNG CAO HIỆU QUẢ HỢP TÁC TRÊN CÁC LIĨNH VỰC
+
+True label :XẾP TỔ CHỨC
+Predict    :XẾP ĐỔ CHỨC
+
+True label :MUỐN HÀNH ĐỘNG Ở GẦN NHƯNG GIẢ NHƯ MUỐN HÀNH ĐỘNG Ở XA
+Predict    :MUỐN HÀNH ĐỘC Ở GẦN NHƯNG GIẢ NHƯ MUỐN THÀNH ĐỘNG Ở XA
+
+True label :TỈNH CAO BẰNG THỦ TƯỚNG NGUYỄN XUÂN PHÚC ĐỒNG Ý VỀ CHỦ TRƯƠNG ĐẦU TƯ
+Predict    :TỈNH CAO BẰNG THỦ TƯỚNG NGUYỄN XÂN QUỐC ĐỒNG ỚY TỀ CHỦ TRƯƠNG ĐẦU TƯ
+
+True label :PHÂN TÍCH THỊ TRƯỜNG CHO THẤY THỊ TRƯỜNG CĂN HỘ
+Predict    :PHẮN TÍCH THỊ TRƯỜNG CHO THẤY THỊ TRƯỜNG CĂN HỘ
+
+True label :CÁ TRA VÀNG TẠI TRUNG QUỐC THẤP HƠN NHIỀU SO VỚI VIỆT NAM DO ĐÓ TRONG NHỮNG THÁNG CUỐI NĂM
+Predict    :VÀ THAO VÀNG TẠI TRUNG QUỐC TÁC HÊN NHIỀU SAU BIN NGIỆT TNAM DO ĐÓ TRONG NHỮNG THÁMG CUỐI NĂM
+
+True label :TẠI BUỔI TIẾP
+Predict    :ĐẠI BỔI TIẾP
+
+True label :CHÚ TRỌNG PHÁT HIỆN NHÂN RỘNG CÁC ĐIỂN HÌNH TIÊN TIẾN ĐỒNG THỜI CHỈ RÕ NHỮNG ĐIỀU CHƯA TỐT TIÊU CỰC TRONG CUỘC SỐNG BÁO CÓ NHIỀU LOẠI HÌNH ẤN PHẨM ĐA DẠNG
+Predict    :CHÚN TRỌNG PHÁT LIỆN NHÂN DỘNG CÁC ĐỀN HÌNH TIÊN TIẾN ĐỒNG TƠI CHỈ RÕ NHỮNG NIỀU CHÊA TỐC TIÊU CỰC TRONG TỢT SỐNG BÀO CÓN NGHIỀ LOẠI HÌNH TẤN PHẨM ĐA DẠNG
+
+True label :ĐÓ CHẲNG PHẢI LÀ THÔNG ĐIỆP TUYỆT VỜI GÓI TRỌN TÌNH YÊU THƯƠNG CỦA CHA MẸ ĐÓ SAO
+Predict    :ĐÓ TRONG PHẢI LÀ THÔNG ĐIỆP TIỆT VỜI CÓN CHỌN TÌNH YẾU THƯƠNG CỦA CHA MẸ ĐÓ SAO
+
+True label :CHỨ KHÔNG PHẢI VIỆC CHA MẸ CÓ THỎA MÃN VỚI VIỆC NUÔI DẠY CON NHƯ HIỆN NAY HAY KHÔNG
+Predict    :CHÍ KHÔNG PHẢI VIỆC CHA MẸ CÓ THỎ MÃN VỚI BIỆC NGUÔI DẠY CON NHỀ HỆN NGAY HÀY KHÔNG
+
+True label :KIỂM TRA RÀ SOÁT TÌNH HÌNH SỬ DỤNG ĐẤT ĐAI
+Predict    :KIỂM TRA RÁO SÁT TÌN NÌNH SỬ DỤNG ĐẤT TAI
+
+True label :MỖI MỘT THÀNH QUẢ ĐẠT ĐƯỢC CỦA CHÍNH PHỦ TỪ ĐẦU NHIỆM KỲ ĐẾN NAY
+Predict    :MBỖI MỘ THÀNH QUẢ ĐÃT ĐƯỢC CỦA CHÍNH PHỦ TỪ ĐỒNG NHIỆM KỲ ĐẾN NAY
+
+True label :SAU MỘT THỜI GIAN DÀI GIỚI ĐẦU TƯ SÂN ĐẤT VÀ TĂNG GIÁ LÊN ĐỈNH ĐIỂM
+Predict    :TON MỘT THỜI GIAN DÀI GIỚI ĐẦU TƯ SAN ĐẤT VÀ TĂNG GIÁ LỀN BÌNH ĐIỂM
+
+True label :TRONG VIỆC BÁN CHỨNG KHOÁN ĐẢM BẢO BẰNG THẾ CHẤP TRƯỚC KHI XẢY RA CUỘC KHỦNG HOẢNG TÀI CHÍNH TOÀN CẦU
+Predict    :TRONG VIỆC BÁN CHỨNG KHOÁN ĐẢ BẢO BẰNG THẾ CHẤC TRƯU KHI XẢY GIA CỐA HÙNG HOẠNG TÀI CHÍNH TOÀN CẦU
+
+True label :THÊM MỘT HUYỀN THOẠI
+Predict    :THE MỘT NHIỀN KHON
+
+True label :CÒN ẤN ĐỘ ĐANG CHỊU TẦN SUẤT KIỂM TRA NĂM MƯƠI PHẦN TRĂM KHI XUẤT KHẨU SANG LIÊN MINH CHÂU ÂU
+Predict    :CUÒ CÁN ĐỘ ĐANG TRỊU TẦM SUẤT KIỂM TRAM NĂM MƯƠI PHẦN TRĂM KHI XUẤT KHẨU SANG LÊ MINH CHÂU ÂU
+
+True label :NHẬN THỨC VỀ HOẠT ĐỘNG PHÁT TRIỂN XANH CÒN CHƯA ĐỒNG ĐỀU VỚI NHIỀU THÀNH PHẦN KINH TẾ
+Predict    :NHIỆN THỨC VỀ HOẠT ĐỘNG PHÁT TRIỂN DANH CÒN CHƯ ĐỒNG ĐỀU VỚI NHIỀU THÀNH PHẦN KINH TẾ
+
+True label :ÔNG NGUYỄN MẠNH
+Predict    :ÔNG NGUYỄN MÀNH
+
+True label :VỀ DOANH SỐ BÁN HÀNG
+Predict    :VỀ DOÀNH SỐ BĂN HĂNG
+
+True label :TỪ TRONG NÚI CHẠY RA
+Predict    : TRONG NGUŨNG CHẠY GIA
+
+True label :TỪ NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI HAI ĐẾN NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY TRUNG TÂM PHÁT TRIỂN
+Predict    :TƯ NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI HAI ĐẾN NĂM HAI NGÌN CHÔA TRĂM MƯỜI CÂY TRUNG TƠM PHÁT TRIỂN
+
+True label :QUỐC TẾ MỘC BÀI TÂY NINH
+Predict    :CỐC TẾY MỘT TOẢI TÂY NÌNH
+
+True label :CHÍNH LÀ MẤU CHỐT ĐỂ QUYẾT ĐỊNH CÓ HAY KHÔNG THÀNH CÔNG TRONG CUỘC CHIẾN
+Predict    :CHÍNH LÀ MỐ CHỐT ĐỂ QUYẾT ĐỊNH CÓ HAY KHÔNG THÀNH CÔNG TRONG CUỘC CHIẾN
+
+True label :CỦA HAI DỰ ÁN ĐÃ ĐƯỢC BÌNH
+Predict    :THÒM CỦA HỚI DỰ ÁN ĐÃ ĐỢA THÌ
+
+True label :TOÀN DIỆN VÀ TIẾN BỘ XUYÊN THÁI BÌNH DƯƠNG CÓ HIỆU LỰC
+Predict    :TOÀN DIỆN VÀ TIẾN BỘ XUYÊN THAI BÌNH DƯƠNG CÓ HIỆU LỰC
+
+True label :SẢN XUẤT RA CÁC LOẠI SẢN PHẨM HIỆN ĐẠI VỚI KIỂU DÁNG HIỆN ĐẠI
+Predict    :SẢN SUỐT GIA CÁC LOẠI SẢN PHẨM HIỆN ĐẠI MỚI TIỂU GIÁNG HIỆN ĐẠI
+
+True label :ĐÃ KHẲNG ĐỊNH DÙ TỐC ĐỘ
+Predict    :ĐÃ KHẲNG ĐỊNH DƯU TỐC ĐỘ
+
+True label :VỰC PHÍA TÂY VÀ PHÍA BẮC THÀNH PHỐ TÍNH RIÊNG KHU VỰC PHÍA TÂY
+Predict    :HIỆN ĐÂY VÀ HỆT BĂN THÀNH PHỐ TÍNH RIÊNG KHU H PHÍẾU TAY
+
+True label :VỪA RỒI LÀ NHỮNG THÔNG TIN CHÍNH CÓ TRONG BẢN TIN KINH TẾ HAI MƯƠI TƯ GIỜ TRÊN KÊNH TRUYỀN HÌNH ĐÀI TIẾNG NÓI VIỆT NAM VOV TV
+Predict    :VỪA RỒI LÀ NHỮNG THÔNG TIN CHÍNH CÓ TRONG BẢN TIN KINH TẾ HAI MƯƠI TƯ GIỜ TRÊN CƯƠNG TRUYỀN HÌNH NÀY TIẾNG NÓI VIỆT NAM VOV TV
+
+True label :ĐIỀU NÀY ĐÒI HỎI CÁC TRƯỜNG ĐÀO TẠO NGHỀ
+Predict    :ĐIẾU NÀY ĐÒI HỎI CÁC TRƯỜNG ĐÀ TỌU NỀ
+
+True label :THƯA QUÝ VỊ LẦN ĐẦU TIÊN VIỆT NAM ĐƯỢC BẦU VÀO ỦY BAN LUẬT THƯƠNG MẠI QUỐC TẾ CỦA LIÊN HỢP QUỐC
+Predict    :THƯ QUÝ VỊ LẬN ĐẦU TIÊN VIỆT NAM ĐƯỢC BẦ VÀO LY BAN ĐỢT THƯƠNG MẠI QUỐC TẾ CỦA LIÊN NỢP QUỐC
+
+True label :THEO ĐÓ TẬP ĐOÀN NÀY SẼ HỢP
+Predict    :THEM ĐÓ TẬP ĐOÀN NÀY SẼ HỢP
+
+True label :PHỤC VỤ CHO CUỘC SỐNG
+Predict    :PHỤC BỘ CHO CUỘC SỐNG
+
+True label :LOẠI ĐÀO NÀY LÀ THỨ HIẾM QUÝ
+Predict    :LẠI ĐANG NÀY ĐÀ Ư IẾM QUÝ
+
+True label :NAM GÓP PHẦN NGĂN CHẶN NGUY
+Predict    :TAN CÓP PHẦN NGĂN CHẬN NGUƯ
+
+True label :ĐĂNG QUANG HOA HẬU MEXICO
+Predict    :ĐÀNG QUẢA HAO MEC XI CẤU
+
+True label :VÀ CHẤT LƯỢNG CỦA MỖI LẦN TIẾP XÚC
+Predict    :VÀ CHÁCH LƯỢNG CỦA MỖI LẦN TIẾT XÚC
+
+True label :KẾT THÚC ĐÀM PHÁN SANG NĂM SAU
+Predict    :TÁC ĐÀM PHÁM CHÀO ĐĂM SAU
+
+True label :PHÁT TRIỂN QUAN HỆ ĐỐI TÁC CHIẾN LƯỢC SÂU RỘNG VIỆT NAM NHẬT BẢN
+Predict    :PHÁT TRIỂN QUÀN ĐỆN ĐỐI TÁC CHIẾN ĐƯỢC SÂU RỘNG VIỆT NAM NHẬP BẢO NLỆN
+
+True label :ÁN NHÀ HÁT GIAO HƯỞNG NHẠC VŨ KỊCH
+Predict    :KHÁN NHÀ HÁC GIAO GUỒN NÀM VỤ TỊCH
+
+True label :NHƯNG ĐẾN THÌ CHỈ TỪ MỘT THÀNH PHỐ THÔI NÓ Ở GẦN MỘT KHU THÀNH CỔ
+Predict    :NHÌN LẾN THÌ CHỈ TỪU MỘT THÀN PHỐ THÔI NÓ Ở VỒN MỘT NƠI THẦN CỔ
+
+True label :KIỂM TRA XÉT NGHIỆM NGHIÊM NGẶT TỪ ĐẦU VÀO ĐẾN ĐẦU RA SẢN PHẨM
+Predict    :CUỂM TRA CRẤCH NHIỆM NGHIÊM NẶC ĐO ĐẦU VẢ CHÁC ĐẾN ĐẦU RA SẢNG PHẨM
+
+True label :CÔNG NGHỆ
+Predict    :CÔNG NHỆ
+
+True label :QUAN TRỌNG TRONG VIỆC ĐƯA CUỘC CÁCH MẠNG GIẢI PHÓNG MIỀN NAM THỐNG NHẤT ĐẤT NƯỚC ĐI ĐẾN THẮNG LỢI VẺ VANG
+Predict    :QUAN TRỌNG TRONG VIỆC ĐƯA CỦA CÁCH MẠNG GIẢI PHÓNG MIỆT NAM THÙNG NHẤT ĐẤT NƯỚC ĐỊ ĐẾN KHÁNG NỢI VÀY VA
+
+True label :KHÁCH MUA Ở THỰC VÀ CÁC BÊN LIÊN QUAN NHƯ NGÂN HÀNG TỔ CHỨC TÀI CHÍNH
+Predict    :KHÁCH MÙAỞ THỰC VÀ CÁC BÊN LÊ QUAN NHƯN NGÂN HÀNG TỔ CHỨC TÁNG CHÍNH
+
+True label :TRONG TUYÊN BỐ ĐƯỢC ĐƯA RA BỘ THƯƠNG MẠI HOA KỲ CHO BIẾT VIỆC CẤM BÁN LINH KIỆN PHẦN MỀM VỀ SẢN PHẨM CÔNG NGHỆ MỸ CHO CÔNG TY
+Predict    :TRONG TUYÊN BỐ ĐƯỢC ĐƯA RA BỘ THƯƠNG MÃ HA KÝ CHO BIẾT VIỆC CẤM BÁN LHINH KIỆN PHẦN MÊN VỀ SẢN PHẨNG CÔNG NGỆ MỸ CHO CÔNG VY
+
+True label :TRĂM MƯỜI SÁU
+Predict    :TCRĂ MỜI SÁU
+
+True label :CHO NHỮNG ĐỐI TƯỢNG THU NHẬP THẤP NHƯNG TRÊN THỰC TẾ
+Predict    :CHON ỨNG ĐỜI TƯỢNG THỦ ĐẬT THẮC ĐIỀN TRÊA THỰC KẾ
+
+True label :CHI TIẾT
+Predict    :CHI TIẾT
+
+True label :ĐẢNG KHÓA MƯỜI HAI CÁCH CHỨC PHÓ BÍ THƯ THƯỜNG
+Predict    :ĐÃN KHÓA MƯỜI HAI CÁCH CHỨC PHÓ BÍ THƯ THƯỜNG
+
+True label :LUỒN QUÁ KHE CHỐNG ĐỊCH Ở PHÍA BẮC VÀ PHÍA ĐÔNG NAM CHUI VỀ PHÍA SAU TẤN CÔNG BỘ PHẬN MỎNG YẾU CỦA ĐỊCH Ở ĐÂY
+Predict    :NLUỒN QUÓ KE CHỐNG ĐỊCH ỞO PHIẾP BẮC VÀ PHẾI ĐÔNG LAM CHU VỆC PHÍA SAU TẤN CÔNG BỘ VẬC MỌN YÊU CỐA ĐỊCH Ở ĐÂY
+
+True label :CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG
+Predict    :CHƯƠNG TRÌNH GIÁ DỤC CHỔ CHÔN
+
+True label :GIẢM LẠM PHÁT ĐÈ NẶNG NHƯNG NGÂN HÀNG NÀY VẪN CHƯA ĐẠT ĐƯỢC MỤC TIÊU LẠM PHÁT HAI PHẦN TRĂM
+Predict    :GIẢM LÀM PHÁT ĐỀ NẰNG NHƯ NGÂN HÀNG NÀY VẪN CHƯA ĐẠT ĐƯỢC MỘT TIÊU LẠM PHÁT HAI PHẦN TRĂM
+
+True label :NGƯỜI CẦM QUÂN THEO MƯU KẾ ĂN CHẮC TOÀN THẮNG ĐOẠT THIÊN HẠ THÌ QUÂN SĨ KHÔNG ĐẾN MỨC
+Predict    :NGƯỜI CẦM QUÂN THEO MỀU KẾ CĂN CHẮC TOÀN THẮNG ĐÀ THIÊN HẠ TÌ QUÂN SĨ KHÔNG ĐẾN MỨC
+
+True label :THÀNH CÔNG
+Predict    :VHÊ CÔNG
+
+True label :QUỐC HỘI ĐÃ CHÍNH THỨC THÔNG QUA NGHỊ QUYẾT PHÊ CHUẨN
+Predict    :QUỐC HỘI ĐÃ CHÍNH THỨC THÔNG QUA NGHỊ QUYẾT PHẾ CHUẨN HIỆ
+
+True label :KHÔNG PHÉP XỬ LÝ NGHIÊM CÁC TỔ CHỨC
+Predict    :KHÔNG PHÉP SẼ LÝN NGH CÁC TỔ CHỨC
+
+True label :LÀM THẾ NÀO ĐỂ CHƠI CÙNG BẠN
+Predict    :LÀM THẾ NÀO ĐỂ CHƠI CÙNG MẠN
+
+True label :MÀ HUÊNH HOANG HỐNG HÁCH VÔ CÙNG NGẠO MẠN VÔ LỄ
+Predict    :MÀ HUAN QUA KHÔNG CÁCH VÔ CÙNG HẢ MÀNG VU LẾ
+
+True label :DO ĐÓ NGUYÊN NHÂN DẪN ĐẾN TRẺ ĐI HỌC MUỘN KHÔNG PHẢI LÀ LỖI CỦA TRẺ
+Predict    :DO ĐÓ NGUÊY NHÊN DẪN ĐẾN VIỆC TRẺ ĐI HỌC MỘT HÔN PHẢI LÀ ĐỖI CỦA TRẺ
+
+True label :THUẬT NÉ MẠNH ĐÁNH YẾU TRONG TRẬN CHIẾN THÀNH BỘC NĂM SÁU TRĂM BA HAI TRƯỚC CÔNG NGUYÊN
+Predict    :CHOẶN NGE MẠNH ĐÁNH YẾU TROUG TRỢN CHIẾN THÁNH BỌC NAM SONG TRƠN MÀ HAI CHÚ CÔNG NGUYÊI
+
+True label :QUỐC PHÓ THỦ TƯỚNG TRỊNH ĐÌNH DŨNG ĐÃ
+Predict    :QUYẾC PHÓ THỦ TƯỚNG TRÊN ÌNH DỐNG ĐÃ
+
+True label :CÔNG BỐ HỒ SƠ
+Predict    :CÙNG BỔ MỘ SƠ
+
+True label :PHÔI GIẤY CHỨNG NHẬN MÀ CHƯA XÁC ĐỊNH ĐƯỢC NGUYÊN NHÂN THÌ PHẢI CÔNG KHAI CÁC SÊ RI
+Predict    :KHÔI GIỚI CHÍ NẬN LÀ CHƠA XÁC ĐỊNH HỢU NGUỄ NHÂN THÌ PHẢU CÔNG KHOI GÁC CKÂY
+
+True label :KIẾN NGHỊ ỦY BAN NHÂN DÂN THÀNH PHỐ XEM XÉT PHÊ DUYỆT
+Predict    :KIỂẾN ĐỊH ỦY BAN NHÂN DÂN THÀNH PHỐ XEM XÉP PHÊY DIỆT
+
+True label :PHÓNG SỰ VẪN CÂU CHUYỆN
+Predict    :PHÒNG SỬ VẪN CẦU CHUYỆN
+
+True label :LÀ GIỐNG QUÝ HIẾM THẦN PHẢI ĐÍCH THÂN ĐI GIÁM SÁT TRẠI ĐÀO MỚI ĐƯỢC
+Predict    :LÀ DÔNG QUÝ TIẾM THẦN VIẠI ĐÍCH THÂN GI SIÁM SẮT THỂ O ĐƯỢC
+
+True label :TỪ CẦU THAM LƯƠNG ĐẾN SÔNG CHỢ ĐỆM CŨNG THEO HÌNH THỨC NÀY
+Predict    :CƯ CÂU THANG NHƯƠNG LẾN SỐNG CHỌ ĐỆT CŨNG THEO HÌNH THỨC NÀY
+
+True label :VÀ CÁC DOANH NGHIỆP VẪN CHƯA MẶN MÀ TRONG VIỆC PHỐI HỢP ĐÀO TẠO NGUỒN NHÂN LỰC CÁC CƠ SỞ ĐÀO TẠO VẪN ĐANG GẶP NHIỀU KHÓ KHĂN
+Predict    :VÀ CÁC DOANH NGHIỆM VUẪN TRÊM MẶN MA TRONG VIỆC VỐI HỢP ĐÀO TẢO NGUÂN NHÂN LỰC ĐÃ CƠ SỞ ĐẢOM TẢO LẪN ĐANG GẶM NHIỀU KHÓ KHĂN
+
+True label :BÊN CẠNH ĐÓ CÁC KHOẢN NỢ XẤU ĐƯỢC ĐẢM BẢO BẰNG BẤT ĐỘNG SẢN
+Predict    :BẾN CẠNH ĐÓ CÁC HẢN NỢ SẤU ĐƯỢC ĐẢM BẢO BẰNG BẤT ĐỘNG SẢN
+
+True label :CÁC MẶT HÀNG DẦU DIESEL DẦU HỎA VÀ DẦU MAZUT CŨNG CÓ MỨC GIẢM TỪ BẢY TRĂM TÁM MƯƠI TƯ ĐẾN MỘT NGÀN
+Predict    :CÁ MẶT HANG N DẦU ĐƯA DÊN CỦỔ HỎ VÀI DÂU MA RÚT CŨNG CÁC MỨC GIẢM TỪ BẢY TRĂM TÁM MƠI TƯ ĐẾN MỘT NGÀN
+
+True label :PHÓNG VIÊN
+Predict    :THÓNG TIN
+
+True label :TĂNG TRƯỞNG KINH TẾ THẾ GIỚI TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM HAI NGHÌN KHÔNG TRĂM MƯỜI CHÍN CÓ THỂ CHỈ BẰNG MỨC TĂNG TRƯỞNG
+Predict    :TĂNG TRƯỞNG KINH TẾ THẾ GIỚI TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM HAI NGHÌN KHÔNG TRĂM MƯỜI CHÍN CÓ THỂ CHÍ BẰNG MỨC TĂNG TRƯỞNG
+
+True label :GIÚP TĂNG TRUNG BÌNH GIÁ TRỊ THƯƠNG MẠI
+Predict    :GIÚP TĂNG TRUNG BÌNH GIÁ TRỊ THƯƠNG MẠI
+
+True label :BAN BÍ THƯ
+Predict    :BÀN BUÍ THƯN
+
+True label :DỰ THẢO VỀ QUẢN LÝ VÀ SỬ DỤNG LÒNG ĐƯỜNG VỈA HÈ
+Predict    :DỰ THẢO VỀ QUẢN LÝ VÀ SỬ DỤNG LÒNG ĐƯỜNG VHE
+
+True label :TRONG CHIẾN TRANH CÓ KHÔNG ÍT NHỮNG TRƯỜNG HỢP
+Predict    :TRONG CHIẾN TRANH CÓ KHÔNG ẾÍT NHỮNG TRƯỜNG HỢP
+
+True label :HAI MƯƠI TẤN HÀNG MAY MẶC ĐÃ QUA SỬ DỤNG ĐỀU KHÔNG CÓ HÓA ĐƠN CHỨNG TỪ
+Predict    :HAI MUYÊN TẤN HÀNG MAY MẶC ĐÃ QUA XÂNG ỤC ĐỀU KHÔNG KCHÔNG HA ĐƠI CHÌNH TỰ
+
+True label :NẾU TÊN TƯỚNG ĐÓ ĐẦU HÀNG THÌ ÔNG HÃY DẪN HẮN ĐẾN GẶP TÔI
+Predict    :NẾU TÊN TƯ ĐO ĐẦU HÀNG KIỂU NGÁY DẪN THẮN ĐẾN GỢP TÔI
+
+True label :PHÁT TRIỂN CỤM CÔNG NGHIỆP
+Predict    :PHÁT TRIỂN CỤM CÔNG NGHIỆP
+
+True label :GIÚP QUÂN ĐỘI HƯỚNG ĐÓ CÓ SỨC CHIẾN ĐẤU TƯƠNG ĐỐI MẠNH
+Predict    :DÚT QUÂN ĐỘ HƯỚNG ĐÓ CÓ RỨC CHIẾN ĐẤU HƯƠNG LỐI MỆNH
+
+True label :DỰ ÁN NẰM Ở PHÂN KHÚC CAO CẤP KHI MÀ YẾU TỐ TIỆN ÍCH
+Predict    :DỰ ÁN NẰM GỞ PHÂN PHÚC CAO CẤP KHI MÀ YẾU TỐ KỆ KÍCH
+
+True label :TRƯỚC ĐÓ VÀO CHIỀU NAY ĐỒNG CHÍ PHẠM MINH CHÍNH ỦY VIÊN BỘ CHÍNH TRỊ BÍ THƯ TRUNG ƯƠNG ĐẢNG TRƯỞNG BAN TỔ CHỨC TRUNG ƯƠNG ĐÃ TIẾP
+Predict    :TRƯỚC ĐÓ VÀ CHIẾUC NAY ĐỒNG CHÍ PHẠM MIH CHÍNH ỦY VIÊN BỘ CHÍNH TRỊ ĐÍN THƯ TRUNG ƯƠNG ĐẢNG TRƯỞN BAN TỔ CHỨC TRUNG ƯƠNG ĐÃ TIẾP
+
+True label :CŨNG TẠI BUỔI LỄ PHÓ THỦ TƯỚNG ĐÃ TRAO TẶNG HUÂN CHƯƠNG LAO ĐỘNG HẠNG NHẤT CHO CỤC QUẢN LÝ KHÁM CHỮA BỆNH BỘ Y TẾ VỀ NHỮNG ĐÓNG GÓP
+Predict    :CŨNG TẢI ĐỔI LỄI PHÓ THỦ TỨNG ĐẤT TRAO TẠNG QUÂN CHƠ LAI ĐỘNG HÀNG NHỚC TROC CÔNG BẢN LÍ KHÁM CHỰU BỂ BMỘI TẾ VỀ NHỮNG DỐNG GÓC
+
+True label :CÓ VĂN BẢN YÊU CẦU CHỦ ĐẦU TƯ NGỪNG THI CÔNG CÔNG TRÌNH
+Predict    :CÓ VĂN BẢN YÊU CẦU CHỦ ĐẦU TƯ NGƯỜNG THI CÔNG CÔNG CHÍNH
+
+True label :THẾ LÀ ĐỒNG LOẠT HẠ VŨ KHÍ XIN ĐẦU HÀNG
+Predict    :KẾ LẠ ĐÔNG NGOẠN HÀO BŨ KÝ SI ĐẦU HÀNG
+
+True label :LẦN ẤY BỐ CẬU NÓI HỌ ĐẾN ĐỂ TÌM SỰ MỚI LẠ NHƯNG RỒI THÌ HỌ VẪN MÃI LÀ CHÍNH HỌ HỌ LEO LÊN ĐỒI
+Predict    :LẦN NẤY BỐ CẦU NÓI THO ĐẾN UỨ ĐỂ BIỀM SỰ MỚI LÀ NHƯNG RỒ THÌ HỒ VŨNG MÃI NA CHÍNH THỌ CỎ LÊ BÊN ĐỜI
+
+True label :KIẾN NGHỊ LÊN CẤP TRÊN KIỂM TRA LẠI NĂNG LỰC CỦA CHỦ ĐẦU TƯ DỰ ÁN
+Predict    :KHIẾN NGHỊ LỀN CẤP TRUỂN KIỂM TRA LÀI NĂNG LỰC CỦA CHỦ ĐẦU TƯ DỰ ÁN
+
+True label :LÀ GẦN MƯỜI TỶ ĐÔ LA MỸ
+Predict    :NHÂN TƠNG MƯỜI TỸ ĐÔ LA MỸ
+
+True label :VÀ TỈNH CAN UÔN CỦA HÀN QUỐC
+Predict    :VÀ TÌNH CAN QUÔN CỦA HÀN QUỐC
+
+True label :KHI NỀN KINH TẾ ĐẦU TÀU CHÂU ÂU PHẢI ĐỐI MẶT VỚI CÁC CƠN GIÓ NGƯỢC
+Predict    :KHI NỀN KINH TẾ ĐẦU TẦU CHÂU ÂU PHẢI NỐI MẶT VỚI CÁC CƠN DÕ LƯỢNG
+
+True label :QUÝ HAI NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM NHƯNG GIÁ THUÊ VÀ TỶ LỆ LẤP ĐẦY VẪN
+Predict    :QUÝY HAI NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM NHƯNG GIÁ THUÊ VÀ TỶ LỆ LẤP ĐÀY VẤT
+
+True label :TIẾP CẬN ĐIỆN NĂNG BẢO VỆ LỢI ÍCH NHÀ ĐẦU TƯ THIỂU SỐ GIAO THƯƠNG QUỐC TẾ THỰC THI HỢP ĐỒNG
+Predict    :TIỆP CẬN ĐIỆN NĂM BÓO VỀ LỚI NHÀ ĐẦU TƯ THIỂU SỐ GSAO THƯỚNG QUỐC TẾ THỰC KHIAỢP ĐỒNG
+
+True label :DÙ SAO ĐI NỮA THÌ CŨNG TẠI HAI THỨ NÀY
+Predict    :NHƯNG SA ĐI NỮA THÌ CŨNG TẠI HAI THỨ NÀY
+
+True label :THÊM HAI MƯƠI TÁM PHẦN TRĂM
+Predict    :THẾM HAI MƯƠI TÁM PHẦN TRĂM
+
+True label :KIẾN NGUỒN CUNG THỊT LỢN TẠI TRUNG QUỐC KHAN HIẾM LẠI CÒN ĐÚNG THỜI ĐIỂM NHU CẦU THỊT LỢN SẮP TĂNG CAO KHI MÀ TẾT NGUYÊN ĐÁN ĐẾN GẦN
+Predict    :KIẾN NỒN CÔNG THỪ LỢU TỞ TRÊNG QUỐC CHỞ NẾN KHANG HIẾM LẠI VẶC ĐỐNG THỜI ĐIỂM NHU CẦU CHỰC LỆN SẤN TĂNG CAO KHI LẠN ẾN ƠN NÀN TẬC ĐẬT
+
+True label :BA BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG ĐÃ THỐNG NHẤT CAO VỚI TỜ TRÌNH
+Predict    :BA BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢO ĐÃ THỐNG NHẤT CAO VẾC TỜ TRÌNH
+
+True label :ĐỀU ĐƯỢC COI LÀ NHỮNG NHÂN TỐ THIẾT YẾU CÓ LIÊN QUAN CHẶT CHẼ TỚI SỰ SỐNG CÒN CỦA DOANH NGHIỆP
+Predict    :ĐỀU ĐƯỢC COI LÀ NHỮNG NHÂN TẤU THIẾT YẾU CÓ LIÊN QUAN CHẶT RẺ TỚI SỰ SỐNG CÒN CỦA DOANH NGHIỆP
+
+True label :TÌM KHE HỞ ĐIỂM YẾU CỦA ĐỐI PHƯƠNG MÀ TẤN CÔNG
+Predict    :TÌN KHAI HỞO ĐIỂM YẾU C ĐỐI PHƯƠNG MÀI TẤN CÔNG
+
+True label :TRẺ PHẢI ĐƯỢC ĐÓNG VAI CHÍNH TRONG CUỘC ĐỜI MÌNH TỰ MÌNH SỐNG VÀ TỰ MÌNH TRẢI NGHIỆM
+Predict    :TRẺ PHẢI ĐƯỢC ĐÓNG VAI CHÍNH TRONG CUỘC ĐỜI MÌNH TỰ MÌNH SỐNG VÀ TỬ MÌNH TRẢI HIỆM
+
+True label :KHÔNG THU KINH PHÍ BẢO TRÌ TỪ VIỆC BÁN NHÀ VÀ HAI MƯƠI BA TÒA NHÀ
+Predict    :KHÔNG TU KINH VÍ BẢO TRÌ TỪ VIÊU BÁN NHÀ VÀ HAN MƯƠI BA TÀN NHÀ
+
+True label :TRONG NĂM TỚI CẦN ĐẨY NHANH VIỆC
+Predict    :TRONG NĂM TỚI CẦN ĐẨI NHAN VIỆC
+
+True label :VÀ TRÁI PHIẾU CHÍNH QUYỀN ĐỊA PHƯƠNG
+Predict    :VÀ TRÁI PHIẾU CHÍNH QUYỀN ĐỊA PHƯƠNG
+
+True label :GIÁ CÀ PHÊ TRONG NƯỚC VẪN TIẾP TỤC GIẢM TRONG KHI VỤ THU HOẠCH CÀ PHÊ TẠI TÂY NGUYÊN MỚI ĐẠT ĐƯỢC KHOẢNG BỐN MƯƠI PHẦN TRĂM
+Predict    :SẼ CÁ VÊ TRONG NƯỚC VẪN TIẾT TỤC GIẢM TRONG KHI VỤ THUOẠCH KÉO PÊ TẠI TÂY NGUYÊN MỚI ĐẠT TỪ KHOẢNG BỐN MƯƠI THẦN TRĂM
+
+True label :VÌ MỤC ĐÍCH TỐNG TIỀN HOẶC CÁC MỤC ĐÍCH KHÔNG TRONG SÁNG KHÁC
+Predict    :VÌ MỤC ĐỊCH TỐNG TIỀN VÀ CÁC HỤC ĐÍCH KHÔNG TRONG SÁNG KHÁC
+
+True label :CẢNH TÔNG LỆNH CHO ĐIỆN KHAI CƯƠNG DẪN QUÂN ĐI ĐÁNH
+Predict    :CẢNH CÔNG MẠT CHO BIỆN KHAI CƯƠNG DẪN QUÂN LÝ ĐÁN
+
+True label :HÀ NỘI TĂNG CƯỜNG CÔNG TÁC QUẢN LÝ CHẤT
+Predict    :HÀ NỘI TĂNG CƯỜNG CÔNG TÁC QUÂN ĐÝ CHẤT
+
+True label :CHỦ TỊCH POWELL ĐÃ CHO THẤY LẬP TRƯỜNG TRUNG LẬP CỦA MÌNH
+Predict    :CHỦ TỊCH BAO LEO ĐÃ TRONG THẨY LẬC TRƯỞNG TRUNG LUẬP CỦM MÌNH
+
+True label :NHỮNG DANH NHÂN Ở ĐẬP CHO RẰNG CÁC NỀN KINH TẾ HỒI GIÁO CÓ THỂ ĐÓNG GÓP VIỆN TRỢ NHÂN ĐẠO NHIỀU HƠN CHO LIÊN HIỆP QUỐC
+Predict    :NIỆU DÂN NHỀN CẢO LUẬP CHO RẰNG CÁC NGỀN KINH TẾ HỒI GIÁO CÓ THỂ ĐÓNG GÁP VIỆN TRUỢN NHÊN ĐẠO NHIỀU HƠN CHRON ĐIÊN ĐỢP QUỐC
+
+True label :THEO THỐNG KÊ CỦA BẢO HIỂM XÃ HỘI VIỆT NAM TUỔI NGHỈ HƯU BÌNH QUÂN CỦA NƯỚC TA LÀ NĂM MƯƠI BA PHẨY BỐN TUỔI NHỮNG NGÀNH NGHỀ ĐỘC
+Predict    :THEO THỐNG KÊ CỦA BẢO HIỂM XÃU HỒI VIỆT NAM TỞI NGHÌ HƯÊU BÌNH QUÂN CỦA NƯỚC TA LÀ NĂM MƯƠI BA PHẨY HUỐNG TỔI NHỮNG NGÀYH NGHỀ ĐỘC
+
+True label :CÙNG DOANH NGHIỆP PHẢI THAY ĐỔI MÔ HÌNH QUẢN TRỊ CÁCH TƯƠNG TÁC VỚI KHÁCH HÀNG CÁCH QUẢN LÝ ĐỘI NGŨ NHÂN VIÊN
+Predict    :CÙNG DOANH NGHIỆP PHẢI THAY ĐỔI MÔ HÌNH QUẢN TRỊ CÁCH ĐƯỜNG TÁC VỚI KHÁCH HÀNG CÁCH QUẢN LÝ ĐỢI MỖA NHÂN VIÊN
+
+True label :KHÔNG CHỈ RIÊNG TẠI QUẢNG TRỊ
+Predict    :KHÔNG CHỈ RIÊNG TẠI QUẢN TRỊ
+
+True label :QUỐC GIA VÌ SỰ PHÁT TRIỂN BỀN VỮNG ĐẾN NĂM HAI NGHÌN KHÔNG TRĂM BA MƯƠI
+Predict    :QUỐC GIA VI SỰ PHÁT TRIỂN BỀN VỮNG ĐẾN NĂM HAI NGHÌN KHÔNG TRĂM BA MƯƠI
+
+True label :DỰ KIẾN CÓ KHOẢNG BA MƯƠI HAI NGHÌN CĂN HỘ MỚI MỞ BÁN TẠI HÀ NỘI
+Predict    :DỰ KIẾN CÁO QHUOẢNG BAN ĐƠ HAI NGHÌNH CÁN HỘ MỚI MỜI BÁN TÀ NỘI
+
+True label :BẢN THÂN MÌNH KHÔNG HỀ CÓ GIÁ TRỊ ĐỂ ĐƯỢC YÊU THƯƠNG
+Predict    :BẢN THÂN MÌNH KHÔNG HỂ CÓ XÁ CHỈ ĐỂ ĐƯỢC TYÊU THƯƠNG
+
+True label :VÌ ĐÂY KHÔNG CHỈ ĐƠN THUẦN LÀ VẤN ĐỀ LAO ĐỘNG
+Predict    :VÌN TÂY KHÔNG CHÍ ĐẤN HẦN LÀ VÀI LỊ LAO ĐỘNG
+
+True label :KHU CHỢ NÀY
+Predict    :KHỖ TRỢ NÀY
+
+True label :TUY NHIÊN HIỆN NAY
+Predict    :TUY NHIÊN HIỆN NÀY
+
+True label :KHẢ NĂNG TÀI CHÍNH ĐỂ TIẾP TỤC TRIỂN KHAI DỰ ÁN VÀ
+Predict    :CẠI NANG TÀI CHÍNH ĐỂ TIẾP TỤC TRIỂN HAI DỰ ÁN VÀ
+
+True label :NÊN NGUỒN CUNG TRÊN THỊ TRƯỜNG CÓ THỂ GIẢM KHIẾN MỨC GIÁ TĂNG MẠNH
+Predict    :NÊN NGUỒN CUNG TRÊN THỊ TRƯỜNG CÓ THỂ GIẢM KHIẾN MỨC GIÁ TĂNG MẠNH
+
+True label :TẦM CAO MỚI
+Predict    :CẦNG CÒN BỜI
+
+True label :CÁC ĐẠI BIỂU VỀ MỘT SỐ ĐIỂM NỔI BẬT VỀ SỰ PHÁT TRIỂN CỦA KINH TẾ VIỆT NAM KHÔNG CHỈ QUAN TÂM ĐẾN TỐC ĐỘ TĂNG TRƯỞNG KINH TẾ
+Predict    :CÁC ĐẠI BIỂU VỀI MỘT SỐ ĐIỂM NỜI BẶT VỀ SỰ PHÁT TRIỂN CÀ KINH TẾ VIỆT NAM KHÔNG CHỈ QUAN TÂM ĐẾN TỐC ĐỘNG TĂNG TRƯỞNG KINH TẾ
+
+True label :VỪA QUA ĐOÀN GIÁM SÁT CỦA HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH ĐÃ
+Predict    :VỪA QUA ĐOÀN GIÁM XÁT CỦA HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH ĐÃ
+
+True label :LÚC NÀY CỔ CHỊU TỬ NHẢY RA NÓI
+Predict    :LÚC NẠYH CỔ CHỊU TỬ NHẠY TRA NÓN
+
+True label :CHIẾN LƯỢC
+Predict    :PIÊN LƯỢCTẾN GỚ
+
+True label :QUẢN LÝ SỬ DỤNG ĐẤT CÓ NGUỒN GỐC
+Predict    :QUẢN LÝ SỬ DỤNG ĐẤT CÓ HUỒN ĐỐC
+
+True label :TỈNH LẠNG SƠN
+Predict    :TỈN ĐẠNG SƠN
+
+True label :GIẢM HƠN MỘT NỬA SO VỚI DỰ KIẾN BAN ĐẦU
+Predict    :GIẢM HƠN MỘT NỬU SO VÂI DỰN KIẾN BAN ĐẦU
+
+True label :LÝ TẢ SA ĐÃ KHUYÊN HÀN TÍN
+Predict    :LÝ TẢ RA ĐÃ HUYÊN HÀN TÍN
+
+True label :CHUYỂN MỤC ĐÍCH SỬ DỤNG ĐẤT CỦA NĂM TRĂM BẢY MƯƠI BẢY DỰ ÁN VỚI NĂM NGHÌN
+Predict    :CHUYỂN MỨC BÍCH SỬ DỤNG ĐẤT QUỦN NĂM TRĂM BAY MƠI BẢY DỰ ÁN VỞI NĂM NGHÌ
+
+True label :THẢI TẠI NHIỀU VÙNG BIỂN VẪN CÒN BỊ BỎ NGỎ
+Predict    :HẠI TẠI NHIỆU CỔNG BIỆT TẪN CÒN BỊ BỎ MÓ
+
+True label :TRUNG QUỐC
+Predict    :TRỒNG QUỐC L NU
+
+True label :THÌ SỚM MUỘN CŨNG THÀNH TÙ BINH CỦA ĐỊCH MÀ THÔI
+Predict    :THÌ RƯỚNG MỘI CŨNG THÀNH TỦ BINH CỦA ĐỊCH MÀ THÔI
+
+True label :MỘT CUỘC SỐNG BẤP BÊNH PHẢN ÁNH CỦA NHÓM PHÓNG
+Predict    :MỘT CUỘT SỐNG MỚC BẦNH VÀ ÁNHN CỦA NHÂN PHÚC
+
+True label :HOÀN TOÀN MIỄN PHÍ
+Predict    :HOÀNG TOÀN BIỊN PHÍ
+
+True label :THƯA QUÝ VỊ VÀO TỐI QUA NGAY SAU LỄ KHAI MẠC HỘI NGHỊ LẦN THỨ HAI SÁU DIỄN ĐÀN NGHỊ VIỆN
+Predict    :THƯA QUÝ VỊ VÀO TỐI QUA NAY SÁU LẾI KHAN BẠI HỘI NGHỊ ĐẦN THỨ HAI SÁU DIỄN ĐÀN NHỊ VIỆC
+
+True label :KHÓA MƯỜI HAI BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG ĐÃ THẢO LUẬN
+Predict    :ĐỀU KHÁA MƯỜ HAI BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG ĐÃ THẢO LUƯỢN
+
+True label :TRONG THỜI GIAN TỚI TỈNH SẼ THỰC HIỆN
+Predict    :TRONG THỜI GIAN TỚI TÌNH DẼ THỰC HIỆN
+
+True label :SỬ VĂN HÓA
+Predict    :SỬ QĂN HÓA
+
+True label :THƯA QUÝ VỊ LỄ ĐÓN VỊ KHÁCH QUỐC TẾ THỨ MƯỜI LĂM TRIỆU ĐẾN VIỆT NAM TRONG NĂM NAY
+Predict    :THƯA QUÝ VỊ LỆ ĐÓ VỊ KHÁC QUỐC TẾ THỨ MƯỜI LĂM TRIỆU ĐẾN VIỆT NAM TRONG NĂM NAY
+
+True label :LIÊN QUAN TRONG NƯỚC PHỐI HỢP XỬ LÝ VỤ VIỆC
+Predict    :VAN LIÊN QUAN TRONG NƯỚC PHỐI HỢP XỬN LÝ VỤ VIỆC
+
+True label :TRÁNH TÌNH TRẠNG NGƯỜI YÊU CẦU LẬP
+Predict    :CHÁNH TÌM TRANG NỚN ÂNG CẦU LÀ
+
+True label :GIÁ XUẤT KHẨU TRUNG BÌNH TRONG MƯỜI THÁNG ĐẦU NĂM
+Predict    :GIÁ XUẤT KHẨU TRUNG BÌNH TRONG MƯỜI THÁNG ĐẦU NĂM
+
+True label :SỞ CŨNG GIAO CHO THỦ TRƯỞNG ĐƠN VỊ CÁC TRƯỜNG HỌC THEO DÕI TỈNH THỜI TIẾT
+Predict    :SỞ CŨNG GIAO CHO THỦ TRƯỜNG CÁ ĐÂN VỊ CÁC TRƯỜNG HỌC THEO DÕ TÍNH THỜI TIẾT
+
+True label :ĐEM QUÂN CÙNG VỚI BA VẠN NHÂN MÃ
+Predict    :ĐEM QUÂN CÙNG VỚI BA VÀ NGHÂN MÃ
+
+True label :TRANH CHẤP
+Predict    :TRANH CHẤP
+
+True label :Ở ĐẤY CẬU CÓ THỂ ĐỔI QUYỂN SÁCH LẤY QUYỂN DÀY HƠN
+Predict    :ÔI ĐẤY CẬU CÓC HỂY ĐỎ TUYỂN SÁCH ĐẤY QUYỆN GDỀY HƠN
+
+True label :CẤM TIẾP CẬN HỆ THỐNG TÀI CHÍNH MỸ VÀ BỊ PHONG TỎA TÀI SẢN
+Predict    :CẤN TẤP CẬN HỆ THỐNG TÀI CHÍNH MỸ VÀ BỊNH PHONG TỎA CẠI SẢN
+
+True label :ĐƯA RA TẠI MỘT HỘI THẢO DO BỘ LAO ĐỘNG THƯƠNG BINH VÀ XÃ HỘI VỪA TỔ CHỨC MỚI ĐÂY
+Predict    :ĐƯA RA TẠI MỘT HỘI THẢO DO BỘI LAO ĐỘNG THƯƠNG MINH VÀ XÃ HỘI VỪA TỔ CHỨC MỚI ĐÂY
+
+True label :VỚI SỰ THAM GIA CỦA MƯỜI MỘT NỀN KINH TẾ TRONG KHU VỰC CHÂU Á THÁI BÌNH DƯƠNG
+Predict    :VỚI SỰ THAM RA CỦA MƯỜI MỘT ĐỀN KINH TẾ TRONG KHU VỰC CHÂU Á THÁI BÌNH DƯƠNG
+
+True label :LÀ HƠN MƯỜI MỘT NGÀN CHÍN TRĂM TỶ ĐỒNG DỰ KIẾN THỜI GIAN THI
+Predict    :LÀ HÔN MƯỜI MỘT NGÀN CHÍM TRĂM TỶ ĐỒNG HIỀU KÍN THỜI GIAN KẾT
+
+True label :TRONG KHI ĐÓ TẠI THÀNH PHỐ CẦN THƠ MỚI ĐÂY MỘT NHÀ MÁY XỬ LÝ RÁC CÔNG NGHỆ CHÂU ÂU ĐÃ ĐƯỢC ĐƯA VÀO VẬN HÀNH
+Predict    :TRONG KI ĐÓ TẠI THÀNH PHỐ CẦN THƠ MỚI ĐÂY MỘT NHÀ MÁY XỬ Ý RÁC CÔNG NGHỆ CHÂU ÂU ĐÃ ĐƯỢC ĐƯA VÀO VẬN HÀNH
+
+True label :VỀ NHIỆM VỤ PHÁT TRIỂN KINH TẾ
+Predict    :VỀ NHIỆM VỤ PHÁT TRIỂN KINH TẾT
+
+True label :LIÊN TIẾP TRONG HAI NGÀY HÔM QUA VÀ HÔM NAY ĐÃ XẢY RA SỰ CỐ ĐỐI VỚI HÃNG HÀNG KHÔNG VIETJET
+Predict    :LIÊN TIẾP THONG HAI NGÀY KHÔNG QUA KHÓ HỒM NÀY ĐÃ XẢY RA SỰ CÔ ĐỐI VỚI HAC MÀNG KHÔNG VIỆC CHẬN
+
+True label :MẶC DÙ CÂY ĐÀO RẤT XANH TỐT
+Predict    :MẶ DỦ CÁI ĐÀO RẤT SANH BÓC
+
+True label :PHÓ BÍ THƯ TỈNH ỦY CHỦ TỊCH
+Predict    :HÁN TI T TẬN LỸ CHIỤU TỰC
+
+True label :TRONG NHỮNG NĂM CÁCH MẠNG VĂN HÓA TRUNG QUỐC
+Predict    :TRONG NHỮN NĂM CÁCH MẠN BĂN MA TRUNG QUỐC
+
+True label :ĐẾN TẦNG NĂM CÓ CHỨC NĂNG LÀM
+Predict    :ĐIỆN TẦNG ĐĂM CÓ CHỨC NĂNG LÀM
+
+True label :CƠ SỞ ĐÁNH GIÁ TÌNH HÌNH HOẠT ĐỘNG VIỆC CHẤP HÀNH CÁC TỶ LỆ ĐẢM BẢO AN TOÀN TRONG HOẠT ĐỘNG QUY MÔ
+Predict    :CƠ SỞ NHÊN GÁ TỶ ĐÌNH HẬT ĐỘNG TIỰC CHẤC HANH CHẤC TỶ LỆ ĐẰNG BẢU AN TOÀN TRONG MẠT ĐỘNG BUY MÔ
+
+True label :CON MÌNH ĐÃ LỚN VÀ KÉO DÀI MÃI VIỆC BẢO HỘ CHI PHỐI NÀY
+Predict    :CON MÌNH ĐÃ LỚN VÀ KÉO DẢI MÃI KIỆC BẢO HỘ CHỈ PHỐI NÀY
+
+True label :TRẺ PHẢI THEO Ý CHA MẸ NỮA
+Predict    :TRẺ PHẢI THEO BÍ CHA MẸ NỮA VUỚI THÍNH GIẢ THẤNG MUẾN
+
+True label :TRONG ĐĨA VẪN CÒN HAI TRÁI ĐÀO
+Predict    :TRONG NẾA VỚI CÒN HAI TRÁI ĐÀO
+
+True label :CŨNG KHIẾN TRÁI TIM TA NGẬP TRÀN HẠNH PHÚC
+Predict    :CŨ ỨC KIẾN THÁI TIN TA NGẬP TRẢN HẠNH PHÚC
+
+True label :TRÌ VÀ NÂNG CAO CHẤT LƯỢNG VIỆC THỰC HIỆN CÁC QUY ĐỊNH NÀY
+Predict    :TRÌ VÀ NÂN CAO CHẤT LƯỢNG VỆC THỰC HIỆN CÁC QUY ĐỊNH NÀY
+
+True label :ÔNG THÔNG MINH HIẾU HỌC RẤT TINH THÔNG VỀ BINH PHÁP VÕ NGHỆ CAO CƯỜNG
+Predict    :ÔNG THÔNG MINH YẾU HỌC XẤT TIN THÔNG PHẢI BINH KHÁC VÓ NGHỀI CAO CHƯỜNG
+
+True label :CẢM TỐT ĐẸP Ở VIỆT NAM MONG MUỐN HAI BÊN QUAN TÂM THÚC
+Predict    :CẢM CỐC ĐẸ VỚI VIỆT NAM VÀ MỘ MỐN NHỜI BÊN QUAN TÔMG
+
+True label :TUY NHIÊN ĐỨNG Ở GÓC ĐỘ TOÀN CỤC CHIẾN TRANH MÀ NÓI THÌ VIỆC PHÁN ĐOÁN BÊN NÀO CHIẾN THẮNG
+Predict    :TUY NHIÊN ĐỨNG HÀ KÓC ĐỘ TOÀN CỘC CHIẾN TRANH NGÀ NÓI THÌ VIỆC PHÁN ĐOÁN TÊN NÀO CHIẾN THẮNG
+
+True label :DU LỊCH CHẬM TRIỂN KHAI VÀ THU HỒI BỐN MƯƠI CHỦ TRƯƠNG ĐẦU TƯ
+Predict    :DỬIH CHẬP TRIỂN TAI VÀ THU HỒI BỐN MƯI CHỦ TRƯỜNG ĐẦU TƯ
+
+True label :TRONG ĐẤU TRANH CHÍNH TRỊ VÀ QUÂN SỰ
+Predict    :TRONG BỖ CHA CHÍN TRỊ VẢ QHUÂN SỬ
+
+True label :CÓ GIẢI PHÁP ỨNG PHÓ KỊP THỜI ĐẢM BẢO AN TOÀN
+Predict    :TÓ GIẢI PHÁP HN PSÓ KỂ THỜI ĐÀM ĐỎI CANÀ
+
+True label :NHƯNG ANH EM CỦA NGÀI CÓ TỚI HƠN HAI MƯƠI NGƯỜI
+Predict    :NHƯNG TAI NGHIÊN CUỘN NÀI CÓ TỚI QUƠN HAI MÌN NGƯỜI
+
+True label :CẬU NGHĨ MÌNH SẼ CHỈ CHO NHÂN VẬT NÀY XUẤT HIỆN TIẾP NHÂN VẬT KHÁC ĐỂ NGƯỜI ĐỌC KHỎI RỐI TRÍ
+Predict    :CẬU NGỄ BÀNH SÁY TRỊ CHA NHƯNG VẬN NÀY SỨT HIẺN TIẾP NHÂNG VẬT KHÁC ĐỂ MGỜI ĐỌC HỌI RỚI KÍ
+
+True label :CAMPUCHIA ĐÃ LONG TRỌNG TỔ CHỨC MÍT TIN
+Predict    :COMPUCHIA ĐÃ LĂM TRỌNG TỔ CHỨC NMUIẾT TINH
+
+True label :VỚI HƠN MỘT TRĂM THỊ TRƯỜNG XUẤT KHẨU
+Predict    :VỚI HƠN MỘT TRĂM THỊ TRIỂN XUỨẤT HỌN
+
+True label :HOÀNG TỬ ANDREW CỦA LIÊN HIỆP VƯƠNG QUỐC ANH VÀ BẮC
+Predict    :TĂN TỬ ANH CHU CỦA LÊNH HGHIỆ VHÔNG QUỐC AN VÀ BẮC
+
+True label :ĐÁNH VÙNG PHIẾU LÀ MỘT NGUYÊN TẮC CƠ BẢN ĐỂ GIÀNH THẮNG LỢI TRONG CHIẾN ĐẤU TRONG CHIẾN TRANH
+Predict    :ĐÁNH VŨNG YẾU LÀ MỘT NGUYÊN TÁC CƠ BÀNG ĐỂ DÀNH THÁNG LỢI TRONG CHIẾN ĐỐNG TRONG CHIẾNH TRANH
+
+True label :CƯ SỐ CHÍN VÀ SỐ MƯỜI PHƯỜNG THỤY KHUÊ QUẬN TÂY HỒ HÀ NỘI TRONG NGÀY HỘI
+Predict    :CƯ SỐ CHÍN VÀ SỐ NGƯỜI PHƯỜNG THỊ QUÊ QUẬN TÂY HỒ HÀ NỘI TRONG NÀY HỘI
+
+True label :QUY MÔ HƠN BỐN TRĂM TỶ ĐÔ LA MỸ TRONG ĐÓ NGÂN SÁCH
+Predict    :QUY MÔ HƠN BỐNG TRĂM TỶ ĐÔ LA MỸ TRONG ĐÓO NGÂN GÁT
+
+True label :CÁC CÔNG TY KHỞI NGHIỆP CỦA NHẬT BẢN ĐANG CHẠY ĐUA ĐỂ CHIẾM LĨNH THỊ TRƯỜNG THANH TOÁN TRỰC TUYẾN NHIỀU TIỀM NĂNG NÀY
+Predict    :CÁC CÔNG TY KHỞ NHIỆP CỦA NHẶT BẢN ĐÁNG CRẠI LUA ĐỂ CHIẾN LĨNH THỊ TRƯỜNG THANH TOÁN TRỰC TUYẾN NHIỀU TIÊN NĂNG NÀY
+
+True label :ĐÁNH GIÁ CÔNG TÁC TỔ CHỨC THÌ VIỆT NAM ĐÃ LÀM TẤT CẢ ĐỂ HỘI NGHỊ DIỄN RA MỘT CÁCH HIỆU QUẢ
+Predict    :ÃĐÁNH GIÁ XẤU VÁC DƯỰC ĐỒ THỨC TÌ VIỆT NAM ĐÃ LÀM TẤT CẢ ĐỂ Ô NHỊ DIỄN RA MỘI CÁC ĐIỆU LUÀ VÀ
+
+True label :ĐỂ CHỈNH ĐỐN ĐỘI NGŨ TÍCH THÊM QUÂN LỰC VÀ CHUYỂN THÀNH PHẢN CÔNG
+Predict    :ĐỂ CHÌNH ĐỐNG ĐỢI NGŨ TÍ KHÊM QUÂN LỰC VÀ CHUYỂN THÀNH PHÀN CÔNG
+
+True label :THỦ TƯỚNG NGUYỄN XUÂN PHÚC ĐỀ NGHỊ BAN CÁN SỰ ĐẢNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ CẦN HUY ĐỘNG MỌI NGUỒN LỰC
+Predict    :THỦ TƯỚNG NGUYỄN XUÂN PHÚC ĐỀ NGHỊ BAN LÃ SỰ ĐẢNG BỘ KHÊT VÀ ĐẦU TƯ CẦN HUY ĐỘNG MỌI NUÔI LƯỢC
+
+True label :TỔNG LỢI NHUẬN TRƯỚC THUẾ ĐẠT HƠN SÁU MƯƠI BẢY NGHÌN TỶ ĐỒNG TĂNG BỐN MƯƠI MỐT PHẦN TRĂM SO VỚI CÙNG KỲ NĂM TRƯỚC
+Predict    :TỔNG LỄI LUẬN TRỚC THUẾ ĐẠT HƠN SÁU MƯƠI BẢY NGHÌN TỶ ĐỒNG TĂNG BỐN MƯƠI MỐT PHẦN TRĂM SO VỚI CÙNG KỲ NĂM TRƯỚC
+
+True label :TẠI CUỘC LÀM VIỆC VỚI LÃNH ĐẠO CHỦ CHỐT CỦA TỈNH
+Predict    :TẠI CUÔN LÀM VIỀC VÀ ĐÃNH ĐẠO CHỦ THỐT CUỦC TỈNH
+
+True label :TẠI THƯỢNG HẢI
+Predict    :TẶNG THƯỢC NÀI
+
+True label :GIÁ XĂNG E NĂM RON CHÍN HAI
+Predict    :TIÁO SANG KHAY NĂM ĐÓN CHÍNH HÒI
+
+True label :CÓ MƯỜI BẢY NGHÌN HAI TRĂM SÁU MƯƠI SÁU NGƯỜI NHẬT BẢN ĐANG SINH SỐNG VÀ LÀM VIỆC
+Predict    :CÓ MƯỜI BẢY NGHÌN HAI TRĂM SÁU MƯƠI SÁU NGƯƠI NHẬT BẢN ĐÁNG SINH SỐNG VÀI LÀMV
+
+True label :CẬU CHĂN CỪU NGƠ NGÁC HỎI
+Predict    :CẬU CHĂN CỪU NLƠN NGÁC HỎI
+
+True label :CÁC BỘ TRƯỞNG CỦA EU CŨNG SẼ THAM GIA TIẾN TRÌNH NÀY
+Predict    :CÁC BỘ TRƯỞNG CE EU CŨNG SẼ THAM GIA TIẾN CHÌNH NÀY
+
+True label :THEO ĐÓ CHO PHÉP CÁC CÔNG TY DỊCH VỤ TÀI CHÍNH CỦA ANH
+Predict    :THEO ĐÓ CHO PHÉP CÁC CÔNG TIY DỊCH VỤ TÀI CHÍNH QUANH
+
+True label :CAO VỊ THẾ CỦA CÁC ĐỒNG NỘI TỆ CỦA CẢ HAI NƯỚC
+Predict    :CEO VIY KẾ CỦA CÁC ĐỒNG NỘI TỆ CỦA CA HA NƯỚC
+
+True label :ĐỒNG THỜI ĐỀ NGHỊ TRONG NĂM HAI NGHÌN MƯỜI CHÍN HAI NƯỚC SẼ TIẾP TỤC
+Predict    :ĐỒNG THỜI ĐỀ NGHỊ TRONG NĂM HAI NGHÌN MƯỜI CHÍN CHÀI NƯỚC SẼ TIẾP TỤC
+
+True label :VI BẰNG HIỂU SAI VỀ GIÁ TRỊ CỦA VI BẰNG THEO ĐÓ VI BẰNG
+Predict    :VI BẰNG HIỂU SAI ĐỀ GIÁ TRỊ CỦN VI ĐẰNG THEO ĐÓ BI BẰNG
+
+True label :CÔNG TƯ TẠI VIỆT NAM TIẾP CHỦ TỊCH HỘI HỮU NGHỊ HÀN VIỆT
+Predict    :CÔNG TƯ TẠO VIỆT NAM  TIẾP CHIỮU TỊCH HỘI HỖN NGHỊ HÀNG VIỆC
+
+True label :KDI CHO RẰNG CẦN TÍCH CỰC XÚC TIẾN HƠN NỮA CHÍNH SÁCH
+Predict    :KAĐI CHO RẰNG CẦN TÍCH CỰC XÚC TIẾN HƠN NỮA CHÍNH SÁCH
+
+True label :DOANH NGHIỆP VÀ CÁC NHÀ ĐẦU TƯ
+Predict    :SANH NGHIỆP VÀ CÁC NHÀ ĐẦU TƯ
+
+True label :QUẢ ĐÚNG LÀ LÝ NHẬT VIỆT
+Predict    :QUẢ ĐÚNG LÀ LÝ NHẬT VIỀN
+
+True label :VUA TƯỚNG GIẢ
+Predict    :THU TƯỚNG GIẢ
+
+True label :THỦ TƯỚNG NGUYỄN XUÂN PHÚC CHO RẰNG NHỮNG THAY ĐỔI VỀ
+Predict    :THỚI THÚN Ớ XUÂNG PHÚC CHO RẰNG NHỮNG THAY ĐỔI VỀ
+
+True label :TỪ KHI TRIỂN KHAI THỰC HIỆN
+Predict    :THƯ QUY TRÊN KÁIC HẾ
+
+True label :CHO RẰNG VIỆC PHÁT HIỆN THAM NHŨNG QUA CÔNG TÁC TỰ KIỂM TRA GIÁM SÁT CÒN YẾU CHẤT LƯỢNG CÁC CUỘC KIỂM TRA CHƯA CAO
+Predict    :CHO RĂN DIỆN PHÁT HIỆN THÁN NƯỮNG CA CÔNG TÁC TỰ KIỂM TRAO GIÁM SẮT VÒN TIẾU CẤT LƯỢN CÁC CỐC TIỂM TRA CHƯA CAO
+
+True label :VÀ TÒA THÁNH ĐÁP ỨNG LỢI ÍCH CỦA HAI BÊN TRONG ĐÓ CÓ LỢI ÍCH CỦA CỘNG ĐỒNG CÔNG GIÁO VIỆT NAM THỦ TƯỚNG KHẲNG ĐỊNH CHÍNH PHỦ LUÔN KHUYẾN KHÍCH
+Predict    :VÀ THỎA HÁNH ĐÁP ĐỨNG LỢI ÍCH CỦA HAI BÊN TRONG ĐÓ CÓC LỢI ÍC CỦA CỘC ĐỒNG CÔNG GIÁO VIỆT NAM THỦ TƯỚNG KHẲNG ĐỀNH CHÍNH PHỦ LUÔN KHUYẾN KẾC
+
+True label :PHỐI HỢP TRIỂN KHAI VIỆC CẮM MỐC
+Predict    :PHỐ HỢP TRIỂN KAI VỆC CÁMG MẤC
+
+True label :NHẦM MUỐN NÓI ĐỂ CON TỰ LÀM
+Predict    :NHÀ MUỐN NÓI ĐỂ CONG TỰ LÀM
+
+True label :TRƯỚC NHỮNG LO NGẠI CỦA DOANH NGHIỆP
+Predict    :TRƯỚC NHIẾN LO NẠI CỦA DOANH NGHIỆP
+
+True label :HAI HƯỚC SẼ TĂNG CƯỜNG TIN CẬY CHÍNH TRỊ GIAO LƯU NHÂN DÂN
+Predict    :HAI NƯỚC SẼ TANG CỬNG TIN TẠI CHÍNH TRỊ SAO NHƯN NHÂN DÂN
+
+True label :CÔNG TRÌNH NHÀ KHÁCH VÀ ĐẶT
+Predict    :CÔNG TRÌNH NHÀO KHÁCH VẠT ĐĂN
+
+True label :KHÔNG CẦN ĐÁNH MÀ LÀM KẺ ĐỊCH KHUẤT PHỤC
+Predict    :KHÔNG CẦN ĐÁNH MÀ LÀM KẺ ĐỊCH KHUẤT PHỤC
+
+True label :THÀNH PHỐ CŨNG CHO PHÉP CHUYỂN ĐỔI MỤC ĐÍCH SỬ DỤNG ĐẤT TỪ ĐẤT NÔNG NGHIỆP SANG ĐẤT CÔNG NGHIỆP
+Predict    :THÀNH PHỐ CŨNG CHAO XÉT TRIỂN ĐỬU Ụ ĐẾT SỬ DỤNG ĐẤT TỬ ĐẤT NÔNG NGHIỆP SRĂNG ĐẤT CÔNG NGHỀU
+
+True label :SẢN VIỆT NAM
+Predict    :SẢN VIỆT NAM
+
+True label :CHẲNG BAO LÂU THỜI KỲ BẢO HỘ VÀ CHI PHỐI SẼ KHÔNG CÒN CẦN THIẾT NỮA
+Predict    :CHẲNG BÓ LÂU THỜI KÌ BẢO HỘ VÀ CHÌ PHỐI SẼ KHÔNG CÒN CẦN THIẾT NỮA
+
+True label :VÀ CHỈ TIÊU TỶ LỆ DÂN SỐ THAM GIA BẢO HIỂM Y TẾ ĐẠT
+Predict    :VÀ CHÍ TIƯU TỶ LỆN DÂN SỤ THAMG GIA BẠ HIỂM Y TẾ 
+
+True label :ĐẾN NAY CÁC DOANH NGHIỆP BÌNH ỔN THỊ TRƯỜNG THÀNH PHỐ HỒ CHÍ MINH ĐẦU TƯ BỐN MƯƠI HAI NHÀ MÁY CƠ SỞ SẢN XUẤT
+Predict    :ĐẾN NAY CÁC SAN NGHIỆP BÌNH ỒN THỊ TRƯỜNG THÀNH PHỐ HỒ CHÍ MINH ĐẦNG TƯ BỐN MƯƠI HAI NHÀ MÁY CƠ SỞ SẢN XUẤT
+
+True label :CHÚ TRỌNG XÂY DỰNG ĐỘI NGŨ CÁN BỘ
+Predict    :CHÚ TRỌNG XÂY DỰNG LỘC MỘA VÁN BỘ
+
+True label :NHỮNG NGUY HẠI DO TRÀO LƯU TIÊN TRI GÂY RA TỐNG THÁI TỔ ĐÃ NGHĨ RA MỘT DIỆU KẾ
+Predict    :NHỮNG NGUY HẠI DO TRẢO LƯU TIÊN CRÌ LÂY RA TÔNG THÁI TỔ ĐÃ NGĨ RA MỘT DỆU KẾ
+
+True label :THÌ KHI ẤY NGƯỜI TƯỚNG LĨNH THEO TÔN TỬ MỚI XỨNG ĐÁNG ĐƯỢC GỌI LÀ MƯU TRÍ NHẤT
+Predict    :THÌ KHÍ ẤY NGƯỜI TƯỚNG LĨNH THEO TÔN TỬ MỚI DỨNG ĐÁN ĐƯỢC GỌI LÀ MƯU CHỨ NHẮT
+
+True label :LỜI KÊU GỌI TOÀN QUỐC KHÁNG CHIẾN MÙA ĐÔNG NĂM MỘT NGÀN CHÍN TRĂM BỐN SÁU
+Predict    :CÁI TIÊU CỌN COON CUỐC ÁNG CIẾN ĐỞ ĂN LA MƠI LÁI CHẶT HƠI SÁU
+
+True label :ĐẢNG ĐOÀN TRUNG ƯƠNG HỘI NÔNG DÂN VIỆT NAM ĐỒNG CHÍ TRƯƠNG THỊ MAI ỦY VIÊN BỘ CHÍNH TRỊ BÍ THƯ TRUNG ƯƠNG ĐẢNG TRƯỞNG BAN DÂN VẬN TRUNG ƯƠNG YÊU CẦU
+Predict    :BẢNG BOÀN TRUNG ƯƠNG VỚI NHÂN DÂN VIỆT NAM ĐỒNG CHÍ TRƯƠNG THỊ MAI ỦY VIÊN BỘ CHÍNH TRỊ BÍ THƯ TRUNG ƯƠNG ĐẢNG TRƯỞNG BAN DÂN VẬN TRUNG ƯƠNG TYÊU CẦU
+
+True label :THEO CỤC ĐẦU TƯ NƯỚC NGOÀI THUỘC BỘ KẾ HOẠCH VÀ ĐẦU TƯ
+Predict    :THEO CỤC ĐẦU TƯ NƯỚC NGOÀI THUỘC BỔ KẾ HOẠCH VHÀ ĐẦU TƯ
+
+True label :LÀ MỘT THUẬT XẢO TRÁ ĐAY LÀ TƯ TƯỞNG CHIẾN LƯỢC RẤT QUAN TRỌNG TRONG BINH PHÁP TÔN TỬ
+Predict    :LÀ MỘT THẬT XẢO RÁ ĐÂY LÀ TƯ TƯỞNG CHIẾN LƯỢC XẾT QUAN TRỌNG TRONG BINH PHÁP TÔN TỬ
+
+True label :TỔNG THỐNG NGA VLADIMIR PUTIN MỚI ĐÂY CẢNH BÁO SẼ TRẢ ĐŨA NẾU MỸ RÚT KHỎI HIỆP ƯỚC CÁC LỰC LƯỢNG HẠT NHÂN TẬP TRUNG GỌI TẮT LÀ INF
+Predict    :TỪ TÓNG NGA V L LIÊN TỐU CHIN MỚI ĐÂY CẢNH BÁO SẼ CRẢ ĐÔE NẾU MỸ RẤC KHỎI HIỆP ƯỚC CÁC LỰC LỢA HÀN NHÂN TẦN CHUNG VÕI CÁC LẠI INE
+
+True label :ĐIỀU ĐÓ CŨNG CHO THẤY NHỮNG THUẬN LỢI TỪ NGHỊ ĐỊNH SỐ SÁU MƯƠI TÁM MANG LẠI TẠO HÀNH LANG PHÁP LÝ CHÍNH SÁCH QUẢN LÝ
+Predict    :ĐỀU ĐỎ CŨNG CHO THẤY NHỮNG CUẬN LỢI TÌNH MỊ ĐỊNH SỐ SÁU MƯƠI TAM MA LẠI TẠO HÀNH LAM PHÁ BÝ CHÍNH SÁCH QUẢN LÝ
+
+True label :NHƯ NÓ KHÔNG ĐƯỢC UỐN NẮN CẨN THẬN NÊN MỚI HƯ THẾ
+Predict    :NHƯ NÓ KHÔNG ĐƯỢC UỐN NẤN CẦN THẠN NÊN MỚI GHƯI THẾ
+
+True label :KÉO CÁC THÀNH VIÊN ASEAN THEO CÁC HƯỚNG
+Predict    :KẾU CÓÁ THẠNH VIÊN NASEAN THEO CÁC HƯỚNG
+
+True label :VÀ RỪNG NÊN TÌNH CÓ KHẢ NĂNG TRỞ THÀNH MỘT TRUNG TÂM CHẾ BIẾN GỖ RỪNG TRỒNG
+Predict    :VỚ DỪNG LỀN TỈNH CỘC KHẢ NĂNG CHỞ THẢNH MỘT TRUNG TÂM CHẾA BẾN GỐI DÌNHG TRONG
+
+True label :ĐẶC BIỆT
+Predict    :ĐẶC BIỆT
+
+True label :THƠM NỰNG
+Predict    :THƠN NHƯNG
+
+True label :CHO NGƯỜI DÂN
+Predict    :CHO NGƯỜI DÂN
+
+True label :DỰ KIẾN KẾT
+Predict    :DỀU KIẾN TẤT
+
+True label :CỦA SÁU MƯƠI THANH NIÊN
+Predict    :TỦA SÓU MÔI TÂY NGIÊN
+
+True label :CHÍNH LÀ BỞI HỌ BIẾT VẪN CÓ AI ĐÓ YÊU THƯƠNG MÌNH
+Predict    :CHÍNH LÀ BƯỜI HỌ BIẾT VẪN CÓ AI ĐÓ YÊU THƯƠNG MÌNH
+
+True label :VỪA QUA CỦA CHỦ TỊCH HẠ VIỆN MAROC
+Predict    :VỪA QUA CỦA CHỦ TỊCH HẠI VIỆN MARỐC
+
+True label :PHỐ HỒ CHÍ MINH ĐÃ YÊU CẦU CÁC CƠ QUAN ĐƠN VỊ ĐẨY MẠNH CÔNG TÁC QUYẾT
+Predict    :PHỐ HỒ CHÍ MINH ĐÃY YÊU CẦU CÁC CƠ QUAN ĐƠN VỊ ĐẨY MÀNH CÔNG TÁC QUYẾT
+
+True label :NÓ CŨNG NÓI VỀ CÙNG MỘT VẤN ĐỀ
+Predict    :NHÓ CŨNG NÓI TẦY CÙNG MỘI VỐN NỀ
+
+True label :LÍ DO LÀ MỨC THUẾ CHỐNG BÁN PHÁ GIÁ VỚI TÔM VÀ CÁ TRA GẦN NHẤT GIẢM NHIỀU SO VỚI MỨC THUẾ CÔNG BỐ SƠ BỘ
+Predict    :MƯ DO LÀ MỨC THUỚY TRUNG BẮT PHÁ GIÁ VỚI TÔN VÀ CÁ TRA LỢN NHẤT GIẢM NHIỀU SO VỚI MỨC THUẾ CÔNG BỐ XÂ BỘ
+
+True label :CHI BẰNG TA HÃY XÚI GIỤC GIẢ HOÀNG HẬU SÁT HẠI THÁI TỬ
+Predict    :CHI BẰNG TA HÃY SỐI DỤC GIẢO HÀNG HẬU SÁC HẠI THÁI TỬ
+
+True label :THÀNH BÃO NÊN GIÓ MẠNH DẦN LÊN CẤP BẢY VÙNG GẦN TÂM BÃO ĐI QUA CẤP TÁM GIẬT
+Predict    :PHÀNH BÁO NÊN GIÓ MẠNH DÂNG LÊN CỐC BẢY VÙNG GẦN TĂM BẢO ĐÊ QUA CÁC TÁN NHẬT
+
+True label :THÀNH PHỐ HỒ CHÍ MINH CŨNG BỎ THU ĐIỀU TIẾT
+Predict    :THÀNH VỐ CHỈ MINH CŨNG BỎ KHU ĐIỀU TIẾT
+
+True label :PHẦN TRĂM DIỆN TÍCH CỦA CAO BẰNG LÀ ĐỒI NÚI
+Predict    :PHẦN TRĂM DỰ KÍCH CỦA CAU BẰNG LÀ ĐÔI NÚI
+
+True label :ĐỂ TẠO SỰ CÔNG BẰNG TRONG HOẠT ĐỘNG KINH DOANH BẤT ĐỘNG SẢN
+Predict    :ĐỂ TẠO DỰ CÔNG BẰNG TRONG HOẠT ĐỘNG KINH DOÁNH BẤT ĐỘNG SẢN
+
+True label :VÀ NỀN ĐẤT CÒN LẠI SẼ BÁN ĐẤU GIÁ ĐỂ THU HỒI VỐN
+Predict    :VÀ NÊN NẤT CÒNG NẠI SẼ BÁN ĐẦU GIÁ ĐỂ THÔ HỒI CŨN
+
+True label :ĐƯỢC ĐÁNH GIÁ CÓ PHẦN LÀ DO QUY HOẠCH THỦY ĐIỆN DÀY ĐẶT Ở THƯỢNG NGUỒN TỈNH QUẢNG NAM PHÓNG SỰ SAU SẼ LÀM RÕ HƠN VỀ VẤN ĐỀ
+Predict    :ĐƯỢC ĐÁNH GIÁ CÓ PHẦN LÀ DÁU KUÔI HOẠCH THỦY ĐIỆN DÀY ĐẶC TÓI THƯỢNG NGUỒN TỈNH QUẢN NAM THÔNG SỬ SAU SẼ LẰM RÕ HƠN VỀ CẦN ĐỀ NÀN
+
+True label :VỀ VIỆC XÂY DỰNG TUYẾN CÁP TREO VƯỢT SÔNG HỒNG VỚI CHIỀU DÀI HƠN NĂM KI LÔ MÉT
+Predict    :ĐỂ VIỆC XÂY DỰNG TUYẾN CÁP TREO VƯỢT SUNG HÔNG VỚI CHIÊU SẢI LẦN NĂM KI LÔ MÉT
+
+True label :CÁC CƠ QUAN NHÀ NƯỚC
+Predict    :CÁC CƠ QUAN NHÀ NƯỚC
+
+True label :HẬU QUẢ VỤ ÁN THEO ĐÚNG QUY ĐỊNH CỦA PHÁP LUẬT LIÊN QUAN ĐẾN KHÁNG CÁO CỦA NGÂN HÀNG BIDV
+Predict    :KHẬU QUẢ VỤ ÁN THEO ĐÚNG QUY ĐỊNH CỦA PHÁP LUẬT LÊN QUAN ĐỀN KHÁNG CÁO CỦA NGÂN HÀNG ĐI LAI ĐI VÌ
+
+True label :CHUYỂN ĐỔI TÀI CHÍNH TRONG KỶ NGUYÊN SỐ
+Predict    :CHUYỀN ĐỔI TAI CHÍNH TRONG KỲ GƯƠI SỐ
+
+True label :THÌ CUỘC SỐNG QUẢ LÀ BẤT HẠNH
+Predict    :THÌ CUỘC SỐNG QUẢ LÀ BẤT HẠNH
+
+True label :ONG TUY NHIÊN NHỮNG SẢN PHẨM ĐÓ VẪN CHƯA THỰC SỰ
+Predict    :KONG TUY NHIÊN NHỄN SẢN PHẨN ĐÓ VẪN CHƯA THỨC SỰ
+
+True label :ĐỂ BẮT KỊP XU HƯỚNG THANH TOÁN KHÔNG TIỀN MẶT
+Predict    :ĐỂ BẠT KẾT XU HƯƠNG THANH TOÁN KHÔNG KIÊN MẠCH
+
+True label :THỨ HAI NGÀY MÙNG MƯỜI THÁNG MƯỜI HAI
+Predict    :THỨ HAI NGÀY MÙNG MƯỜI THÁNG MƯỜI HAI
+
+True label :LÚC NÀY MỌI NGƯỜI LẠI CÀNG CẢM THẤY KHÓ HIỂU HƠN
+Predict    :LẾU NÀY MỌI NGƯỜI LẠI CÀNG CẢM THẾ KHÓ IỀU HƠN
+
+True label :ĐI ĐẾN HOẠT ẤP NAY LÀ ĐÔNG NAM YÊN SỰ HÀ NAM
+Predict    :ĐI ĐẾN HOỌI CẬC NÀY LÀ ĐÔNG NAM TIÊN SỰ HÀ NAM
+
+True label :MỘT NHÓM DOANH NGHIỆP TRUNG QUỐC TRONG ĐÓ BAO GỒM PHẦN ĐÔNG LÀ DOANH NGHIỆP TƯ NHÂN
+Predict    :MỘT NÓN DOANH NGHIỆP TRUNG QUỐC TRONG ĐÓ BAO GỒM PHẨN ĐÔNG LÀ DOANH NGHIỆP TƯ NHÂN
+
+True label :CON SỐ NÀY CÒN NHIỀU HƠN CẢ
+Predict    :CÓ SỐNG NÀY CÒN NHIỀU HƠN 
+
+True label :QUẢ CỦA MỖI HỢP ĐỒNG
+Predict    :QUẢ CỦA MỖI HỢP ĐÔNG
+
+True label :HAI MƯƠI NHĂM NĂM LÀM CÔNG NHÂN MAY
+Predict    :HAI MƠIN NHĂM NĂM LÀM CÔNG NGHIÊN MAY
+
+True label :KÍCH RỒI TỰ MÌNH VIẾT MỘT LÁ THƯ KÊU GỌI ÔNG BẠN CAO ĐÌNH HI ĐẦU HÀNG
+Predict    :KÍT RÔI TỰ MÌNH VIẾTC LÃ THƯ KIÊU CỌ BÔNG BẢN CHEO BÌNH HI ĐẦU HÀNG
+
+True label :THEO DANH SÁCH THÌ PHÁI ĐOÀN CỦA TRIỀU TIÊN SẼ CÓ ÔNG
+Predict    :THỚ GIỚY SÁCH THÌ PHÁI ĐOÀN VỦ CHIỀU TIÊN SẼ CÔ ÔNG
+
+True label :COI LÀ XƯƠNG SỐNG CỦA THƯƠNG MẠI QUỐC TẾ DỊCH VỤ LOGISTIC CÓ CHI PHÍ THẤP
+Predict    :CAI LÀ SU SỐNG CỦA THƯƠNG MẠI QUỐC TẾ DỊCH VỤ LÔ ÍT TÍCH CÓ CHI PI THÁC
+
+True label :QUY MÔ DÂN SỐ CỦA
+Predict    :QUY HỘA VƠN PHỐ QUỘC
+
+True label :ĐÂY LÀ MỘT NGUYÊN NHÂN QUAN TRỌNG
+Predict    :ĐÂY LÀ MỘT GUYÊN NHÊN QUAN TRỌNG
+
+True label :ĐÁNG CHÚ Ý
+Predict    :ĐÁÃI CHÚ Ý
+
+True label :THEO SỐ LIỆU CHÍNH THỨC
+Predict    :THEO SỐ LIỆU CHÍNH THIỨC ĐƯỢC
+
+True label :KHU VỰC TRUNG ĐÔNG
+Predict    :KUA VỤC TRUNG ĐÔNG
+
+True label :CHỨC TRƯỚC ĐẢNG NHÀ NƯỚC VÀ NHÂN DÂN BỞI LÚC ĐÓ
+Predict    :CHỨC CHỮC ĐÀNG NHÀ NƯỚC VHÀ NHÂN DẦN MỜI ƯỚC ĐÓ
+
+True label :THƯƠNG MẠI DU LỊCH KỲ NGHỈ QUỐC TẾ
+Predict    :THƯƠNG MẠI DU LỊCH KỶ NGHỊ QUỐC TẾ
+
+True label :NGƯỜI ĐÀN ÔNG NGỒI Ở QUẦY HỎI MAI HẴNG HAY
+Predict    :NGƯỜI ĐÒNG ƠNG NỒ ÃU NGUÀY HỎI MAI LÁM NÂY
+
+True label :SỨC QUAN TRỌNG TRONG VIỆC TỰ DO HÓA THỊ TRƯỜNG ĐẦU TƯ TẠI
+Predict    :SÁ QUAN TRỌNG CHO VIỆC TỪ DA Ó THỊ TRƯỜNG ĐẦU TƯ TẠI
+
+True label :VÀ ĐẦU TƯ KINH DOANH CHO CÁC NHÀ ĐẦU TƯ DOANH NGHIỆP
+Predict    :CÁ ĐẦU TƯ CING DOANH CHO CÁC NHÀ ĐẦU TƯ DOANH NGHIỆP
+
+True label :CẬU ĐÁP ĐÁP
+Predict    :CẬU ĐÁP
+
+True label :CÓ THỂ KHIẾN CHO TOÀN BỘ NƯỚC ĐỊCH ĐẦU HÀNG LÀ THƯỢNG SÁCH ĐÁNH TAN THÀNH NƯỚC ẤY
+Predict    :CÓ THỂ KHIẾN CHO TOÀN BỘ NƯỚC ĐỊCH ĐẦU HÀNG LÀ THƯỰC SÁCH ĐANH TÀN TÀNH NƯỚC GẤY
+
+True label :PHẢN ÁNH CỦA PHÓNG VIÊN THỜI SỰ
+Predict    :PHẢO ÁN CỦA PHỐ VIN THỜI GIỮ ĐỢ
+
+True label :TÌNH HÌNH VÔ CÙNG NGUY CẤP TRONG KHI ĐÍ LẬP TRƯỜNG CỦA NGƯỜI HỒI HỘT
+Predict    :TÌNH HÌNH VU CÙA NGUY CẤP TRONG KHI ĐÓ LẬT TRƯƠNG CỦA NGƯỜ HỒI HỘT
+
+True label :BẠNH VĂN CHU
+Predict    :SẢNH PHÔNG CHỦ
+
+True label :CHÚC MỪNG GIÁNG SINH VÀ NĂM MỚI HAI NGÀN MƯỜI CHÍN TỚI GIÁO HOÀNG PHANXICÔ
+Predict    :THÚNG MỪNG GIÁN SINH VÀ NĂM MỚI HAI NGÀN MƯỜI CHÍN TỜI GIÁO HOÀNG PHĂNG SI CỔ
+
+True label :KINH DOANH HÀNG HÓA ĐỂ PHỤC VỤ NHU CẦU TRONG NƯỚC
+Predict    :KINH DOANH HÀNG HÓA ĐỂ PHỤC CỤ NHU CẦU TRONG NƯỚC
+
+True label :NGHỊ ĐỊNH MỘT NĂM TƯ CŨNG SỬA ĐỔI KHOẢN HAI
+Predict    :NGHỊ ĐỊNH MỘT NĂM TƯ CŨNG SỬ ĐỒI KHOẢN HAI
+
+True label :BẠN ĐÃ QUAN TÂM THEO DÕI XIN KÍNH CHÀO
+Predict    :CÁ BẠN ĐÃ QUAN TÂM THEO DÕI XỈN KÍNH TRÀO
+
+True label :ĐÃ ĐẠT ĐƯỢC KHOẢNG HAI NGHÌN GIAO DỊCH BẰNG CẢ NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY
+Predict    :ĐÃ ĐẠT ĐỢC KHOẢNG HAI NGHÊN GIAO DỊCH BANG CÁN NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BẢY
+
+True label :THƯA QUÝ VỊ CÓ THỂ THẤY RẰNG MỨC LÃI
+Predict    :THƯA QUÝ VỊ CÓ THỂ THẤY RIANG MỨT LẠI
+
+True label :THẬM CHÍ CÒN TÌM CÁCH LIÊN HỆ VỚI CÁC ĐẤT NƯỚC VÙNG VEN BỜ ĐỊA TRUNG HẢI
+Predict    :THẬM CHÍ CÒN TÌM CÁCH LIÊN HỆ VỚI CÁC ĐẤT NƯỚC BỒN VEN MỜ ĐỊA TRUNG HÀI
+
+True label :NHIỀU NHÀ LÃNH ĐẠO ĐÃ LÊN TIẾNG MẠNH MẼ CHIA SẺ QUAN ĐIỂM CỦA THỦ TƯỚNG XUÂN PHÚC VÀ ỦNG HỘ VIỆT NAM VỀ VẤN ĐỀ NÀY
+Predict    :NHIỀU NHÀ ÃNH BĐẠO ĐÃ LÊN TẾ MẠNH MỄ CHIA SẺ QUÁN ĐIỂM CỦA THỦ TƯỚNG XUÂN PHÚC VÀ CÙNG HỘ VIỆT NAM VỀ VẤN ĐỀ LÂY
+
+True label :TỔNG VỐN ĐẦU TƯ ĐĂNG KÝ GẦN HAI TRĂM BẢY MƯƠI NGHÌN NĂM TRĂM TỈ ĐỒNG CÒN LẠI BA MƯƠI DỰ ÁN ĐANG HOÀN THIỆN THỦ TỤC
+Predict    :TÔNG VỐN ĐẦU TƯ ĐĂNG KÝ GẦN HAI TRĂM BẢY MƠI NGHÌ NĂM TRĂM TỶ ĐỒNG CO LÀI ĐA MƯƠI DỰ ÁN ĐANG HOẢN HIỆN THỦ TỤC
+
+True label :KIÊN QUYẾT ĐÌNH CHỈ TẠM ĐÌNH CHỈ CÁC CÔNG TRÌNH KHÔNG ĐẢM BẢO AN TOÀN
+Predict    :TIÊN QUYẾT TÌNH TRỈ ĐẠ TÌNH TRỊ CÁC CÔNG TRÌNH KHÔNG ĐẢM BẢO AN TOÀN
+
+True label :THÌ SẼ CÓ NHỮNG HẬU QUẢ HẾT SỨC NGHIÊM TRỌNG ĐỐI VỚI VIỆC XUẤT KHẨU HẢI SẢN
+Predict    :HSẼ CÓN NHỮN HẬU QUẢ HIẾI SAT NGHÊM TRỌNG ĐỮU VIỆC XUẤT KHẨU HÀI SẢN
+
+True label :TRÌNH ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ MƯỜI BA CỦA ĐẢNG
+Predict    :TRÌNH ĐÃI HỘI ĐẠI BIỂU TÀN QUỐC HƯƠNG THỨN MƯỜI BA CỦA ĐẢNG
+
+True label :VỀ CƠN BÃO NÀY XIN MỜI ANH TUẤN HÀ
+Predict    :VỀ CƠN BÃ NÀY SÍ MỜI ANH TUỐN HÀ
+
+True label :TẠI ĐỊA PHƯƠNG NÀY VÀO CHIỀU NAY
+Predict    :TÃ ĐỊ PHÔN NÀY V ĐỪ CHIỜU NAY
+
+True label :TRƯỚC ĐÓ VÀO TỐI QUA TỚI CHUNG VUI VỚI NHÂN DÂN KHU DÂN
+Predict    :TRƯỚC ĐÓ VÀ TỐI QUA TỚI TRUNG VHUI VỚI NHÂN DÂN KHU DÂN
+
+True label :TIỂU BAN KINH TẾ PHẢI COI TRỌNG VẤN ĐỀ NHU CẦU CỦA THỊ TRƯỜNG NỘI ĐỊA VỚI GẦN MỘT TRĂM TRIỆU DÂN
+Predict    :TIỂU BAN KIN BẾ XÃ HỘI PHẢI QA TRỌNG VUẤN ĐÌNH NHÊU CẦU CỦA THỊH TRƯỜNG NỐI ĐỊA VỚI GẦN BỘC TRĂNG CHIÂ DÂN
+
+True label :THAY VÀO ĐÓ HÃY HỖ TRỢ ĐỂ GIÚP TRẺ LÀM ĐƯỢC VIỆC ĐỂ TRẺ CÓ THỂ TỰ LẬP HƠN
+Predict    :HAY Ò ĐÓ HÃY HỖ TRỢC ĐỂ GIÚP TRẺ LÀM ĐƯỢC VIỆC ĐỂU TRẺ CÓ THỂ TỰ LẬP HƠN
+
+True label :NẾU KHÔNG KẾT HỢP DU LỊCH BÃI GIỮA SÔNG HỒNG THÌ DỰ ÁN KHÔNG KHẢ THI
+Predict    :HIỆU KHÔNG KẾC HỢP DU LỊCH BẠI GIỮA SỒNG HỒNG KHÌ DỰ ÁN KHÔNG KHẢ THI
+
+True label :TỰ NHIÊN THUỘC NHÓM H S BỐN BỐN CHẤM KHÔNG BA
+Predict    :THỆN NHIÊN THŨNG NHÓM HAÉT VÙNG BỐN CHỐM KHÔNG BA
+
+True label :BA ĐOÀN THANH TRA ĐỂ LÀM RÕ NHỮNG
+Predict    :BA ĐOÀN THANH TRA ĐỂ LÀM RÕ NHỮNG
+
+True label :VÀ TIẾP TỤC PHÁT TRIỂN MẠNH MẼ TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+Predict    :VÀ TIẾP TỤC PHÁT TRỂN MẠNH MẼ TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯƠI TÁM
+
+True label :NGÀY MUA SẮM TRỰC TUYẾN ONLINE FRIDAY HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+Predict    :GAY MUA SẮM TRỰC TUẾN ON LAI VRÀI ĐAY HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+
+True label :KẾ SÁCH CÓ LỢI VÀ ĐƯỢC CHẤP THUẬN CỦA TÔN TỬ
+Predict    :KẾ SÁCH CÓ LỢI VÀ ĐƯỢC CHẤP THUẬN CỦA TÔNG TỬ
+
+True label :CHỈ SỐ TIẾP CẬN TÍN DỤNG CỦA VIỆT NAM CẢI THIỆN ĐÁNG KỂ VÀ NẰM TRONG NHÓM BA MƯƠI NƯỚC CÓ CHỈ SỐ CAO NHẤT
+Predict    :CHỈ SỐ TIẾP CẬN TÍN DỤNG CỦA VIỆT NAM CẢI THIỆT ĐÁN K VÀ NẰM TRONG NHÓM BA MƯƠI NƯỚC CÓ CHY SỐ CẢO NHẬT
+
+True label :VẬN HÀNH VÀ KHAI THÁC
+Predict    :PHẢN THÀNH VÀ HẠC HÁC
+
+True label :TỪ TỔNG CỤC HẢI QUAN CHO THẤY TRONG MƯỜI THÁNG ĐẦU NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+Predict    :TỪ TỔNG CỤC HẢI QUAN CHO THẤY TRONG MƯỜI THÁNG ĐẦU NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+
+True label :THUẬN ĐỨC GIẢ SƯƠNG NGHỊCH ĐỨC GIẢ VONG
+Predict    :THẬN ĐỨC TẢ XƯƠNG NGHỊC ĐỨC GIẢ VONG
+
+True label :KHU VỰC THỚI LỢI PHƯỜNG THỚI AN QUẬN Ô MÔN THÀNH PHỐ CẦN THƠ
+Predict    :KHU VỰC VỚI LỎI PHƯỜNG ĐỚI AN CUẬT UÔN MÔN THÀNH PHỐ GÂN HE
+
+True label :NĂM THỨ HAI MINH KIẾN VĂN
+Predict    :NĂM THỨ HAI MINH KIẾN VĂN
+
+True label :CHỦ CỦA NHÂN DÂN CỦNG CỐ
+Predict    :CHỦ CỦA NHÂN DÂN CŨNG CỐ
+
+True label :NÓ THỂ HIỆN MỘT PHƯƠNG THỨC TƯ DUY BIỆN CHỨNG
+Predict    :HÓ THỂ HIỆN MỘC PHƯƠNG THỨC TƯ DUY BIỆN CHỨNG
+
+True label :CÓ TÍNH CẤP THIẾT ĐỘI NGŨ NÀY CẦN CÓ KHẢ NĂNG NHẬN DIỆN VẤN ĐỀ
+Predict    :CỢA TÍNH CẤP NHIẾT ĐƯỢC MỘ NÀY CẦNG CỐ KHÀN NĂNG NHẬN DIỆN VẤN ĐỀ
+
+True label :TÌNH HÌNH ĐI CÙNG VỚI TĂNG CƯỜNG LÒNG TIN VÀ TÍCH CỰC XÂY DỰNG BỘ QUY TẮC ỨNG XỬ Ở BIỂN ĐÔNG HIỆU QUẢ
+Predict    :THẾI LÌNH Đ CÙNG VỰC TĂNG CỬ LÒNG TIN VÀ BẾT CƯỘNG XÂY DỰNG BỘ MỸ ĐẮC VỮNG SỬ Ở BIẾN ĐÔNG HIỆU QUA
+
+True label :CHỈ ÁP DỤNG KẾ SÁCH QUẤY RỐI MÊ HOẶC VÀ LÀM KẺ ĐỊCH MỆT MỎI
+Predict    :CHỈ ÁP DỤNG KẾ SÁCH CUẤY RIỐI MI HOẶC VÀN LÀM KẺ ĐỊCH MỆT NỎI
+
+True label :TRÊN KÊNH TRUYỀN HÌNH ĐÀI TIẾNG NÓI VIỆT NAM VOV TV
+Predict    :TRÊN KÊN TRYÌN THÌNH NÀI TIỀN BÁN VIỆT NAM VOV TV
+
+True label :TỀ CẢNH CÔNG
+Predict    :TỀ CẢNH CÔNG
+
+True label :PHÒNG VIỆT NAM NGA
+Predict    :PHÒẢNG VIỆT NAM NGA
+
+True label :MỤC ĐÍCH CUỐI CÙNG CỦA VIỆC PHÁT ĐỘNG CHIẾN TRANH
+Predict    :MỤC ĐÍCH CUỐI CÙNG CỦA VIỆC PHÁT ĐỘNG CHIÍN TRANH
+
+True label :DUNG THANH TRA TẬP TRUNG VÀO VIỆC CHẤT
+Predict    :DƠNG THANH TRA TẬP CHUNG VÀO VIỆC CHỨC
+
+True label :TÔI THẤY RẰNG VIỆC TIẾP XÚC VỚI CON KHÔNG ĐÔ BẰNG ĐỘ DÀI CỦA THỜI GIAN MÀ ĐO BẰNG ĐỘ DÀY
+Predict    :TÔN THẤY RẰNG VIỆC TIẾP XÚC CỚI CON KHÔNG ĐÓ BẰNG ĐỘ DAI CỦA THỜI GIAN MÀ ĐAO MẰNG ĐỘ GIÂY
+
+True label :BẰNG CÁC CHÍNH SÁCH PHÁP LUẬT CỤ THỂ
+Predict    :BẰNG CÁC CHÍNH SÁCH PHÁP LUẬC CỤ THỂ
+
+True label :NGƯỜI DÂN Ở CÁC QUỐC GIA ĐÃ CHÀO ĐÓN MỘT NÔ EN ĐẦY Ý NGHĨA VÀ HÃY CÙNG ĐIỂM LẠI CÁC HOẠT ĐỘNG ĐÓN GIÁNG SINH TẠI MỘT SỐ NƠI TRÊN THẾ GIỚI
+Predict    :NGỜI DÂN ÒU CÁC QUỐC GIA ĐẠI TRO ĐÓN MỒN LÔ ĐÀN ĐÀY ÝN NGHIA HẠI CÔNG ĐIỀN LÀ CÁC HẠ ĐƯỘN TÀN GIÁN SINHT MỘT SỐ NƠI CHÊN TẾ GỚY
+
+True label :CỦA VIỆT NAM
+Predict    :CỦA VIỆT NAM
+
+True label :NGẮM ĐÚNG THỜI ĐIỂM HAI CON ĐẠI BÀNG ĐANG TRANH GIÀNH NHAU RẤT HĂNG
+Predict    :NẮM ĐỐNG THỜY ĐIỀM HAI CÔN ĐẠI BÀNG ĐANG TRANH DẠY NAOU RẤT HANG
+
+True label :KÝ ĐIỀU CHỈNH VỐN ĐẦU TƯ
+Predict    :KỲ ĐIỀU CHÌNH VỐN ĐẦU TƯ
+
+True label :CỦA VI BẰNG DO THỪA PHÁT LẠI LẬP CHO NGƯỜI YÊU CẦU VI BẰNG BIẾT
+Predict    :VÒ VÍ BẰNG DO VHƯỢU PHÁT LẠI LẬP CHO NGƯỜI IYÊU CẦU VI ĐẲNG BIẾT
+
+True label :TRONG HƠN BA NGHÌN XE NHẬP KHẨU NGUYÊN CHIẾC
+Predict    :TRONG HƠN BA NGHÌN XA NHẬP KHẨU NGUYÊN CHIẾC
+
+True label :TIẾP TỤC ĐIỀU ĐỨNG VÌ CÂY CAM SÀNH KHI GIÁ THU MUA LIÊN TIẾP SỤT GIẢM NẾU NHƯ NHỮNG NĂM TRƯỚC VÀO THỜI ĐIỂM NÀY
+Predict    :TIẾP TỤC ĐIÊU ĐỨNG VÌ TÊ CAM DÀNH KHI GIÁ THU MUA LIỀN TIẾP SỬT GIẢM NỀN NHƯU NHỮNG NẰM TRƯỚC VO THỶ ĐIỂN NÀY
+
+True label :MÀ KHÔNG BIẾT DÃ CHIẾN TÔI CHUYỂN TRẬN ĐỊA VỀ DÃ THỦY ĐỘ ÔNG TA CHO RẰNG TÔI ĐÃ VÀO VÒNG CỦA ÔNG TA
+Predict    :MÀ KHÔNG ĐIẾT GIÃ CHIẾN TẾ CHUYỂN TRẬN ĐỊA VỀ RIA THỦY ĐỒ ÔNG TAI CHO RẰNG TÔI ĐÃ VÀO PHÒNG CÔN TA
+
+True label :CỦA MỌI NGƯỜI ĐÂY LÀ KHẲNG ĐỊNH CỦA THỦ TƯỚNG NGUYỄN XUÂN PHÚC
+Predict    :CÔN ỘI NGƯỜI ĐÂY LẶP KHẲNG ĐỊNH CỦA THỦ TƯỚNG NGUYỄN XUÂN PHỐC
+
+True label :ĐÓ GỌI LÀ THỰC HIỆN ĐƯỢC MƯU KẾ DĨ VU VI TRỰC
+Predict    :ĐÓ VỎI LÀ THỰC HIỆN ĐƯỢC MU KẾ DĨ VU VI TRỰC
+
+True label :TRƯỞNG BAN ĐỐI NGOẠI TRUNG ƯƠNG ĐÃ HỘI ĐÀM VỚI ĐOÀN HAI BÊN THỐNG BÁO
+Predict    :TRƯỞNG QAN ĐỚI MẠI CHUN LỬ TỰ ĐÃ HỢI ĐANG VỚI ĐOÀN HAI BÊN THÔNG BẠO
+
+True label :TRONG KHU VỰC VÀ TRÊN THẾ GIỚI
+Predict    :TRONG KHUI VỰC MÀT TRÊN THẾ GIỚI
+
+True label :NHƯNG CON CHƯA ĐƯỢC BIẾT CÁC THÀNH QUÁCH Ở ĐẤT NƯỚC HỌ
+Predict    :NHƯNG CÔN CHƯA ĐỰC BIẾT CÁC THÀNH QUÁCH CỔ ĐƯỨC NƯỚC HỌ
+
+True label :TỐT MỘT SỐ NHIỆM VỤ SAU TIẾP TỤC NÂNG CAO NHẬN THỨC
+Predict    :TỐT MỘT SỐ NHIỆM PVỦ SAU TIẾP TỤC NÂN TANG NHẬN THỨC
+
+True label :BÊN CẠNH ĐÓ THỜI GIAN TÍNH TOÁN SỐ LIỆU VÀ CHUẨN BỊ TỜ KHAI CỦA DOANH NGHIỆP CHIẾM
+Predict    :BÊN CỊNH ĐÓ THỜI GIAN TÍNH TOÁN SỐ LIỆU VÀ CHUẨN BỊ TỜ KHAI CỦA DOANH NGHIỆP CHIẾM
+
+True label :TRUNG ƯƠNG ĐẢNG TRƯỞNG BAN TUYÊN GIÁO TRUNG ƯƠNG
+Predict    :TRUNG ƯƠNG ĐẢNG TRƯUNG BAN THUÊN GIÁO TRUNG ƯƠNG
+
+True label :KHÁT VỐN DÀI HẠN
+Predict    :KHÁT VỐN DẢI HÀN
+
+True label :TIẾN THEO ĐƯỜNG NHỎ SƯỜN NÚI KHE SUỐI ĐI HƠN BẢY TRĂM DẶM ĐƯỜNG VƯỢT QUA NHỮNG HẺM NÚI CAO
+Predict    :IẾN CHẾ ĐƯỚNG NHỎ XƯỞN LÚI VỀ SUÚI ĐI HƠN BẢY TRĂM GẶM ĐƯỜNG VỪI QUA NỮ HẺM ĐỐI CAO
+
+True label :KHU NGHỈ DƯỠNG VÀ XÂY DỰNG SÂN GOLF
+Predict    :CÔN NGHỈ DỠNG VÀ XÂY DỰNG XẦN GON
+
+True label :NƠI TRÀN NGẬP ĐỒ CHƠI CỦA CẬU BÉ ĐẾN NỖI KHÔNG CÒN CHỖ TRỐNG ĐỂ ĐẶT CHÂN
+Predict    :NGỜI TRANG NẬP ĐẦU CHƠI CỦA CẬU BÉ VIẾN NỖI KHÔNG CÒN CHỖ CHỐNG ĐỂ ĐẶC CHÂN
+
+True label :LÝ DO CỦA VIỆC CHẬM CHUYẾN DIỄN RA THEO PHÂN TÍCH CỦA CỤC HÀNG KHÔNG VIỆT NAM CHỦ YẾU DO TÀU BAY VỀ MUỘN
+Predict    :NGHÌ DAO CỦA VIỆC TRẬN CHUYẾN DỄN RA THEO PHÂN TẾC CỦA CỤC HANG KHÔNG VIỆT NAM CHỦ HIỀU SO TÁO BAY VỀ MUẬN
+
+True label :LÝ ĐỂ TIẾP CẬN HAY TẠO LẬP QUỸ ĐẤT Ở VIỆT
+Predict    :LÝ ĐỂ TIẾP CẬN HAY TẠO LẬP QUỸ ĐẤT À VIỆT
+
+True label :TRƯỚC LÀ VÀO NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BỐN GIẢM KHÔNG PHẨY HAI MƯƠI BẢY PHẦN TRĂM
+Predict    :CHƯỚC LÀ VÀO NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI BỐN GIẢM KHÔNG PHẨY HAI MƯƠI BẢY PHẦN TRĂM
+
+True label :ĐIỂM MẤU CHỐT CHÍNH LÀ ĐÂY
+Predict    :ĐIỂM MẤU CHỐT CHÍNH LÀ ĐÂY
+
+True label :KHI GIÁ BITCOIN XUỐNG DƯỚI SÁU NGHÌN ĐÔ LA MỸ
+Predict    :KY GIA BIẾT CÒI XUƯƠNG DỚI SÓNG NGHÊN ĐÔ LA MỸ
+
+True label :NHƯNG MÀ
+Predict    :NHƯNG MÀ
+
+True label :TRONG MỐI QUAN HỆ ĐỐI NGOẠI NÀY
+Predict    :THOG MỐI QUAN HỆ ĐỐI GOẠI NÀY
+
+True label :ĐẠI ĐOÀN KẾT TOÀN DÂN TỘC PHÓ CHỦ TỊCH THƯỜNG TRỰC QUỐC HỘI TÒNG THỊ PHÓNG ĐÃ BIỂU DƯƠNG NHỮNG CỐ GẮNG CỦA CHÍNH QUYỀN
+Predict    :ĐẠI LẦN KẾT TOAN DÂN TỘC PHÓ CHỦ TỊCH THƯỜNG TRỰC QUỐC HỘI TÒNG THỊ PHÓNG ĐÃ ĐIỂU DƯƠNG NHỮNG CỐ ĐẮNG CỦA CHÍNH QUYỀN
+
+True label :BỘ TRƯỞNG CŨNG YÊU CẦU BẢO ĐẢM TRẬT TỰ AN TOÀN GIAO THÔNG TRẬT
+Predict    :BỘ TRƯỞNG CŨNG YÊU CÂU BẢO ĐẢM TRẬN TỰ AN TOÀN GIAO THÔNG TRẤ
+
+True label :PHỐ ĐÀ NẴNG VỪA RA QUYẾT ĐỊNH SỐ HAI BA HAI KHÔNG MỘT TÁM
+Predict    :CỦA ĐA NẮNG VỪA RÁ QUYẾT ĐỊNH SỐ HAI BA HAI KHÔNG MỘT TÁM
+
+True label :PHÓNG SỰ PHÂN KHÚC BIỆT THỰ NHÀ LIỀN KỀ
+Predict    :PHÓNG SỰ DÂN CŨC BIỆT HỰ NHÀ LIỀN VỀ
+
+True label :NHẤT LÀ Ở KHÂU THỊ TRƯỜNG ỨNG DỤNG CÔNG NGHỆ TRONG SẢN XUẤT LẪN TIÊU THỤ VÀ ĐỊNH VỊ THƯƠNG HIỆU
+Predict    :NHẤT LỞ KHÔU THỊ TRƯỜNG HỨNG DỤNG CÔNG NGHỆ TRONG SẢN XUẤT LẪN TIỀU THỤ VÀ ĐỊNH VỊ THỜ HIỆU
+
+True label :ĐỒ ÁN QUY HOẠCH PHÂN KHU TỶ LỆ MỘT TRÊN HAI NGHÌN DỰ ÁN ĐẦU TƯ XÂY DỰNG CỤM CẢNG TRUNG CHUYỂN MỚI
+Predict    :ĐÔÁN QUY HOẠCH PHÂN KHU TỶ LỆI MỘT TRÊN HAI NGHÌN DỰ ÁN ĐẦU TƯ XÂY DỰNG CŨNG CẢNG TRUNG CRUYỂN MỚI
+
+True label :THÌ CÒN KỊP ĐỂ ĐỔI LẤY QUYỂN KHÁC
+Predict    :THÌ CÒN KIỆP ĐỂ ĐỎI LAI QUYỆN KHÁC
+
+True label :MÀ DỰA VÀO CHÍNH SÁCH PHÚ QUỐC CƯỜNG BINH
+Predict    :MÀ DỰA VÀO CHÍNH SÁCH PHÚ QUỐC CƯỜNG BINH
+
+True label :TRONG HAI NĂM TRỞ LẠI ĐÂY NGÀNH THÉP CỦA NƯỚC TA PHẢI ĐỐI MẶT VỚI NHIỀU VỤ KIỆN PHÒNG VỆ THƯƠNG MẠI NHẤT TỪ CÁC NƯỚC
+Predict    :TRONG HAI NĂMG TRỞ LẠI ĐÂY NGANH KÉP CỦA NƯỚC TA PHẢI ĐỐI MẶT VỚI NHIỀU VỤ KIỆN PHONG VẬY THƯƠNG MẠI NHẤT TỪ CẢ NƯỚC
+
+True label :TRẺ SẼ THẤY RẤT VUI VÌ MẸ SẼ LAU CHỖ CANH MÌNH ĐÁNH ĐỔ RA SÀN
+Predict    :TRẺ SẼ THẤY RẤT VUI VHÌ MẸ SẼ LAU CHỖ CANH MGÌNH ĐẾNH ĐỒ RA SÀNG
+
+True label :VÒNG LẠI PHÍA SAU ĐÁNH BỘ PHẬN MỎNG YẾU PHÁ VÒNG VÂY CỦA ĐỊCH NGÀY BA MỐT THÁNG BẢY
+Predict    :BỒN NÀI PHÍA SAU ĐÁNH BỘ PHẬN MÒN YẾU PHA CÒNG VÂY QUỦA ĐỊCH NẦY BA MỐT THÁNG BẢY
+
+True label :VÌ CÁNH QUÂN NÀY DO QUÂN CỦA HAI NƯỚC ĐỒNG MINH CỦA SỞ
+Predict    :VÌ KÁNH QUÂN NÀY RO HUỐN CUỦN HAI NƯỚC ĐỒNG MINH CỦ SỞ
+
+True label :CHẾ TẠO VÀ LẮP ĐẶT VỪA ĐƯỢC GIỚI THIỆU TỚI CÔNG CHÚNG
+Predict    :CHẾ TẠI Ọ VÀ LẮP ĐẶT VỪA ĐƯỢC GIỚI THIỆU TỚI CÔNG CHÚNG
+
+True label :TỪ NGÀY MƯỜI MỘT THÁNG BẢY ĐẾN NGÀY MƯỜI MỘT
+Predict    :LƯ NGÀYH NÊN BỘT THÁM BẢY ĐẾN NÀY MƯỜI MỘT
+
+True label :MỘT KẾT QUẢ CHO THẤY ĐOÀN KẾT PHẢI LÀ NHÂN TỐ THEN
+Predict    :MỘT KÍCH QUẢN CHO THẤY ĐAN ẾT PHẢI LÀNH NHÂNG TỐ THEM
+
+True label :QUY MÔ SÁU MƯƠI LĂM HECTA TẠI HUYỆN HÀM THUẬN BẮC VỚI TỔNG VỐN ĐẦU TƯ HAI MƯƠI LĂM TRIỆU ĐÔ LA MỸ
+Predict    :QUY MỒ SÁUMINAP HECTA TÀI HUYỆN HÀM THƯỞNG BẮC VỚI TỔNG VỐNG ĐẦU TƯ HAI MƯƠI LĂM TRIỀU ĐÔ LAM MỸ
+
+True label :SẼ ĐI VÀO HOẠT ĐỘNG TẠI KHU VỰC NÀY TRONG THỜI
+Predict    :SẼ ĐI VÀO HOẠN ĐỘNG TẠI KHU VỰC NÀY TRONG Ờ
+
+True label :CHỦ TỊCH HỘI ĐỒNG THẨM ĐỊNH NHÀ NƯỚC QUYẾT ĐỊNH VIỆC LỰA CHỌN TƯ VẤN THẨM TRA
+Predict    :CHỰ TỊCH HỘI ĐÔNG THẨN ĐỊNH NHÀ NƯỚC QUYẾT ĐỊNH VIỆT LỰA CHỌ THƯ VẤN PHẦM TRA
+
+True label :LÀ CẦN THIẾT TIẾP TỤC DUY
+Predict    :LÀ CẦN THIẾT TIẾP TỤC DI
+
+True label :CÓ MỘT LẦN ĐEM QUÂN XUẤT CHINH
+Predict    :CÓ MỘT LẦN ĐEM QUÂN XUẤT CHINH
+
+True label :TỔNG THỐNG MỸ DONALD TRUMP VỪA CÓ CUỘC GẶP QUAN TRỌNG
+Predict    :TỔNG THỚN MỊ ĐÔU LAN TRÔN VỪA CÁC CUỘC GẶP QUAN TRỌNG VỚ
+
+True label :KHƯƠNG DUY DẪN QUÂN THỤC
+Predict    :KHƯƠNG DUY DẪN QUÂN THỤC
+
+True label :ĐỒNG THỜI CŨNG LÀ VIỆC LÀM KHÔNG TÔN TRỌNG CON
+Predict    :ĐỒNG THỜI CŨNG LÀ VIỆC LÀM KHÔNG TÔNG TRONG CON
+
+True label :THEO THÔNG TIN TỪ SỞ TÀI NGUYÊN MÔI TRƯỜNG THÀNH PHỐ HỒ CHÍ MINH
+Predict    :THEO THÔNG TIN TỪ SỞ TÁI NGUYÊN MÔI TRƯỜNG THÀNH PHỐ HỒ CHÍ MINH
+
+True label :VUA NGÔ VÔ ĐẠO
+Predict    :NGUA NGU VU ĐẠO
+
+True label :TỐC ĐỘ CAO TUYẾN CAO TỐC BẮC NAM NHẬT BẢN SẼ CHIA SẺ KINH NGHIỆM VỚI VIỆT NAM TRONG TRIỂN KHAI CÁC
+Predict    :TỐC BỘ CAO KIẾN CAO TỐC BẶNG NĂM NHẬT BÀN SẼ CHÊN XẢ TINH NHIỆM CỐI VIỆT NAM TRONG KHIỂN KHAI CÁC
+
+True label :CHO NÊN ĐÔI LÚC CẬU ĐỌC CHO CHÚNG NGHE VÀI ĐOẠN
+Predict    :CHÊN LÊN RỜI LÚC CẬU ĐỌC CHẼ CHÚNG NGHA VÀI ĐÀN
+
+True label :THỂ LÀ PHÁN QUYẾT CUỐI CÙNG CỦA TÒA ÁN XÉT XỬ TỘI ÁC KHMER ĐỎ DO LIÊN HỢP QUỐC BẢO TRỢ ƯỚC
+Predict    :THỂ LÀ PHẢN QUYẾT ĐUỐI CÙNG CỦA TÒN XÉT XỬ TỘI ÁC KU ME ĐỎO DO LIÊN HỢP QUỐC BỞI TRỢ ỚC
+
+True label :ĐƠN VỊ DỆT LỤA VÀ THỔ CẨM CỦA ĐÀ LẠT VÀ BẢO LỘC THỦ PHỦ TƠ LỤA CỦA VIỆT NAM ĐÃ GIỚI THIỆU NHỮNG BỘ SƯU TẬP MỚI NHẤT CỦA MÌNH
+Predict    :TỀN VỊ LỂ DỆT NỘ VÀ THỔ CẦN CỦA ĐA LA BÀ BẢO LỘC THỦ PHỦ TƠI ĐỘ CỦ VIỆT NAM ĐÃ GIỚI THIỆU NHẾNG BỘ SỬ TẬP MỚI NHẤT CỦA MÌNH
+
+True label :TĂNG MƯỜI BỐN PHẨY BA PHẦN TRĂM TRONG THÁNG CHÍN VÀ CŨNG
+Predict    :TĂNG NMGƯỜI BỐN PHẨY BA PHẦN TRĂM TRONG THAN CHÍN VÀ CŨNG
+
+True label :ĐƯỢC THẢO SẴN VỚI GIỌNG VĂN CỦA THÁI TỬ
+Predict    :ĐƯỢC THẠO SẴN GẤY DỌU VĂN CỦA THÁI TỬ
+
+True label :CAM KẾT QUỸ ĐẦU TƯ
+Predict    :CAM KẾT QÝ ĐẦU TƯ
+
+True label :ĐÂY CHÍNH LÀ NHỜ VÀO SỰ VẬN DỤNG KHÉO LÉO CỦA TƯ TƯỞNG QUÂN SỰ
+Predict    :ĐÂY CHÍNH LA NHỜ VÀO SỰ VẬN DỤNG CÉO LÉO CỦA TƯ TƯỞNG QUÂN SỰ
+
+True label :THÌ XẾP HÀNG HÀNG GIỜ ĐỒNG HỒ ĐỂ MUA HÀNG CÓ THỂ QUÁ VẤT VẢ SO VỚI MUA TRỰC TUYẾN NHƯNG VỚI NHIỀU NGƯỜI KHÁC
+Predict    :THI XẤT HÀNG HÀNG SƠ ĐỒNG HỒ ĐẾI MÔA HÀNG CÓ THỂ QUÁ VẤT VÀ SO VỚI MỘA TRỰC TUYẾN NHƯNG VỚI NHIỀU NGƯỜI KHÁC
+
+True label :ĐAI VÀ BẢO VỆ MÔI TRƯỜNG
+Predict    :TAI VÀO BAO VỆY MÔI TRƯỜNG
+
+True label :NÊN ĐẾN ỦY BAN NHÂN DÂN HUYỆN LONG ĐIỀN ĐỂ ĐƯỢC CÁN BỘ HUYỆN HƯỚNG DẪN CỤ THỂ TRÁNH TIỀN MẤT TẬT MANG
+Predict    :NẾN ĐẾN ỦY BAN NHÂN DÂN NHIỆN LONG ĐIỂN ĐỂ ĐƯỢC CÁN BỘ HUYỆN NHƯƠNG DẪN CỤC THỂ CHÁNH TIỀN MẤT THẬT NANG
+
+True label :DỰ KIẾN CÓ TÁM XÃ KHU VỰC NỘI THỊ SẼ LÊN PHƯỜNG
+Predict    :DỰ KIẾN CÓP TÁNG XÃ KHU ĐỢC NỘ THỊ SẼ LÊN PHƯỜNG
+
+True label :DO ĐÓ ỦY BAN NHÂN DÂN TỈNH CÀ MAU YÊU CẦU CÁC ĐƠN
+Predict    :DO ĐÓ ỦY BAN NHÂN DÂN TỈNH CÁ MAU YÊU CẦU CÁC NƯỢC
+
+True label :LUÔN CHO RẰNG CHỈ KHI LÀM ĐÚNG THEO NHỮNG GÌ CHA MẸ MUỐN MỚI LÀ CON NGOAN
+Predict    :LƯƠN CHO RẰNG CHỈ KHI LÀM ĐÚNG THEO NHĨNH GÌ CHA MẸ MUỐN MỚI LÀ CON NGOAN
+
+True label :QUAN TÂM HƠN
+Predict    :VOANG TÂNG HƠN
+
+True label :THÌ ĐÃ BỊ ĐÌNH CHỈ SẢN XUẤT
+Predict    :THÌ ĐÃ BỊ BÌNH TRỈ GIẢN SUẤT
+
+True label :NHẰM THỰC HIỆN PHƯƠNG ÁN SẢN XUẤT KINH DOANH HÀNG HÓA XUẤT KHẨU KHI KHÁCH HÀNG VAY CÓ ĐỦ NGOẠI TỆ TỪ NGUỒN THU SẢN XUẤT
+Predict    :NHẰM THỰC HIỆN PHƯƠNG LÁN SẢN XUẤT KINH DOANH HÀNG HÓA XUẤT KHẨU KHI KHÁCH HÀN VAY CÓ ĐỦ NGẠI TỆ TỪ NGUỒN THU SẢN XUẤT
+
+True label :CÁI GIÂY PHÚT ĐÃ XUI KHIẾN TA GẶP GỠ LÃO GIÀ KIA THẬT LÀ ĐÁNG NGUYỀN RỦA
+Predict    :CÁI LỀ PHÚT ĐÃ XU KHIẾN TAI GỌP LỠN LÃU DÀ KIA THỢT LÀ ĐÁN NGUYỀN GỮA
+
+True label :QUẢ HOẠT ĐỘNG CỦA CẢNH SÁT GÓP PHẦN CẢI CÁCH THỂ CHẾ CŨNG NHƯ LÀ GIẢM THAM NHŨNG
+Predict    :VÀ HOẠT ĐỘNG CỦA CÁNH SÁC GÓP PHẦN CẢI CÁCH THỂ CHẾ CŨNG NHƯ LÀ GIẢM THAM NHŨNG
+
+True label :TẠI SÂN KHẤU TRỐNG ĐỒNG ĐÂY LÀ DỰ ÁN BÃI ĐẬU XE NGẦM
+Predict    :ĐẠI XÂN KHẨU TRONG ĐỒNG ĐÂY LÀ DỰ ÁN BÃI ĐỘ XAN NGẦM
+
+True label :VIỆC TĂNG PHÍ NHẰM ĐẢM BẢO CHI TRẢ PHẦN LỚN CÁC KHOẢN CHI CHO DỰ ÁN NHƯ CHI PHÍ BẢO TRÌ VẬN HÀNH
+Predict    :VIỆC TĂNG PHÍ NHẰM ĐẢM BẢO CHI TRẢ PHẦN LỚN CÁC KHOẢN TRI CHO DỰ ÁN NHƯ CHI PHÍ BẢO TRÌ VẬN HÀNH
+
+True label :CÀ MAU VỪA CÓ BÁO CÁO VỀ TÌNH HÌNH XÂY DỰNG PHÂN LÔ BÁN NỀN
+Predict    :CA MAU VỪA CÓ BÁO CÁO VỚ TÌNH HÌNH XÂY DỰNG PHẦN LÔ BÁN NỀN
+
+True label :THÊM VÀO ĐÓ LÀ TÁC ĐỘNG NGÀY CÀNG TĂNG CỦA TRANH CHẤP THƯƠNG MẠI VỚI MỸ
+Predict    :THIEM VÀ ĐÓ LÀ TÁC ĐỘNG NGÀY CÀNG TĂNG CỘA TRÊNH CHẤP THƯƠNG MẠI VỚI MỸ
+
+True label :BỒI THƯỜNG HỖ TRỢ VÀ TÁI ĐỊNH CƯ VÀO CUỐI NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+Predict    :BỒI THƯỜNG HỖ TRỢỞN VÀ TÁI ĐỊNH CƯ VÀ CUỐI NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM
+
+True label :ĐỐI VỚI DỰ THẢO SỬA ĐỔI
+Predict    :ĐẤY GỚI DỰ THẢO SỬA ĐỔI
+
+True label :TRÊN ĐỊA BÀN THỦ ĐÔ
+Predict    :TRÊN ĐỊA BÀN THỦ ĐỒ
+
+True label :TÀO THÁO VỪA KINH NGẠC VỪA NGHI NGỜ ĐÀNH PHẢI DI CHUYỂN DOANH TRẠI ĐEM QUÂN RÚT LUI BA MƯƠI DẶM
+Predict    :TÀO THÁO VỪ KIN NHẠO VỪA NGHI NGỜ ĐÀNH PHẢI DI TRUYỂN DOANH TRẠI ĐEM QUÂN RÚT LUI BA MƯƠI RẶM
+
+True label :NHÀ LÃNH ĐẠO TRIỀU
+Predict    :NHÀ LÃNH ĐẠ CRƯ
+
+True label :THÀNH PHỐ HÀ NỘI VỪA CHỈ ĐẠO SỞ TÀI NGUYÊN VÀ MÔI TRƯỜNG CHỦ TRÌ RA SOÁT
+Predict    :THÀNH PHỐ HÀ NỘI VỪA CHỈ ĐẠO SỞ TÁI GUYÊN VÀ MÔI TRƯỜNG CHỦ TRI GIÁ SUÁT
+
+True label :CAO CHẤT LƯỢNG THÀNH PHẦN CÁ NHÂN TIÊU BIỂU
+Predict    :CAO CHẤT LƯỢNG THÀNH PHẦNG CÁC NHÂN TIÊU ĐIẾU
+
+True label :CHÍNH ĐIỀU NÀY KHIẾN CHO TƯỚNG LĨNH CANH GIỮ THƯƠNG CHÂU
+Predict    :CHÍNH ĐIỀU NÀY KIẾN CHO TƯỚNG LĨNH CANH GIỮ THƯƠNG CHÂU
+
+True label :TỔNG MỨC ĐẦU TƯ CỦA DỰ ÁN HƠN MỘT TRĂM TRIỆU ĐÔ LA MỸ
+Predict    :TỔNG MỨC ĐẦU TƯ CỦA DỰ ÁN HƠN MỘT TRĂM TRIỆU ĐÔ LA MỸ
+
+True label :KINH TẾ XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM HAI NGHÌN KHÔNG
+Predict    :KINH TẾ XÃ HỘI VÀ DỰ TÁN NHÂN SÁCH NHÀ NƯỚC NĂM HAI NGHÌN KHÔNG
+
+True label :CHA MẸ SẼ BIẾT ĐƯỢC TRẺ CẢM NHẬN NHƯ THẾ NÀO VỀ CUỘC SỐNG
+Predict    :CHA MẸ SẼ BIẾT ĐƯỢC TRẺ CẢM NHẬN NHƯ THẾ NÀO VỀ CUỘC SỐNG
+
+True label :NẾU ĐIỀU KIỆN CHO PHÉP NÊN DÙ ĐÃ NHIỀU LẦN QUA LẠI VÙNG NÀY NHƯNG TRƯỚC ĐÂY CẬU CHƯA TỪNG VÀO NGÔI NHÀ THỜ HOANG TÀNG NỌ
+Predict    :NẾU ĐIỀU KỊ CHO PÉT NÊN DỪU ĐÃ NHIỀU LỜNG QA LÀI VÙNG NÀY NHƯNG THỨ ĐAY CẬU CHƯA TỪNG VÀU NGAI NHÀ THỜ HAN TÀN NỌ
+
+True label :KHAI THÔNG TIN TRONG ĐẤU THẦU ĐẶC BIỆT LÀ ĐĂNG TẢI THÔNG TIN LÊN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA
+Predict    :HAI THÔNG TIN TRONG ĐẤU THẦU ĐẶC BIỆT LÀ ĐĂNG TẢI THÔNG TIN LÊN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA CÁC
+
+True label :ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH ĐÃ CHẤP THUẬN VIỆC CHỈ ĐỊNH NHÀ ĐẦU TƯ CHO NĂM DỰ ÁN LỚN TRÊN ĐỊA BÀN
+Predict    :ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MỨNG ĐÃ CHẤP THUẬN VIỆC CHỈ ĐỊNH NHÀ ĐẦU TƯ CHON NĂM DỰ ÁN LỚN TRÊN ĐỊA BÀN
+
+True label :KHI MÀ BẢN THÂN CHA MẸ KHÔNG HỀ BIẾT CON MÌNH ĐANG NHƯ THẾ NÀO
+Predict    :KHI MÀ BẢN THÂN CHA MẸ KHÔNG NHỀ BIẾT CON MÌNH ĐÀNG NGHƯ THẾ NÀO
+
+True label :ỦY BAN QUỐC TẾ VỀ BẢO TỒN CÁ NGỪ ĐẠI TÂY DƯƠNG ĐANG TỔ CHỨC CUỘC HỌP THƯỜNG NIÊN
+Predict    :ỦY BAN QUỐC TẾ VỀ BẢO TÔN CÁC GU ĐẠI THÂY DƯƠNG ĐANG TỔ TRỨC CUỘC HỌP THƯỜNG NIÊN
+
+True label :BẮT ĐẦU ĐƯỢC RÚT TRỞ VỀ NƯỚC ĐÂY LÀ QUYẾT ĐỊNH CỦA CHÍNH PHỦ CUBA
+Predict    :BẮT ĐẦU ĐỢC RÚT CHOU BỀ NƯỚC ĐỂY LÀ QUYẾT ĐỊNH CỦA CHÍNH PHỦ CU BA
+
+True label :SỐ DOANH NGHIỆP NỘI ĐỊA
+Predict    :SỐ DOANH NGHIỆP NỘI ĐIỆM
+
+True label :CÓ THỂ NÓI LÀ THÍCH HỢP
+Predict    :CÓ TH NÓI LÀI THẾTH HỢP
+
+True label :HÀNH ĐỘNG GIÚP CON VÔ ĐIỀU KIỆN KHÔNG PHẢI LÀ VÌ CON MÀ LÀ CHÍNH BẢN THÂN CHA MẸ
+Predict    :HANH ĐỘNG GIÚP CON VÔU ĐIỀU KIỆN KHÔNG PHẢI LÀ VÌ CON MÀ LÀ VÌ CHÍNH BẢN THÂN CHA MẸ
+
+True label :VÀ NHỮNG SAI KHÁC NHỎ GIỮA CÁC MẸO TRANH LUẬN TRONG QUÁ TRÌNH ĐÓ CẦN TỈNH TÁO GHI NHỚ MỤC ĐÍCH CỦA TRANH LUẬN
+Predict    :VÀ NỨT GÁ HẮP NHỎ NHỮA LÁC NÈU TRANH LUẬN TRONG CÓ CHỊ ĐÓ CẦN TỈNH CÁO KÝ NHẾM MỤT ĐẾCH CỦA TRANH LUẬN
+
+True label :THÌ CÓ LẼ CẬU BÉ SẼ KHÔNG BAO GIỜ NÓI CON MUỐN CHẾT BẢN THÂN CẬU BÉ ẤY
+Predict    :THÌ CÓ LẼ CẬU BẺ SẼ KHÔNG BAO GIỜ NÓI CON MUỐN CHẾT BẢN THÂN CẬU BÉ ẤY
+
+True label :TIẾP TỤC ĐÓN NHÉ
+Predict    :TIẾP TỤC ĐÓ NGHE
+
+True label :KHÍCH SỬ DỤNG ĐẤT TIẾT KIỆM HIỆU QUẢ KHẮC PHỤC TÌNH TRẠNG BỎ MẶC ĐẤT
+Predict    :KHÍC SỬ DỤNG ĐÓ TIẾT KIỆM HIỆU QUẢ KHÁC PHỤC TÌNH TRẠNG BỎ LOM ĐẤT
+
+True label :THIỆT MẠNG  TÌNH TRẠNG MẤT ĐIỆN XẢY RA
+Predict    :VHIỆT MẠNG TÊNH TRẠOG MỘT ĐỆ SẼY CA
+
+True label :ĐẶC BIỆT LÀ TẠI BẮN CUNG NỔI TIẾNG KHẮP NƠI
+Predict    :ĐẶC BIỆT LÀ TẠI BÁN CUNG NỔI TẾNG KHÁP NƠI
+
+True label :CHUYÊN GIA VIỆC
+Predict    :CUYÊN GIA VIỆC
+
+True label :PHÁT TRIỂN KINH TẾ PHÚ YÊN HOÀN TOÀN CÓ THỂ SỚM ĐÓN ÁNH BÌNH MINH
+Predict    :PHÁ TRIỀN KINH TẾ PHÚ LIÊN NHOÀN TOÀN CÓ THỂ SỚNG ĐÓNG ÁNH NGÌNH NGUYÊNH
+
+True label :NHƯNG DOANH NGHIỆP NÀY
+Predict    :NHỮNG DOANH NGHIỆP NÀY
+
+True label :ĐÃ QUYẾT ĐỊNH THI HÀNH KỶ LUẬT ĐỒNG CHÍ TẤT THÀNH CANG BẰNG HÌNH THỨC CÁCH CHỨC
+Predict    :TÁO QUYẾT ĐỊNH THI HÀNH KỶ LẬP ĐỒNG CHẾ TẤC THÀNH CANG BẰNG HÌNH THỨC CÁC CHỨC
+
+True label :LÀ CẬU SẼ GẶP LẠI CÔ CON GÁI CỦA NHÀ BUÔN NỌ
+Predict    :LÀ CẬU SẼ GẬC LẠI CÔA CON GÁI CỦA NHÀ BUN NỌ
+
+True label :CÁC CHỈ SỐ CHÍNH TRÊN SÀN CHỨNG KHOÁN CHÂU ÂU HẦU HẾT ĐỀU GIẢM ĐIỂM
+Predict    :CÁC CHỈ SỐ CHÍNH TRÊN SẢN CHỨNG QUÁN CHÂU ÂU HẦU HÉT ĐỂU GIẢN ĐIỂM
+
+True label :PHÁT TRIỂN BỀN VỮNG LÀ MỘT TRONG NHỮNG MỤC TIÊU MÀ CHÍNH PHỦ ĐÃ BAN HÀNH TRONG KẾ HOẠCH HÀNH ĐỘNG
+Predict    :PHÁT TRIỂN BẾN VỮNG LÀ MỘT TRONG NHỮNG MỤ TIÊU MÀ CHÍNH PHỦ ĐÃ BAN HÀNH TRONG KẾ HOẠCH THÀNH ĐỘNG
+
+True label :CHÍNH VÌ THẾ
+Predict    :CHÍNH VÌ THẾ
+
+True label :CHO ĐẾN HÀNG TRĂM SÚNG BẮN ĐẠN BI SẮT CÓ ĐỘ SÁT THƯƠNG
+Predict    :CHỈ ĐẤN HÀNG TRĂM XỐNG BĂNG ĐẢN MẾ SÁC CÂ ĐỘI SẮC THIẦN
+
+True label :TRUNG QUỐC HẠ THẾ QUAN ĐỐI VỚI HƠN MỘT NGHÌN NĂM TRĂM MẶT HÀNG NHẬP KHẨU
+Predict    :TRUNG THUỐC LẠ THUẾ QUAN ĐỐ VỚI MƠN MỘI HÌN NĂM TRĂM HẶT HÀNG ƯƠI CẦU
+
+True label :TỶ ĐÔ LA MỸ TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM SAU ĐÓ CÓ THỂ GIẢM XUỐNG BA TỶ ĐÔ LA MỸ TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI CHÍN
+Predict    :TỶ ĐÔ LA MỸ TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI TÁM SO ĐÓ CÓ THỂ GIẢM XUỐNG BA TỶ ĐÔ LA MỸ TRONG NĂM HAI NGHÌN KHÔNG TRĂM MƯỜI CHÍN
+
+True label :PHÓ THỦ TƯỚNG ĐỀ NGHỊ CHỦ TỊCH HỘI ĐÔNG
+Predict    :PHÁC HỦ ƯỚNG ĐỀ NGHỊ SỰ TỊC HỘI ĐÔNG
+
+True label :CẬN BÌNH BÊN LỀ HỘI NGHỊ NHÓM CÁC NỀN KINH TẾ ĐANG PHÁT TRIỂN VÀ MỚI NỔI G HAI MƯƠI THẤT BẠI
+Predict    :CẬN BÌNH BÊN LỀ HỘI NGHỊ NHÓN CÁC NỀN KINH TẾN ĐANG PHÁT TRIỂN VÀ MƯỚI NỔI CỪA HAI MƯỜI THẬT BẠI
+
+True label :THÌ NGAY LẬP TỨC KHOẢNG CHÍN MƯƠI BẢY PHẦN TRĂM SỐ DÒNG THUẾ GIỮA CÁC QUỐC GIA
+Predict    :TÌM NGAY TỨC KHOẢNG CHÍN MƯƠI MƯỜI PHẦN TRĂM SỐ RÒNG THUẾ RIỮA CÁC QUỐC GIA
+
+True label :CƯỜNG CÔNG TÁC THANH TRA KIỂM TRA VIỆC QUẢN LÝ SỬ DỤNG ĐẤT ĐAI THEO QUY HOẠCH
+Predict    :CỪ CÔNG TÁC THÀNH TRA KIỂM TRA VỊ QUẢN LÝ SỬ DỤNG ĐẤT ĐÀI THIEO QUY HOẠCH
+
+True label :MUỐN GIÀNH ĐƯỢC THẮNG LỢI CHIẾN TRANH
+Predict    :MUỐN GIÀNH ĐƯỢC THẮNG LỢI CHIẾN TRANH
+
+True label :NẾU THỰC LỰC QUÂN TA YẾU HƠN ĐỊCH THÌ PHẢI ĐÁNH ĐỊCH RỒI NHÂN CƠ HỘI MÀ QUYẾT CHIẾN VỚI ĐỊCH
+Predict    :NẾU THỰC LIỆC QUÂN TA YẾU HƠN ĐỊCH THÌ PHẢI LÁNH ĐỊCH CHỒ NHÂN CƠ HỘI LÀ QUYẾT CHIẾN VỚI ĐỊCH
+
+True label :TRONG ĐÓ CÓ BA LỮ ĐOÀN LÀ ĐỘI QUÂN Ô HỢP
+Predict    :TRONG ĐÓ CÓ TA NỮI ĐOÀNG LÀ ĐỘI QUÂN Ô HỢN
+
+True label :TRONG ĐÓ CÓ HƠN NĂM NGHÌN CĂN HỘ VÀ HÀNG CHỤC NỀN ĐẤT TÁI ĐỊNH CƯ CÒN
+Predict    :TRONG ĐÓ CÓ HƠN NĂM NGHÌN CĂN HỘ VÀ HÀNG CHỤCG NÊN ĐẤT TÁI ĐỊNH CƯ CÒN DỐI
+
+True label :LÀ KHÔNG NHỎ VÀ YÊU CẦU
+Predict    :LÀ KHÔNG NHỎ VÀ YÊU CỐN
+
+True label :GIÁ TÔM ĐÔNG LẠNH KÉP KHÁ ỔN ĐỊNH TỪ ĐẦU NĂM ĐẾN NAY
+Predict    :GIÁ TÔN ĐỒNG MLOẠNH KÉP KHÁ ỔN ĐỊNH TỪ ĐẦU NĂM ĐẾN NAY
+
+True label :THÌ CẬU BÉ CÓ THỂ VUI SỐNG
+Predict    :KHÌ CẬU BÉ CÓ THỂ VUI SỐNG
+
+True label :TRONG ĐÓ CÓ CÔNG TÁC ĐẢM BẢO AN TOÀN
+Predict    :TRONG ĐÓ CÓ CÔNG TÁC ĐẢM BẢO AN TOÀN NỘI
+
+True label :PHÓNG VIÊN THƯỜNG TRÚ
+Predict    :PHÓNG VIÊ THỜNG CHÚNG
+
+True label :CẦN CÓ CƠ SỞ PHÁP LÝ
+Predict    :CẦN CÓC CƠC SỞ PHÁP LÝ
+
+True label :TỶ LỆ CHUYỂN TUYẾN Ở MỘT SỐ CHUYÊN KHOA TRỌNG ĐIỂM ĐÃ GIẢM MẠNH MỘT TRONG NHỮNG CHUYỂN BIẾN TÍCH
+Predict    :THỪ ĐÂY CHUYỂN TIẾN LÀ MỘT SỐ TRÊN QA TRỌN NIỂM ĐÓ DÁ MẢNH MỘI THONG LHYỊN TRUYỂN ĐIẾN QẾT
+
+True label :THƯA QUÝ VỊ VÀO CHIỀU NAY BỘ GIÁO DỤC VÀ ĐÀO TẠO ĐÃ CHÍNH THỨC CÔNG BỐ NHỮNG ĐIỀU CHỈNH TRONG KÌ
+Predict    :THỪA QHU VỊ VÀ CHIỀNG NAY BỘ GIÁO XỤC VÀ ĐẢO TẠO ĐÃ CHÍNH TỨC CÔNG BỐ NHỮNG ĐIỀU CHỈNH TRONG VIỆC
+
+True label :BỘ CÔNG THƯƠNG MỚI BAN HÀNH THÔNG TƯ SỐ BỐN MƯƠI BỐN QUY ĐỊNH VỀ VIỆC TẠM NGỪNG KINH DOANH TẠM NHẬP
+Predict    :BỘ CÔNG THƯƠNG MỚI BAN HÀNH THÔNG TƯ SỐ BỐN MƯƠI BỐN QUY ĐỊNH VỀ VIỆC TẠM NGỪNG KINH DOANH TẠM NHẬP
+
+True label :NHIỀU CHUYÊN GIA ĐÃ NHẬN ĐỊNH RẰNG NHÀ
+Predict    :NHIỀU CHUYÊN GIA ĐÃ NHẬN ĐỊNH RẰNG NHÀ
+
+True label :TRƯƠNG HÒA BÌNH TỚI THĂM TẶNG QUÀ GIA ĐÌNH GIÁO DÂN TIÊU BIỂU NGUYỄN MẠNH ĐẠT Ở THỊ TRẤN PHÁT DIỆM HUYỆN KIM SƠN
+Predict    :TRƯUNG MÔI BÌNH VỚI THĂM ĐÀ QUA GIÁ ĐÌNH GIÁO CÂN KIÊU HIỂU NGHIẾN MÀNH ĐÀ Ở THỊ TRỂN PHÁT TRIỆN HIỆN KIM TRƯƠN
+
+True label :ĐÊM NAY NHẤT ĐỊNH SẼ SAI MỘT TƯỚNG ĐẾN CƯỚP DOANH TRẠI CỦA TA ÔNG CHỈ ĐƯỢC PHÉP CỐ THỦ KHÔNG ĐƯỢC NGHÊN CHIẾN
+Predict    :ĐỀM NAY NHẤT ĐỊNH SẼ SA MỘT TƯỚNG ĐIẾNƯ CƯỚC DAN TRẠI CỦA TA CÔNG CHỈ ĐƯỢC KÉT CỐN THỦ KHÔNG ĐƯỢN GÊNH CHIẾN
+
+True label :HOẠT ĐỘNG QUẢN TRỊ KINH TẾ TOÀN CẦU CŨNG NHƯ HỢP TÁC TRONG CÁC LĨNH VỰC THƯƠNG MẠI ĐẦU TƯ VÀ TÀI CHÍNH
+Predict    :HOẠT ĐỘNG QUẢN CHỊ KINH TẾ TOÀN CẦU CŨNG NHƯNG HỢP TÁC TRONG CÁC LĨNH PHẤC THƯƠNG MẠI ĐẦU TƯ VÀ TÀI CHÍNH
+
+True label :TỚI ĐẠI HỘI ĐẢNG TOÀN QUỐC LẦN THỨ MƯỜI BA VỚI Ý NGHĨA ĐÓ
+Predict    :ỚI ĐẠI HỘI ĐẢNG TOÀN QUỐC LẦN THỨ MƯỜI BA VỚI  NHẼ ĐÓ
+
+True label :SÁNG NAY TẠI HUYỆN ĐẠI LỘC TỈNH QUẢNG NAM
+Predict    :SÁNG NAY TÀI HIỆNH ĐẠY LỢP TỈNH QUẢN NAM
+
+True label :MỘT TRONG NHỮNG LÝ DO CHÍNH DẪN ĐẾN TÌNH TRẠNG NÀY LÀ DO SỰ LEO THANG TRONG CUỘC
+Predict    :MỘT TRONG NHỮNG LÝ DO CHÍNH DẪN ĐẾN TÌNH TRỢNG NÀY LÀ VÓO SỰ LEU TAM TRONG CUỦC
+
