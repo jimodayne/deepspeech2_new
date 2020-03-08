@@ -4,13 +4,23 @@
 1. Create a VM instance (on Google Cloud Platform)
 2. Clone the project
 3. Download the data
-4. Run some commnad below
+4. Setup the enviroment (tensorflow v1.15)
+5. Train the model
+
+Some basic commands are:
+```
+// Connect to VM instance
+gcloud compute instances start instance-name
+gcloud compute ssh instance-name
+
+// Activate the virtual environment 
+source ./venv/bin/activate
 
 
-## Useful commnad line
-1. gcloud compute instances start instance-3
-2. gcloud compute ssh instance-3 
-3. source ./venv/bin/activate
-4. python3 -W ignore ./train.py ./check_point/ ./json/for_newEngine/train_json.json ./json/for_newEngine/test_json.json ./log.csv
-5. screen -r
-6. exit: Ctrl + A D
+python3 -W ignore ./train.py ./check_point/ ./json/for_newEngine/train_json.json ./json/for_newEngine/test_json.json ./log.csv
+
+// Using screen for non-stop training
+Create: screen 
+Enter: screen -r
+Exit: Ctrl + A D
+```
