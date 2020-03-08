@@ -114,7 +114,7 @@ def main(check_point_directory, train_json_file, test_json_file, log_file):
                                                  labels: batch['y'],
                                                  label_lengths: batch['label_lengths'],
                                                  input_lengths: batch['input_lengths'],
-                                                 keep_prop: 0.8}
+                                                 keep_prop: 0.3}
                                       )
 
                 train_cost.append(c)
@@ -148,7 +148,7 @@ def main(check_point_directory, train_json_file, test_json_file, log_file):
                                               labels: batch['y'],
                                               label_lengths: batch['label_lengths'],
                                               input_lengths: batch['input_lengths'],
-                                              keep_prop: 1}
+                                              keep_prop: 0.4}
                                    )
 
                 test_cost.append(c)

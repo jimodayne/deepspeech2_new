@@ -32,7 +32,7 @@ model_config = {
     "conv1_kernel_shape": [5, 5], #h x w
     "conv1_in_chanels" : 1,
     "conv1_out_chanels" : 4,
-    "conv1_keep_prob" : 0.95, # keep_prop dropout
+    "conv1_keep_prob" : 0.4, # keep_prop dropout
 
     # layer 2
     "conv2_padding" : "SAME",
@@ -40,15 +40,15 @@ model_config = {
     "conv2_kernel_shape": [5, 5], #h x w
     "conv2_in_chanels" : 4,
     "conv2_out_chanels" : 4,
-    "conv2_keep_prob" : 0.95, # keep_prop dropout
+    "conv2_keep_prob" : 0.4, # keep_prop dropout
 
     # layer 3
-    # "conv3_padding" : "SAME",
-    # "conv3_stride" : [2, 1], #h x w
-    # "conv3_kernel_shape": [5, 5], #h x w
-    # "conv3_in_chanels" : 8,
-    # "conv3_out_chanels" : 8,
-    # "conv3_keep_prob" : 0.95, # keep_prop dropout
+    "conv3_padding" : "SAME",
+    "conv3_stride" : [2, 1], #h x w
+    "conv3_kernel_shape": [5, 5], #h x w
+    "conv3_in_chanels" : 8,
+    "conv3_out_chanels" : 8,
+    "conv3_keep_prob" : 0.4, # keep_prop dropout
     # rnn layer
 }
 
@@ -85,7 +85,7 @@ def conv_layer(inputs, config, name, cnn_keep_prop):
 
     return conv_outputs
 
-def rnn_layer( inputs, config, name, hidden_layer_size=1024, keep_prob=0.95, mode="LSTM", rnn_type="BI_DIR") :
+def rnn_layer( inputs, config, name, hidden_layer_size=1024, keep_prob=0.4, mode="LSTM", rnn_type="BI_DIR") :
         
     # input của rnn layer sẽ có dạng [batch_size, time_steps, num_features] (conv_outputs)
 
