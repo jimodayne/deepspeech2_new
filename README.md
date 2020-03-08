@@ -7,7 +7,7 @@
 4. Setup the enviroment (tensorflow v1.15)
 5. Train the model
 
-Some basic commands are:
+### Some basic commands are:
 
 1. Connect to VM instance
 ```
