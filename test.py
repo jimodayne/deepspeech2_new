@@ -53,7 +53,7 @@ def main(check_point_directory, test_json_file, result_file):
     input_lengths = tf.placeholder(tf.int32, shape=(None))
     
     # create an instance of model
-    deep_speech_model = model(inputs, input_lengths, labels, label_lengths, model_config,0.95, mode=ModelMode.TEST)
+    deep_speech_model = model(inputs, input_lengths, labels, label_lengths, model_config, 0.95, mode=ModelMode.TEST)
      
     # print(deep_speech_model.mode)
     # print(deep_speech_model.config["n_input_fetures"])
@@ -87,10 +87,8 @@ def main(check_point_directory, test_json_file, result_file):
         f = open(result_file, "w")
         
         for i , batch in enumerate(dataset):
-            # print("batch['x']:", np.array(batch['x']))
-            # print(" input_lengths:",  batch['input_lengths'])
             l, s = sess.run( deep_speech_model, 
-                                        feed_dict={inputs: batch['x'], 
+                                        feed_dict={inputs : batch['x'], 
                                                     # labels : batch['y'],
                                                     # label_lengths : batch['label_lengths'],
                                                     input_lengths : batch['input_lengths']
@@ -106,10 +104,8 @@ def main(check_point_directory, test_json_file, result_file):
                 true_label  = list_char_to_string(label[count])
                 predict     = list_char_to_string(decode[count])
                 f.write("True label :" + true_label)
-                print("True label :" + true_label)
                 f.write("\n")
                 f.write("Predict    :" + predict)
-                print("Predict    :" + predict)
                 f.write("\n")
                 f.write("\n")
                 c = compute_cer(predict, true_label)
@@ -121,8 +117,8 @@ def main(check_point_directory, test_json_file, result_file):
             # break
         average_cer = np.mean(cer)
         average_wer = np.mean(wer)
-        # print(average_cer)
-        # print(average_wer)
+        print(average_cer)
+        print(average_wer)
         f.write("\n average character error rate"   + str(average_cer))
         f.write("\n average word error rate"        + str(average_wer))
 if __name__ == '__main__': 

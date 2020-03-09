@@ -1,9 +1,11 @@
+
 import os
 import sys
 import math
 import argparse
 import numpy as np
 import tensorflow as tf
+
 from data_generator import DataGenerator
 from model import model, ModelMode, model_config
 from decoder import batch_decode, batch_label_to_text, list_char_to_string, compute_cer, compute_wer
@@ -87,7 +89,7 @@ def main(check_point_directory, train_json_file, test_json_file, log_file):
             print("run from start")
             print("-----------------/////////------------------")
 
-        for m in range(251):
+        for m in range(5):
             # increase global step
             current_global_step = sess.run(increment_global_step)
 
@@ -114,7 +116,7 @@ def main(check_point_directory, train_json_file, test_json_file, log_file):
                                                  labels: batch['y'],
                                                  label_lengths: batch['label_lengths'],
                                                  input_lengths: batch['input_lengths'],
-                                                 keep_prop: 0.3}
+                                                 keep_prop: 0.8}
                                       )
 
                 train_cost.append(c)
@@ -148,7 +150,7 @@ def main(check_point_directory, train_json_file, test_json_file, log_file):
                                               labels: batch['y'],
                                               label_lengths: batch['label_lengths'],
                                               input_lengths: batch['input_lengths'],
-                                              keep_prop: 0.4}
+                                              keep_prop: 1}
                                    )
 
                 test_cost.append(c)
@@ -216,6 +218,7 @@ def main(check_point_directory, train_json_file, test_json_file, log_file):
 
 
 if __name__ == '__main__':
+    # tf.disable_v2_behavior()
     parser = argparse.ArgumentParser()
     parser.add_argument('check_point_directory', type=str,
                         help='Path to checkpoint directory')

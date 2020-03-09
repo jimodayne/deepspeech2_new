@@ -9,7 +9,6 @@ import math
 import argparse
 import numpy as np
 import tensorflow as tf
-# tf.disable_v2_behavior()
 from data_generator import DataGenerator
 # from data import utils
 import matplotlib.pyplot as plt
@@ -28,27 +27,27 @@ model_config = {
 
     # layer 1
     "conv1_padding" : "SAME",
-    "conv1_stride" : [1, 1], #h x w
+    "conv1_stride" : [2, 2], #h x w
     "conv1_kernel_shape": [5, 5], #h x w
     "conv1_in_chanels" : 1,
-    "conv1_out_chanels" : 4,
-    "conv1_keep_prob" : 0.4, # keep_prop dropout
+    "conv1_out_chanels" : 32,
+    # "conv1_keep_prob" : 0.95, # keep_prop dropout
 
     # layer 2
     "conv2_padding" : "SAME",
     "conv2_stride" : [1, 1], #h x w
     "conv2_kernel_shape": [5, 5], #h x w
-    "conv2_in_chanels" : 4,
-    "conv2_out_chanels" : 4,
-    "conv2_keep_prob" : 0.4, # keep_prop dropout
+    "conv2_in_chanels" : 32,
+    "conv2_out_chanels" : 32,
+    # "conv2_keep_prob" : 0.95, # keep_prop dropout
 
     # layer 3
-    "conv3_padding" : "SAME",
-    "conv3_stride" : [2, 1], #h x w
-    "conv3_kernel_shape": [5, 5], #h x w
-    "conv3_in_chanels" : 8,
-    "conv3_out_chanels" : 8,
-    "conv3_keep_prob" : 0.4, # keep_prop dropout
+    # "conv3_padding" : "SAME",
+    # "conv3_stride" : [2, 1], #h x w
+    # "conv3_kernel_shape": [5, 5], #h x w
+    # "conv3_in_chanels" : 8,
+    # "conv3_out_chanels" : 8,
+    # "conv3_keep_prob" : 0.95, # keep_prop dropout
     # rnn layer
 }
 
@@ -85,7 +84,7 @@ def conv_layer(inputs, config, name, cnn_keep_prop):
 
     return conv_outputs
 
-def rnn_layer( inputs, config, name, hidden_layer_size=1024, keep_prob=0.4, mode="LSTM", rnn_type="BI_DIR") :
+def rnn_layer( inputs, config, name, hidden_layer_size=1024, keep_prob=0.95, mode="LSTM", rnn_type="BI_DIR") :
         
     # input của rnn layer sẽ có dạng [batch_size, time_steps, num_features] (conv_outputs)
 
@@ -165,7 +164,7 @@ def model(inputs, input_lengths, labels, label_lengths, config, cnn_keep_prop, m
     
     # conv layer 
     conv_outputs = conv_layer(conv_outputs, config, 1, cnn_keep_prop)
-    # conv_outputs = conv_layer(conv_outputs, config, 2)
+    conv_outputs = conv_layer(conv_outputs, config, 2, cnn_keep_prop)
     # conv_outputs = conv_layer(conv_outputs, config, 3)
 
     batch_size = tf.shape(conv_outputs)[0]
@@ -178,11 +177,11 @@ def model(inputs, input_lengths, labels, label_lengths, config, cnn_keep_prop, m
             )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 
     ############################################
-    rnn_outputs = rnn_layer(conv_outputs ,config, 1, hidden_layer_size=10, keep_prob=cnn_keep_prop,mode="LSTM", rnn_type="BI_DIR")
+    rnn_outputs = rnn_layer(conv_outputs ,config, 1, hidden_layer_size=600, keep_prob=cnn_keep_prop, mode="LSTM", rnn_type="BI_DIR")
 
-    # rnn_outputs = rnn_layer(rnn_outputs ,config, 2, hidden_layer_size=10, mode="LSTM", rnn_type="BI_DIR")
+    rnn_outputs = rnn_layer(rnn_outputs ,config, 2, hidden_layer_size=600, keep_prob=cnn_keep_prop, mode="LSTM", rnn_type="BI_DIR")
 
-    # rnn_outputs = rnn_layer(rnn_outputs ,config, 3, hidden_layer_size=10, mode="LSTM", rnn_type="BI_DIR")
+    rnn_outputs = rnn_layer(rnn_outputs ,config, 3, hidden_layer_size=600, keep_prob=cnn_keep_prop, mode="LSTM", rnn_type="BI_DIR")
 
     # rnn_outputs = rnn_layer(rnn_outputs ,config, 4, hidden_layer_size=10, mode="LSTM", rnn_type="BI_DIR")
 
