@@ -89,7 +89,7 @@ def main(check_point_directory, train_json_file, test_json_file, log_file):
             print("run from start")
             print("-----------------/////////------------------")
 
-        for m in range(5):
+        for m in range(25):
             # increase global step
             current_global_step = sess.run(increment_global_step)
 
