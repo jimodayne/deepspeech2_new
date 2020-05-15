@@ -87,15 +87,26 @@ def main(check_point_directory="./check_point"):
         # audio_input_length = [np.shape(audio_input)[1]]
 
        
+        # input_lengths = [f.shape[0] for f in features]
+        # max_length = max(input_lengths)
+       
 
-        audio_input_length = [np.shape(audio_input)[1]]
+        audio_input_length = [np.shape(audio_input)[0]]
         
        
-        # print(audio_input_length)
+        print(audio_input_length)
 
 
         l, s = sess.run( deep_speech_model, feed_dict={inputs : audio_input, input_lengths : audio_input_length})
-        
+        l, s = sess.run( deep_speech_model, 
+                                        feed_dict={inputs : batch['x'], 
+                                                    # labels : batch['y'],
+                                                    # label_lengths : batch['label_lengths'],
+                                                    input_lengths : batch['input_lengths']
+                                                    }
+                                        )
+
+
         decode = batch_decode(l, s)
         result = list_char_to_string(decode[0])
         print(result)
