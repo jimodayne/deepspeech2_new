@@ -69,18 +69,18 @@ def main(check_point_directory="./check_point"):
             # return
         
         # create a audio for inference
-        # while True:
-        # c, addr = serv.accept()     # Establish connection with client.
-        # print('Got connection from', addr)
-        # f = open('./server_audio/data.wav','wb')
-        # l = c.recv(4096)
-        # while (l):
-        #     f.write(l)
-        #     l = c.recv(4096)
-        # print("reveived")
-        # f.close()
+        while True:
+            c, addr = serv.accept()     # Establish connection with client.
+            print('Got connection from', addr)
+            # f = open('./server_audio/data.wav','wb')
+            l = c.recv(4096)
+            # while (l):
+            #     f.write(l)
+            #     l = c.recv(4096)
+            #     print("received")
+            #     f.close()
 
-        audio_input = [featurize("./data/vivos/train/waves/VIVOSSPK46/VIVOSSPK46_300.wav")]
+            audio_input = [featurize("./data/vivos/train/waves/VIVOSSPK46/VIVOSSPK46_300.wav")]
 
         # print("audio_input:", np.shape(audio_input))
 
@@ -91,21 +91,23 @@ def main(check_point_directory="./check_point"):
         # max_length = max(input_lengths)
        
 
-        audio_input_length = [np.shape(audio_input)[1]]
+            audio_input_length = [np.shape(audio_input)[1]]
+            
         
-       
-        print(audio_input_length)
+            print(audio_input_length)
 
 
-        l, s = sess.run( deep_speech_model, feed_dict={inputs : audio_input, input_lengths : audio_input_length})
+            l, s = sess.run( deep_speech_model, feed_dict={inputs : audio_input, input_lengths : audio_input_length})
         
 
 
-        decode = batch_decode(l, s)
-        result = list_char_to_string(decode[0])
-        print("result", result)
-        # c.send(result.encode())
-        # print("close connection from", addr)
+            decode = batch_decode(l, s)
+            result = list_char_to_string(decode[0])
+            print("result", result)
+
+        # serv.listen(5)  
+            c.send(result.encode())
+            print("close connection from", addr)
         # c.close()                # Close the connection
 
 main()
