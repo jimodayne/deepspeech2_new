@@ -80,7 +80,7 @@ def main(check_point_directory="./check_point"):
         # print("reveived")
         # f.close()
 
-        audio_input = [featurize("./data/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R002.wav")]
+        audio_input = [featurize("./data/vivos/train/waves/VIVOSSPK46/VIVOSSPK46_300.wav")]
 
         # print("audio_input:", np.shape(audio_input))
 
