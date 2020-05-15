@@ -103,7 +103,7 @@ def main(check_point_directory="./check_point"):
 
         decode = batch_decode(l, s)
         result = list_char_to_string(decode[0])
-        print(result)
+        print("result", result)
         # c.send(result.encode())
         # print("close connection from", addr)
         # c.close()                # Close the connection
