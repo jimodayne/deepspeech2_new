@@ -20,7 +20,7 @@ serv.bind(('0.0.0.0', 8888))
 # serv.bind(('localhost', 8888))
 serv.listen(5)  
 
-def featurize(audio_clip, step=10, window=20, max_freq=8000, desc_file=None) :
+def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None) :
     return spectrogram_from_file(
             audio_clip,mode=ModelMode.TEST, step=step, window=window,
             max_freq=max_freq)
