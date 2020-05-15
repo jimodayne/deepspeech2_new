@@ -98,13 +98,7 @@ def main(check_point_directory="./check_point"):
 
 
         l, s = sess.run( deep_speech_model, feed_dict={inputs : audio_input, input_lengths : audio_input_length})
-        l, s = sess.run( deep_speech_model, 
-                                        feed_dict={inputs : batch['x'], 
-                                                    # labels : batch['y'],
-                                                    # label_lengths : batch['label_lengths'],
-                                                    input_lengths : batch['input_lengths']
-                                                    }
-                                        )
+        
 
 
         decode = batch_decode(l, s)
