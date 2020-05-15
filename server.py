@@ -25,7 +25,7 @@ def featurize(audio_clip, step=10, window=20, max_freq=8000, desc_file=None) :
             audio_clip,mode=ModelMode.TEST, step=step, window=window,
             max_freq=max_freq)
 
-def main(check_point_directory="/content/drive/My Drive/DeepSpeech/check_point"):
+def main(check_point_directory="./check_point"):
     # input là một batch của dataset, ở đây có sự khác nhau lúc train và inference về số batch size
     # shape của input là các tham số lần lượt là: shape=[batch_size, max_time_steps, num_features]
     inputs = tf.placeholder(
