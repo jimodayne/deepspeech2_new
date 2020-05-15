@@ -91,7 +91,7 @@ def main(check_point_directory="./check_point"):
         # max_length = max(input_lengths)
        
 
-        audio_input_length = [np.shape(audio_input)[0]]
+        audio_input_length = [np.shape(audio_input)[1]]
         
        
         print(audio_input_length)
