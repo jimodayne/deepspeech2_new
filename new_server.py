@@ -10,7 +10,7 @@ def hello_world():
 @app.route('/uploader', methods=['POST'])
 def upload_file():
     f = request.files['file']
-    f.save(f.filename)
+    f.save('./server_audio/data.wav')
     return 'file uploaded successfully'
 
 
