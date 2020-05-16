@@ -78,7 +78,7 @@ def main(check_point_directory="./check_point"):
             while True:
                 f.write(data)
                 data = conn.recv(4096)
-                if not data: break 
+                if data == 0: break 
             print("reveived")
             f.close()
 
