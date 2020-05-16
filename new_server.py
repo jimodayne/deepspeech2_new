@@ -1,5 +1,7 @@
+import shutil
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import HTMLResponse
+from pathlib import Path
 
 app = FastAPI()
 
