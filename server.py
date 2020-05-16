@@ -73,13 +73,16 @@ def main(check_point_directory="./check_point"):
             conn, addr = serv.accept()     # Establish connection with client.
             print('Got connection from', addr)
             f = open('./server_audio/data.wav','wb')
+            
             data = conn.recv(4096)
-            print("data",data)
-            while True:
+           
+            while data:
+                print "Receiving..."
                 f.write(data)
                 data = conn.recv(4096)
-                if data == 0: break 
-            print("reveived")
+               
+            print("Done Receiving")
+            c.send('Thank you for sending')
             f.close()
 
             audio_input = [featurize("./server_audio/data.wav")]
