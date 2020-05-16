@@ -28,11 +28,8 @@ def upload_file():
             flash('No selected file')
             return redirect(request.url)
         if file:
-            filename = secure_filename(file.filename)
-            flash("filename", filename)
-            flash("os.path.join(app.config['UPLOAD_FOLDER'], filename)", os.path.join(
-                app.config['UPLOAD_FOLDER'], filename))
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+            filename = "data"
+            file.save("./server_audio")
             return redirect(url_for('uploaded_file',
                                     filename=filename))
     return '''
