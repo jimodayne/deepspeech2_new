@@ -106,8 +106,8 @@ def main(check_point_directory="./check_point"):
             print("result", result)
 
             # serv.listen(5)  
-            c.send(result.encode())
+            conn.send(result.encode())
             print("close connection from", addr)
-            c.close()                # Close the connection
+            conn.close()                # Close the connection
 
 main()
