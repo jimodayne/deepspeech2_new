@@ -76,10 +76,10 @@ def main(check_point_directory="./check_point"):
             
             while (True):       
     # receive data and write it to file
-                l = sc.recv(1024)
+                l = conn.recv(1024)
                 while (l):
                     f.write(l)
-                    l = sc.recv(1024)
+                    l = conn.recv(1024)
           
            
          
