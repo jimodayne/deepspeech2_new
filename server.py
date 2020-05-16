@@ -72,15 +72,16 @@ def main(check_point_directory="./check_point"):
         while True:
             conn, addr = serv.accept()     # Establish connection with client.
             print('Got connection from', addr)
-            # f = open('./server_audio/data.wav','wb')
+            f = open('./server_audio/data.wav','wb')
             data = conn.recv(4096)
             if (data):
-                # f.write(l)
+                f.write(data)
                 # l = c.recv(4096)
                 print("received",data)
-                # f.close()
+                print("file",f)
+                f.close()
 
-            audio_input = [featurize("./data/vivos/train/waves/VIVOSSPK46/VIVOSSPK46_300.wav")]
+            audio_input = [featurize("./server_audio/data.wav")]
 
         # print("audio_input:", np.shape(audio_input))
 
