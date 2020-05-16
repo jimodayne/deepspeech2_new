@@ -8,11 +8,9 @@ app = FastAPI()
 
 def save_upload_file(upload_file: UploadFile, destination: Path) -> None:
     try:
-        f = open(destination)
-        shutil.copyfileobj(upload_file.file, f)
+        shutil.copyfileobj(upload_file.file, destination)
     finally:
         upload_file.file.close()
-        f.close()
 
 
 @app.get("/")
