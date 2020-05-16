@@ -84,7 +84,7 @@ def main(check_point_directory="./check_point"):
                     break
                
             print("Done Receiving")
-            c.send('Thank you for sending')
+            conn.send('Thank you for sending')
             f.close()
 
             audio_input = [featurize("./server_audio/data.wav")]
