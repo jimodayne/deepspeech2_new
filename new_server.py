@@ -32,6 +32,5 @@ def read_item(item_id: int, q: str = None):
 
 @app.post("/uploadfile/")
 async def create_upload_file(file: UploadFile = File(...)):
-
     save_upload_file(file, "./server_audio/data.wav")
     return {"filename": file.filename}
