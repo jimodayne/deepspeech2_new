@@ -17,7 +17,7 @@ async def main():
 </form>
 </body>
     """
-    return content
+    return HTMLResponse(content=content)
 
 
 @app.get("/items/{item_id}")
