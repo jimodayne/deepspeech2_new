@@ -28,7 +28,7 @@ def upload_file():
             flash('No selected file')
             return redirect(request.url)
         if file:
-            filename = "data"
+            filename = "data.wav"
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             return redirect(url_for('uploaded_file',
                                     filename=filename))
