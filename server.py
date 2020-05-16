@@ -72,18 +72,14 @@ def main(check_point_directory="./check_point"):
         while True:
             conn, addr = serv.accept()     # Establish connection with client.
             print('Got connection from', addr)
-            f = open('./server_audio/data.wav','wb')
+            f = open('./server_audio/data.wav','ab')
             
             while (True):       
-    # receive data and write it to file
-                l = conn.recv(1024)
-                while (l):
-                    f.write(l)
-                    l = conn.recv(1024)
-          
-           
-         
-               
+            # receive data and write it to file
+                data = conn.recv(1024)
+                if not data: break
+                f.write(data)
+            
                
             print("Done Receiving")
             
