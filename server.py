@@ -80,7 +80,7 @@ def main(check_point_directory="./check_point"):
                 print("Receiving...")
                 data = conn.recv(4096)
                 f.write(data)
-                if not l:
+                if not data:
                     break
                
                
