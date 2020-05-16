@@ -75,10 +75,10 @@ def main(check_point_directory="./check_point"):
             f = open('./server_audio/data.wav','wb')
             data = conn.recv(4096)
             
-            while True:
-                f.write(data)
-                data = conn.recv(4096)
-                if not data: break 
+         
+            f.write(data)
+            
+               
             print("reveived")
             f.close()
 
