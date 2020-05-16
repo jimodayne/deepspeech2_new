@@ -69,23 +69,24 @@ def main(check_point_directory="./check_point"):
             # return
         
         # create a audio for inference
-        while True:
-            conn, addr = serv.accept()     # Establish connection with client.
-            print('Got connection from', addr)
-            f = open('./server_audio/data.wav','ab')
+      
+        conn, addr = serv.accept()     # Establish connection with client.
+        print('Got connection from', addr)
+        f = open('./server_audio/data.wav','ab')
+        
+        while (True):       
+        # receive data and write it to file
+            data = conn.recv(1024)
+            if not data: 
+                break
+            f.write(data)
+        
             
-            while (True):       
-            # receive data and write it to file
-                data = conn.recv(1024)
-                if not data: break
-                f.write(data)
-            
-               
-            print("Done Receiving")
-            
-            f.close()
+        print("Done Receiving")
+        
+        f.close()
 
-            audio_input = [featurize("./server_audio/data.wav")]
+        audio_input = [featurize("./server_audio/data.wav")]
 
         # print("audio_input:", np.shape(audio_input))
 
@@ -96,23 +97,23 @@ def main(check_point_directory="./check_point"):
         # max_length = max(input_lengths)
        
 
-            audio_input_length = [np.shape(audio_input)[1]]
-            
+        audio_input_length = [np.shape(audio_input)[1]]
         
-            print(audio_input_length)
+    
+        print(audio_input_length)
 
 
-            l, s = sess.run( deep_speech_model, feed_dict={inputs : audio_input, input_lengths : audio_input_length})
-        
+        l, s = sess.run( deep_speech_model, feed_dict={inputs : audio_input, input_lengths : audio_input_length})
+    
 
 
-            decode = batch_decode(l, s)
-            result = list_char_to_string(decode[0])
-            print("result", result)
+        decode = batch_decode(l, s)
+        result = list_char_to_string(decode[0])
+        print("result", result)
 
-            # serv.listen(5)  
-            conn.send(result.encode())
-            print("close connection from", addr)
-            conn.close()                # Close the connection
+        # serv.listen(5)  
+        conn.send(result.encode())
+        print("close connection from", addr)
+        conn.close()                # Close the connection
 
 main()
