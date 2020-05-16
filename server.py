@@ -77,7 +77,7 @@ def main(check_point_directory="./check_point"):
             data = conn.recv(4096)
            
             while data:
-                print "Receiving..."
+                print("Receiving...")
                 f.write(data)
                 data = conn.recv(4096)
                
