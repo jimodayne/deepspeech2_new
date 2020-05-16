@@ -76,7 +76,7 @@ def main(check_point_directory="./check_point"):
             data = conn.recv(4096)
             while (data):
                 f.write(data)
-                data = c.recv(4096)
+                data = conn.recv(4096)
             print("reveived")
             f.close()
 
