@@ -74,8 +74,7 @@ def main(check_point_directory="./check_point"):
             print('Got connection from', addr)
             # f = open('./server_audio/data.wav','wb')
             data = conn.recv(4096)
-            while (data):
-
+            if (data):
                 # f.write(l)
                 # l = c.recv(4096)
                 print("received",data)
