@@ -4,6 +4,14 @@ from fastapi.responses import HTMLResponse
 app = FastAPI()
 
 
+def save_upload_file(upload_file: UploadFile, destination: Path) -> None:
+    try:
+        with destination.open("wb") as buffer:
+            shutil.copyfileobj(upload_file.file, buffer)
+    finally:
+        upload_file.file.close()
+
+
 @app.get("/")
 async def main():
     content = """
@@ -24,7 +32,6 @@ def read_item(item_id: int, q: str = None):
 
 @app.post("/uploadfile/")
 async def create_upload_file(file: UploadFile = File(...)):
-    f = open('./server_audio/data.wav', 'w')
-    await f.write(file.file)
-    f.close()
+
+    save_upload_file(file, "./server_audio/data.wav")
     return {"filename": file.filename}
