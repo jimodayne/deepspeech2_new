@@ -29,7 +29,7 @@ def upload_file():
             return redirect(request.url)
         if file:
             filename = "data"
-            file.save("./server_audio")
+            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             return redirect(url_for('uploaded_file',
                                     filename=filename))
     return '''
