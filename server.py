@@ -8,14 +8,6 @@ from data_generator import DataGenerator
 from model import model, ModelMode, model_config
 from decoder import batch_decode, batch_label_to_text, list_char_to_string, compute_cer, compute_wer
 from utils import calc_feat_dim, spectrogram_from_file, text_to_int_sequence
-from fastapi import FastAPI
-
-app = FastAPI()
-
-
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
 
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
