@@ -6,6 +6,7 @@ UPLOAD_FOLDER = './server_audio'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
 
 @app.route('/')
@@ -28,6 +29,9 @@ def upload_file():
             return redirect(request.url)
         if file:
             filename = secure_filename(file.filename)
+            flash("filename", filename)
+            flash("os.path.join(app.config['UPLOAD_FOLDER'], filename)", os.path.join(
+                app.config['UPLOAD_FOLDER'], filename))
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             return redirect(url_for('uploaded_file',
                                     filename=filename))
