@@ -15,7 +15,7 @@ serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 serv.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 
-serv.bind(('0.0.0.0', 8888))
+serv.bind(('0.0.0.0', 8080))
 
 # serv.bind(('localhost', 8888))
 serv.listen(5)  
