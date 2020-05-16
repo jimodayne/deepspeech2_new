@@ -74,14 +74,15 @@ def main(check_point_directory="./check_point"):
             print('Got connection from', addr)
             f = open('./server_audio/data.wav','wb')
             
+            while (True):       
+    # receive data and write it to file
+                l = sc.recv(1024)
+                while (l):
+                    f.write(l)
+                    l = sc.recv(1024)
           
            
-            while True:
-                print("Receiving...")
-                data = conn.recv(4096)
-                f.write(data)
-                if not data:
-                    break
+         
                
                
             print("Done Receiving")
