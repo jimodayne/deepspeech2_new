@@ -12,10 +12,44 @@ from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 
 UPLOAD_FOLDER = './server_audio'
+check_point_directory = "./check_point"
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
+
+
+inputs = tf.placeholder(
+    tf.float32,
+    shape=(None, None, model_config["n_input_fetures"]),
+    name="inputs")
+
+# labels
+labels = tf.placeholder(
+    tf.int32,
+    shape=(None, None),
+    name='labels')
+label_lengths = tf.placeholder(tf.int32, shape=(None))
+
+input_lengths = tf.placeholder(tf.int32, shape=(None))
+deep_speech_model = model(inputs, input_lengths, labels,
+                          label_lengths, model_config, 0.95, mode=ModelMode.TEST)
+
+saver = tf.train.Saver()
+init_op = tf.global_variables_initializer()
+with tf.Session() as sess:
+    sess.run(init_op)
+    try:
+        saver.restore(sess, tf.train.latest_checkpoint(
+            check_point_directory))
+
+        print(" ")
+        print("restore check point success")
+        print("-----------------/////////------------------")
+    except:
+        print(" ")
+        print("can not find check point at ", check_point_directory)
+        print("-----------------////=/////------------------")
 
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
@@ -78,37 +112,6 @@ def uploaded_file(filename):
 
 
 if __name__ == '__main__':
-    check_point_directory = "./check_point"
+
     app.secret_key = 'super secret key'
     app.run(host='0.0.0.0', port=8000)
-    inputs = tf.placeholder(
-        tf.float32,
-        shape=(None, None, model_config["n_input_fetures"]),
-        name="inputs")
-
-    # labels
-    labels = tf.placeholder(
-        tf.int32,
-        shape=(None, None),
-        name='labels')
-    label_lengths = tf.placeholder(tf.int32, shape=(None))
-
-    input_lengths = tf.placeholder(tf.int32, shape=(None))
-    deep_speech_model = model(inputs, input_lengths, labels,
-                              label_lengths, model_config, 0.95, mode=ModelMode.TEST)
-
-    saver = tf.train.Saver()
-    init_op = tf.global_variables_initializer()
-    with tf.Session() as sess:
-        sess.run(init_op)
-        try:
-            saver.restore(sess, tf.train.latest_checkpoint(
-                check_point_directory))
-
-            print(" ")
-            print("restore check point success")
-            print("-----------------/////////------------------")
-        except:
-            print(" ")
-            print("can not find check point at ", check_point_directory)
-            print("-----------------////=/////------------------")
