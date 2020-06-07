@@ -72,11 +72,13 @@ def main(check_point_directory='./check_point/'):
             hello_str = "Hello!"
             conn.send(hello_str.encode())
             f = open('./server_audio/data.wav', 'wb')
-            data = conn.recv(4096)
+            data = conn.recv(1024)
+
             while (data):
+                print("data reciving")
                 f.write(data)
-                data = conn.recv(4096)
-            print("reveived")
+                data = conn.recv(1024)
+            print("received")
             f.close()
 
             audio_input = [featurize('./server_audio/data.wav')]
