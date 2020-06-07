@@ -67,13 +67,13 @@ def main(check_point_directory='./check_point/'):
 
         # create a audio for inference
         while True:
-            c, addr = serv.accept()     # Establish connection with client.
+            conn, addr = serv.accept()     # Establish connection with client.
             print('Got connection from', addr)
             f = open('./server_audio/data.wav', 'wb')
-            l = c.recv(4096)
-            while (l):
-                f.write(l)
-                l = c.recv(4096)
+            data = conn.recv(4096)
+            while (data):
+                f.write(data)
+                data = conn.recv(4096)
             print("reveived")
             f.close()
 
@@ -87,9 +87,9 @@ def main(check_point_directory='./check_point/'):
             decode = batch_decode(l, s)
             result = list_char_to_string(decode[0])
             print(result)
-            c.send(result.encode())
+            conn.send(result.encode())
             print("close connection from", addr)
-            c.close()                # Close the connection
+            conn.close()                # Close the connection
 
 
 main()
