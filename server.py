@@ -69,7 +69,7 @@ def main(check_point_directory='./check_point/'):
         while True:
             conn, addr = serv.accept()     # Establish connection with client.
             print('Got connection from', addr)
-            hello_str = "Hello" + addr
+            hello_str = "Hello!"
             conn.send(hello_str.encode())
             f = open('./server_audio/data.wav', 'wb')
             data = conn.recv(4096)
