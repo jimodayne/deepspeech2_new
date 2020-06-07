@@ -22,9 +22,9 @@ serv.bind(('0.0.0.0', 8888))
 serv.listen(5)
 
 
-def featurize(audio_clip, step=10, window=20, max_freq=8000, desc_file=None):
+def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
     return spectrogram_from_file(
-        audio_clip, step=step, window=window,
+        audio_clip, mode=ModelMode.TEST, step=step, window=window,
         max_freq=max_freq)
 
 
@@ -45,8 +45,8 @@ def main(check_point_directory='./check_point/'):
     input_lengths = tf.placeholder(tf.int32, shape=(None))
 
     # create an instance of model
-    deep_speech_model = model(
-        inputs, input_lengths, labels, label_lengths, model_config, mode=ModelMode.TEST)
+    deep_speech_model = model(inputs, input_lengths, labels,
+                              label_lengths, model_config, 0.95, mode=ModelMode.TEST)
 
     saver = tf.train.Saver()
     init_op = tf.global_variables_initializer()
