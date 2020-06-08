@@ -18,7 +18,7 @@ serv.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 
 serv.bind(('0.0.0.0', 8888))
 
-# serv.bind(('localhost', 8888))
+
 serv.listen(5)
 
 
@@ -69,9 +69,10 @@ def main(check_point_directory='./check_point/'):
         while True:
             conn, addr = serv.accept()     # Establish connection with client.
             print('Got connection from', addr)
-            hello_str = "Hello!"
-            conn.send(hello_str.encode())
+            conn.send("I am SERVER<br>")
+           
             f = open('./server_audio/data.wav', 'wb')
+            
             data = conn.recv(1024)
 
             while (data):
