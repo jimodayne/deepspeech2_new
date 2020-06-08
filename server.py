@@ -69,10 +69,12 @@ def main(check_point_directory='./check_point/'):
         while True:
             conn, addr = serv.accept()     # Establish connection with client.
             print('Got connection from', addr)
-            conn.send("I am SERVER<br>")
+
+            res_mess = "I am Server"
+            conn.send(res_mess.encode('utf-8'))
            
             f = open('./server_audio/data.wav', 'wb')
-            
+
             data = conn.recv(1024)
 
             while (data):
