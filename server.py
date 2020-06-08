@@ -80,7 +80,7 @@ def main(check_point_directory='./check_point/'):
             while (data):
                 print("data reciving")
                 # f.write(data)
-                # data = conn.recv(1024)
+                data = conn.recv(1024)
             print("received")
             # f.close()
 
