@@ -73,18 +73,18 @@ def main(check_point_directory='./check_point/'):
             res_mess = "I am Server"
             conn.send(res_mess.encode('utf-8'))
            
-            f = open('./server_audio/data.wav', 'wb')
+            # f = open('./server_audio/data.wav', 'wb')
 
             data = conn.recv(1024)
 
             while (data):
                 print("data reciving")
-                f.write(data)
-                data = conn.recv(1024)
+                # f.write(data)
+                # data = conn.recv(1024)
             print("received")
-            f.close()
+            # f.close()
 
-            audio_input = [featurize('./server_audio/data.wav')]
+            audio_input = [featurize('./server_audio/data.mp3')]
             audio_input_length = [np.shape(audio_input)[1]]
             # print("audio length", np.shape(audio_input_length))
             l, s = sess.run(deep_speech_model, feed_dict={inputs: audio_input,
