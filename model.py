@@ -181,7 +181,7 @@ def model(inputs, input_lengths, labels, label_lengths, config, cnn_keep_prop, m
 
     rnn_outputs = rnn_layer(rnn_outputs ,config, 2, hidden_layer_size=600, keep_prob=cnn_keep_prop, mode="LSTM", rnn_type="BI_DIR")
 
-    rnn_outputs = rnn_layer(rnn_outputs ,config, 3, hidden_layer_size=600, keep_prob=cnn_keep_prop, mode="LSTM", rnn_type="BI_DIR")
+    # rnn_outputs = rnn_layer(rnn_outputs ,config, 3, hidden_layer_size=600, keep_prob=cnn_keep_prop, mode="LSTM", rnn_type="BI_DIR")
 
     # rnn_outputs = rnn_layer(rnn_outputs ,config, 4, hidden_layer_size=10, mode="LSTM", rnn_type="BI_DIR")
 
