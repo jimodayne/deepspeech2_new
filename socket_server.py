@@ -48,7 +48,7 @@ def handle_my_custom_event(json, methods=['GET', 'POST']):
     socketio.emit('my response', json, callback=messageReceived)
 
 
-@app.route('/result')
+@socketio.on('voiceToText')
 def getVoiceToText():
     inputs = tf.placeholder(
         tf.float32,
@@ -80,7 +80,7 @@ def getVoiceToText():
             print("can not find check point at ", check_point_directory)
             print("-----------------////=/////------------------")
 
-        audio_input = [featurize("./server_audio/data.wav")]
+        audio_input = [featurize("./server_audio/data.mp3")]
         audio_input_length = [np.shape(audio_input)[1]]
 
         # print(audio_input_length)
@@ -89,19 +89,14 @@ def getVoiceToText():
 
         decode = batch_decode(l, s)
         result = list_char_to_string(decode[0])
+
+        emit('my response', {'data': result})
         return result
 
 
-@app.route('/uploads/<filename>')
-def uploaded_file(filename):
-    return send_from_directory(app.config['UPLOAD_FOLDER'],
-                               filename)
 
 
 
 if __name__ == '__main__':
     socketio.run(app,host='0.0.0.0', port=8888)
 
-# if __name__ == '__main__':
-#     app.secret_key = 'super secret key'
-#     app.run(host='0.0.0.0', port=8000)

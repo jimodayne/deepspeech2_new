@@ -58,48 +58,49 @@ def upload_file():
     '''
 
 
-@app.route('/result')
-def getVoiceToText():
-    inputs = tf.placeholder(
-        tf.float32,
-        shape=(None, None, model_config["n_input_fetures"]),
-        name="inputs")
 
-    labels = tf.placeholder(
-        tf.int32,
-        shape=(None, None),
-        name='labels')
 
-    label_lengths = tf.placeholder(tf.int32, shape=(None))
-    input_lengths = tf.placeholder(tf.int32, shape=(None))
-    deep_speech_model = model(inputs, input_lengths, labels,
-                              label_lengths, model_config, 0.95, mode=ModelMode.TEST)
-    saver = tf.train.Saver()
+# def getVoiceToText():
+#     inputs = tf.placeholder(
+#         tf.float32,
+#         shape=(None, None, model_config["n_input_fetures"]),
+#         name="inputs")
 
-    init_op = tf.global_variables_initializer()
-    with tf.Session() as sess:
-        sess.run(init_op)
-        try:
-            saver.restore(sess, tf.train.latest_checkpoint(
-                check_point_directory))
-            print(" ")
-            print("restore check point success")
-            print("-----------------/////////------------------")
-        except:
-            print(" ")
-            print("can not find check point at ", check_point_directory)
-            print("-----------------////=/////------------------")
+#     labels = tf.placeholder(
+#         tf.int32,
+#         shape=(None, None),
+#         name='labels')
 
-        audio_input = [featurize("./server_audio/data.wav")]
-        audio_input_length = [np.shape(audio_input)[1]]
+#     label_lengths = tf.placeholder(tf.int32, shape=(None))
+#     input_lengths = tf.placeholder(tf.int32, shape=(None))
+#     deep_speech_model = model(inputs, input_lengths, labels,
+#                               label_lengths, model_config, 0.95, mode=ModelMode.TEST)
+#     saver = tf.train.Saver()
 
-        # print(audio_input_length)
-        l, s = sess.run(deep_speech_model, feed_dict={
-            inputs: audio_input, input_lengths: audio_input_length})
+#     init_op = tf.global_variables_initializer()
+#     with tf.Session() as sess:
+#         sess.run(init_op)
+#         try:
+#             saver.restore(sess, tf.train.latest_checkpoint(
+#                 check_point_directory))
+#             print(" ")
+#             print("restore check point success")
+#             print("-----------------/////////------------------")
+#         except:
+#             print(" ")
+#             print("can not find check point at ", check_point_directory)
+#             print("-----------------////=/////------------------")
 
-        decode = batch_decode(l, s)
-        result = list_char_to_string(decode[0])
-        return result
+#         audio_input = [featurize("./server_audio/data.wav")]
+#         audio_input_length = [np.shape(audio_input)[1]]
+
+#         # print(audio_input_length)
+#         l, s = sess.run(deep_speech_model, feed_dict={
+#             inputs: audio_input, input_lengths: audio_input_length})
+
+#         decode = batch_decode(l, s)
+#         result = list_char_to_string(decode[0])
+#         return result
 
 
 @app.route('/uploads/<filename>')
