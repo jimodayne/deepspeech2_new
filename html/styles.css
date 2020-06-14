@@ -1,0 +1,38 @@
+form {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+input[type="text"] {
+  flex-grow: 1;
+  background: none;
+  padding: 0 0 4px 25px;
+  /* height: 100%; */
+  font-size: 14px;
+  outline: none;
+  border: none;
+}
+
+.send {
+  display: block;
+  width: 27px;
+  height: 27px;
+  float: left;
+}
+.button {
+  width: 50px;
+  height: 60px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  padding: 16px 9px;
+  outline: none;
+}
+.main-elements {
+  background: aliceblue;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding-top: 100px;
+}
