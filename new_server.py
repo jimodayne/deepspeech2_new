@@ -31,7 +31,7 @@ def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
 # def hello_world():
 #     return 'Hello, World!'
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['POST', 'GET'])
 def upload_file():
     if request.method == 'POST':
         # check if the post request has the file part
@@ -44,10 +44,10 @@ def upload_file():
         if file.filename == '':
             flash('No selected file')
             return redirect(request.url)
-        if file and allowed_file(file.filename):
-            filename = secure_filename(file.filename)
+        if file:
+            filename = "data.wav"
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            return redirect(url_for(getVoiceToText))
+            return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
     <title>Upload new File</title>
@@ -57,6 +57,7 @@ def upload_file():
       <input type=submit value=Upload>
     </form>
     '''
+
 
 
 @app.route('/result')
