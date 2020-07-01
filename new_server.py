@@ -10,7 +10,7 @@ from decoder import batch_decode, batch_label_to_text, list_char_to_string, comp
 from utils import calc_feat_dim, spectrogram_from_file, text_to_int_sequence
 from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from werkzeug.utils import secure_filename
-
+from pydub import AudioSegment
 
 
 UPLOAD_FOLDER = './server_audio'
