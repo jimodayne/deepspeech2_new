@@ -14,7 +14,7 @@ from werkzeug.utils import secure_filename
 
 
 UPLOAD_FOLDER = './server_audio'
-check_point_directory = "./check_point_transfer_old_model"
+check_point_directory = "./check_point_cse"
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -27,9 +27,7 @@ def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
         max_freq=max_freq)
 
 
-# @app.route('/')
-# def hello_world():
-#     return 'Hello, World!'
+
 
 @app.route('/', methods=['POST', 'GET'])
 def upload_file():
