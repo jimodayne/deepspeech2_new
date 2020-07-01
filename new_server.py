@@ -14,7 +14,7 @@ from werkzeug.utils import secure_filename
 
 
 UPLOAD_FOLDER = './server_audio'
-check_point_directory = "./check_point_cse"
+check_point_directory = "./check_point_transfer_old_model"
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
