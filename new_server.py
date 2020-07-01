@@ -27,19 +27,11 @@ def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
         max_freq=max_freq)
 
 def detect_leading_silence(sound, silence_threshold=-5.0, chunk_size=10):
-    '''
-    sound is a pydub.AudioSegment
-    silence_threshold in dB
-    chunk_size in ms
-
-    iterate over chunks until you find the first one with sound
-    '''
     trim_ms = 0 # ms
 
     assert chunk_size > 0 # to avoid infinite loop
     while sound[trim_ms:trim_ms+chunk_size].dBFS < silence_threshold and trim_ms < len(sound):
         trim_ms += chunk_size
-
 
     return trim_ms
 
