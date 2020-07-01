@@ -26,7 +26,43 @@ def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
         audio_clip, mode=ModelMode.TEST, step=step, window=window,
         max_freq=max_freq)
 
+def detect_leading_silence(sound, silence_threshold=-5.0, chunk_size=10):
+    '''
+    sound is a pydub.AudioSegment
+    silence_threshold in dB
+    chunk_size in ms
 
+    iterate over chunks until you find the first one with sound
+    '''
+    trim_ms = 0 # ms
+
+    assert chunk_size > 0 # to avoid infinite loop
+    while sound[trim_ms:trim_ms+chunk_size].dBFS < silence_threshold and trim_ms < len(sound):
+        trim_ms += chunk_size
+
+
+    return trim_ms
+
+def trim_silence_add_pass(path, exportPath):
+    sound = AudioSegment.from_file(path, format="wav")
+    silence_threshold = sound.dBFS - 10
+
+    duration = len(sound)    
+
+    start_trim = detect_leading_silence(sound,silence_threshold) 
+    end_trim = detect_leading_silence(sound.reverse(),silence_threshold)
+
+    if (start_trim > 100):
+        start_trim = start_trim - 50
+    if (duration - end_trim > 200):
+        end_trim = end_trim - 50
+    else:
+        end_trim = 0
+
+    trimmed_sound = sound[start_trim:duration-end_trim]
+    trimmed_sound = trimmed_sound.low_pass_filter(2000)
+
+    trimmed_sound.export(exportPath,format = "wav")  
 
 
 @app.route('/', methods=['POST', 'GET'])
@@ -90,7 +126,9 @@ def getVoiceToText():
             print("can not find check point at ", check_point_directory)
             print("-----------------////=/////------------------")
 
-        audio_input = [featurize("./server_audio/data.wav")]
+        trim_silence_add_pass("./server_audio/data.wav","./server_audio/data_edit.wav")
+
+        audio_input = [featurize("./server_audio/data_edit.wav")]
         audio_input_length = [np.shape(audio_input)[1]]
 
         # print(audio_input_length)
