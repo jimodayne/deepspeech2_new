@@ -17,6 +17,7 @@ UPLOAD_FOLDER = './server_audio'
 check_point_directory = "./check_point_cse"
 
 app = Flask(__name__)
+CORS(app)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
