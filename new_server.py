@@ -8,11 +8,11 @@ from data_generator import DataGenerator
 from model import model, ModelMode, model_config
 from decoder import batch_decode, batch_label_to_text, list_char_to_string, compute_cer, compute_wer
 from utils import calc_feat_dim, spectrogram_from_file, text_to_int_sequence
-from flask import Flask, flash, request, redirect, url_for, send_from_directory,jsonify
+from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 from pydub import AudioSegment
 from flask_cors import CORS, cross_origin
-
+import json
 
 UPLOAD_FOLDER = './server_audio'
 check_point_directory = "./check_point_cse"
@@ -77,8 +77,8 @@ def upload_file():
             filename = "data.wav"
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             text = getVoiceToText()
-            text = text.decode(encoding='UTF-8')
-            return jsonify(data = text)
+           
+            return  json.dump({"data": text})
             # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
