@@ -77,7 +77,7 @@ def upload_file():
             filename = "data.wav"
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             text = getVoiceToText()
-            return jsonify(data = text.encode("utf8"))
+            return jsonify(data = text)
             # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
@@ -133,7 +133,7 @@ def getVoiceToText():
 
         decode = batch_decode(l, s)
         result = list_char_to_string(decode[0])
-        return result
+        return result.encode("utf8")
 
 
 if __name__ == "__main__":
