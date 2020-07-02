@@ -11,13 +11,14 @@ from utils import calc_feat_dim, spectrogram_from_file, text_to_int_sequence
 from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 from pydub import AudioSegment
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 
 UPLOAD_FOLDER = './server_audio'
 check_point_directory = "./check_point_cse"
 
 app = Flask(__name__)
 CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
@@ -57,7 +58,7 @@ def trim_silence_add_pass(path, exportPath):
 
     trimmed_sound.export(exportPath,format = "wav")  
 
-
+@cross_origin()
 @app.route('/', methods=['POST', 'GET'])
 def upload_file():
     if request.method == 'POST':
