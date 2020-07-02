@@ -76,9 +76,9 @@ def upload_file():
         if file:
             filename = "data.wav"
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+
             text = getVoiceToText()
-           
-            return  json.dump({"data": text})
+            return  json.dumps(text, ensure_ascii=False)
             # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
