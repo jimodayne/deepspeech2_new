@@ -8,10 +8,11 @@ from data_generator import DataGenerator
 from model import model, ModelMode, model_config
 from decoder import batch_decode, batch_label_to_text, list_char_to_string, compute_cer, compute_wer
 from utils import calc_feat_dim, spectrogram_from_file, text_to_int_sequence
-from flask import Flask, flash, request, redirect, url_for, send_from_directory
+from flask import Flask, flash, request, redirect, url_for, send_from_directory,jsonify
 from werkzeug.utils import secure_filename
 from pydub import AudioSegment
 from flask_cors import CORS, cross_origin
+
 
 UPLOAD_FOLDER = './server_audio'
 check_point_directory = "./check_point_cse"
@@ -75,7 +76,9 @@ def upload_file():
         if file:
             filename = "data.wav"
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            return redirect(url_for("getVoiceToText"))
+            text = getVoiceToText()
+            return jsonify(data = text)
+            # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
     <title>Upload new File</title>
@@ -87,8 +90,7 @@ def upload_file():
     '''
 
 
-@cross_origin()
-@app.route('/result')
+
 def getVoiceToText():
     inputs = tf.placeholder(
         tf.float32,
