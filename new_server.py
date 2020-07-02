@@ -87,7 +87,7 @@ def upload_file():
     '''
 
 
-
+@cross_origin()
 @app.route('/result')
 def getVoiceToText():
     inputs = tf.placeholder(
