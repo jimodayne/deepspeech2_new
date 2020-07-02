@@ -133,7 +133,7 @@ def getVoiceToText():
 
         decode = batch_decode(l, s)
         result = list_char_to_string(decode[0])
-        return result.encode("utf8")
+        return result
 
 
 if __name__ == "__main__":
