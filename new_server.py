@@ -11,12 +11,15 @@ from utils import calc_feat_dim, spectrogram_from_file, text_to_int_sequence
 from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 from pydub import AudioSegment
-
+from flask_cors import CORS, cross_origin
+import json
 
 UPLOAD_FOLDER = './server_audio'
 check_point_directory = "./check_point_cse"
 
 app = Flask(__name__)
+CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
@@ -56,7 +59,7 @@ def trim_silence_add_pass(path, exportPath):
 
     trimmed_sound.export(exportPath,format = "wav")  
 
-
+@cross_origin()
 @app.route('/', methods=['POST', 'GET'])
 def upload_file():
     if request.method == 'POST':
@@ -73,7 +76,10 @@ def upload_file():
         if file:
             filename = "data.wav"
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            return redirect(url_for("getVoiceToText"))
+
+            text = getVoiceToText()
+            return  json.dumps(text, ensure_ascii=False)
+            # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
     <title>Upload new File</title>
@@ -86,7 +92,6 @@ def upload_file():
 
 
 
-@app.route('/result')
 def getVoiceToText():
     inputs = tf.placeholder(
         tf.float32,
@@ -129,8 +134,10 @@ def getVoiceToText():
 
         decode = batch_decode(l, s)
         result = list_char_to_string(decode[0])
+
         return result
 
 
 if __name__ == "__main__":
+    app.secret_key = 'super secret key'
     app.run(host='0.0.0.0',debug=True, port=8000)
