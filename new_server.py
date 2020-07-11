@@ -123,9 +123,9 @@ def getVoiceToText():
             print("can not find check point at ", check_point_directory)
             print("-----------------////=/////------------------")
 
-        trim_silence_add_pass("./server_audio/data.wav","./server_audio/data_edit.wav")
+        # trim_silence_add_pass("./server_audio/data.wav","./server_audio/data_edit.wav")
 
-        audio_input = [featurize("./server_audio/data_edit.wav")]
+        audio_input = [featurize("./server_audio/data.wav")]
         audio_input_length = [np.shape(audio_input)[1]]
 
         # print(audio_input_length)
