@@ -52,7 +52,7 @@ def trim_silence_add_pass(path, exportPath):
         end_trim = 0
 
     trimmed_sound = sound[start_trim:duration-end_trim]
-    trimmed_sound = trimmed_sound.low_pass_filter(2000)
+    # trimmed_sound = trimmed_sound.low_pass_filter(2000)
 
     trimmed_sound.export(exportPath,format = "wav")  
 
