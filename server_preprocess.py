@@ -55,9 +55,12 @@ def trim_silence_add_pass(path, exportPath):
     end_trim = detect_leading_silence(sound.reverse(),silence_threshold)
 
     if (start_trim > 100):
-        start_trim = start_trim - 50
+        start_trim = start_trim - 100
+    else
+        start_trim = 0
+    
     if (duration - end_trim > 200):
-        end_trim = end_trim - 50
+        end_trim = end_trim - 100
     else:
         end_trim = 0
 

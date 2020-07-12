@@ -1,1 +1,51 @@
-{"duration": 4.535, "text": "ĐƠN VỊ TỔ CHỨC ẤM LÒNG ĐÊM NOEL LÀ KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH ĐÚNG KHÔNG", "key": "/content/drive/My Drive/deepspeech2_new/data/ThuVoices/700/chunk649.wav"}
+[
+  {
+    "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
+    "predict": "CHO MÌNH HỎI CHÚT VỀ TẾP SỨC TÙA THIN VỚI"
+  },
+  {
+    "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
+    "predict": "CHOÌNH HỎI THÚ TỀ IẾP SỨC TMA THIN VỚI"
+  },
+  {
+    "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
+    "predict": "CHO MÌNH HỎI CHÚT VỀ TẾP SỨC TÙA THIN VỚI"
+  },
+  {
+    "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
+    "predict": "CHO MÌNH HỎI CHÚT VỀ KIẾ SỨC MÙA THIN VỚI"
+  },
+  {
+    "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
+    "predict": "CHO MÌNH HỎI CHÚ VỀ TIẾP SỨC TÙA THIÌN VỚI"
+  },
+
+  {
+    "truth": "CHỈ ÌNH MCÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI I",
+    "predict": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
+  },
+  {
+    "truth": "MÌN MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚII",
+    "predict": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
+  },
+  {
+    "truth": "CHỈ ÌNH MCÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚII",
+    "predict": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
+  },
+  {
+    "truth": "VẬỆN MÌNH CẦN MỘT SỐ THÔNG TIN VỀ ĐÊM HỘI TRĂNG ĐẰM CHN GỆ HẠN",
+    "predict": "mình cần một số thông tin về đêm hội trăng rằm"
+  },
+  {
+    "truth": "MÌHCN MẦN MỘT SỐ THÔNG TIN VỀ ĐÊM HỘI TRĂNG ĐẰM",
+    "predict": "mình cần một số thông tin về đêm hội trăng rằm"
+  },
+  {
+    "truth": "BHNCHO MÌNH XIN CÁCH ĐĂNG KÝ MHỘI HÈ TÌNH NGUYN ỆN",
+    "predict": "bạn cho mình xin cách đăng ký mùa hè tình nguyện"
+  },
+  {
+    "truth": "BHNHO MÌNH XIN CÁCH ĐĂNG KÝ HỘI HÈ TÌNH NGUY ỆN",
+    "predict": "bạn cho mình xin cách đăng ký mùa hè tình nguyện"
+  }
+]
