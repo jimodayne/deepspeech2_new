@@ -1,21 +1,24 @@
 # deepspeech2_new
 
 ## How to Run
+
 1. Create a VM instance (on Google Cloud Platform)
 2. Clone the project
 3. Download the data
 4. Setup the enviroment (tensorflow v1.15)
-5. Train the model
+5. Train the model / Run the server
 
 ### Some basic commands are:
 
 1. Connect to VM instance
+
 ```
 gcloud compute instances start instance-name
 gcloud compute ssh instance-name
 ```
 
-2. Setup the virtual environment 
+2. Setup the virtual environment
+
 ```
 sudo apt update
 sudo apt install python3-dev python3-pip
@@ -30,13 +33,22 @@ pip install -r requirements.txt
 ```
 
 3. Train the model
+
 ```
 python3 -W ignore ./train.py ./check_point/ ./json/for_newEngine/train_json.json ./json/for_newEngine/test_json.json ./log.csv
 ```
 
-4. Using screen for non-stop training
+4. Run the server
+
 ```
-Create: screen 
+python3 new_server.py
+python3 server_preprocess.py
+```
+
+4. Using screen for non-stop training & server
+
+```
+Create: screen
 Enter: screen -r
 Exit: Ctrl + A D
 ```
