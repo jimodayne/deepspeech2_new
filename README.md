@@ -2,11 +2,15 @@
 
 ## How to Run
 
+#### First way:
+
 1. Create a VM instance (on Google Cloud Platform)
 2. Clone the project
 3. Download the data
 4. Setup the enviroment (tensorflow v1.15)
 5. Train the model / Run the server
+
+#### Second way: upload this project to Google Drive and run the RUN_CSE with Google Colab
 
 ### Some basic commands are:
 
