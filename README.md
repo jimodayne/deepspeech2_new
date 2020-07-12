@@ -49,7 +49,7 @@ python3 new_server.py
 python3 server_preprocess.py
 ```
 
-4. Using screen for non-stop training & server
+5. Using screen for non-stop training & server
 
 ```
 Create: screen
