@@ -1,7 +1,11 @@
-[
+(arr = [
   {
     "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
     "predict": "CHO MÌNH HỎI CHÚT VỀ TẾP SỨC TÙA THIN VỚI"
+  },
+  {
+    "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
+    "predict": "MHOÌNH MINH HỘI CHÚCT VỀ TIẾP SỨC MÙA THI VỚI"
   },
   {
     "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
@@ -19,33 +23,52 @@
     "truth": "CHO MÌNH HỎI CHÚT VỀ TIẾP SỨC MÙA THI VỚI",
     "predict": "CHO MÌNH HỎI CHÚ VỀ TIẾP SỨC TÙA THIÌN VỚI"
   },
-
   {
-    "truth": "CHỈ ÌNH MCÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI I",
-    "predict": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
+    "predict": "CHỈ ÌNH MCÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI I",
+    "truth": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
   },
   {
-    "truth": "MÌN MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚII",
-    "predict": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
+    "predict": "MÌN MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚII",
+    "truth": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
   },
   {
-    "truth": "CHỈ ÌNH MCÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚII",
-    "predict": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
+    "predict": "CHỈ ÌNH MCÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚII",
+    "truth": "CHỈ MÌNH CÁCH ĐĂNG KÍ TẬP HUẤN KỸ NĂNG VỚI"
   },
   {
-    "truth": "VẬỆN MÌNH CẦN MỘT SỐ THÔNG TIN VỀ ĐÊM HỘI TRĂNG ĐẰM CHN GỆ HẠN",
-    "predict": "mình cần một số thông tin về đêm hội trăng rằm"
+    "predict": "MÌHCN MẦN MỘT SỐ THÔNG TIN VỀ ĐÊM HỘI TRĂNG ĐẰM",
+    "truth": "mình cần một số thông tin về đêm hội trăng rằm"
   },
   {
-    "truth": "MÌHCN MẦN MỘT SỐ THÔNG TIN VỀ ĐÊM HỘI TRĂNG ĐẰM",
-    "predict": "mình cần một số thông tin về đêm hội trăng rằm"
+    "predict": "MÌHCN MẦN MỘT SỐ THÔNG TIN VỀ ĐÊM HỘI TRĂNG ĐẰM",
+    "truth": "MÌNH CN MẦN MỘT SỐ THÔNG TIN VỀ ĐÊM HỘI TRĂNG KM"
   },
   {
-    "truth": "BHNCHO MÌNH XIN CÁCH ĐĂNG KÝ MHỘI HÈ TÌNH NGUYN ỆN",
-    "predict": "bạn cho mình xin cách đăng ký mùa hè tình nguyện"
+    "predict": "BHNCHO MÌNH XIN CÁCH ĐĂNG KÝ MHỘI HÈ TÌNH NGUYN ỆN",
+    "truth": "bạn cho mình xin cách đăng ký mùa hè tình nguyện"
   },
   {
-    "truth": "BHNHO MÌNH XIN CÁCH ĐĂNG KÝ HỘI HÈ TÌNH NGUY ỆN",
-    "predict": "bạn cho mình xin cách đăng ký mùa hè tình nguyện"
+    "predict": "BHNHO MÌNH XIN CÁCH ĐĂNG KÝ HỘI HÈ TÌNH NGUY ỆN",
+    "truth": "bạn cho mình xin cách đăng ký mùa hè tình nguyện"
+  },
+  {
+    "predict": "MHỘSC CON LÊN HỆ AI ĐỂ HỎI VỀ ÁI ẤM MHÙA ĐÔNG H LN",
+    "truth": "cần liên hệ ai để hỏi về áo ấm mùa đông"
+  },
+  {
+    "predict": "MÌNSẮC CON LÊN HỆ AI ĐỂ HỎI VỀ ÁI ẤM MÙA ĐÔNG HLN",
+    "truth": "cần liên hệ ai để hỏi về áo ấm mùa đông"
+  },
+  {
+    "truth": "CHÀO BẠN MÌNH MUỐN HỎI VỀ XUÂN TÌNH NGUYỆN SẮP TỚI Á",
+    "predict": "CHÀO BẠN MÌNH MUỐN HỎI VỀ XUÂN TÌNH NGUYỆN SẮP TỚI Á"
+  },
+  {
+    "predict": "C LIÊN HỆ AI ĐỂ HỎI VỀ ÁI ẤM MHÙA ĐÔNG",
+    "truth": "cần liên hệ ai để hỏi về áo ấm mùa đông"
+  },
+  {
+    "predict": "CH LIÊN HỆ AI ĐỂ HỎI VỀ ÁI ẤM MÙA ĐÔNG",
+    "truth": "cần liên hệ ai để hỏi về áo ấm mùa đông"
   }
-]
+])
