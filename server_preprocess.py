@@ -38,7 +38,14 @@ def detect_leading_silence(sound, silence_threshold=-5.0, chunk_size=10):
 
     return trim_ms
 
+def match_target_amplitude(path, exportPath, target_dBFS):
+    sound = AudioSegment.from_file(path, format="wav")
+   
+    processed_sound.export(exportPath,format = "wav")  
+
+
 def trim_silence_add_pass(path, exportPath):
+    target_dBFS = -20
     sound = AudioSegment.from_file(path, format="wav")
     silence_threshold = sound.dBFS - 10
 
@@ -48,16 +55,20 @@ def trim_silence_add_pass(path, exportPath):
     end_trim = detect_leading_silence(sound.reverse(),silence_threshold)
 
     if (start_trim > 100):
-        start_trim = start_trim - 50
-    if (duration - end_trim > 200):
-        end_trim = end_trim - 50
+        start_trim = start_trim - 75
+    if (duration - end_trim > 175):
+        end_trim = end_trim - 75
     else:
         end_trim = 0
 
     trimmed_sound = sound[start_trim:duration-end_trim]
+
+    
+    change_in_dBFS = target_dBFS - trimmed_sound.dBFS
+    processed_sound = trimmed_sound.apply_gain(change_in_dBFS)
     # trimmed_sound = trimmed_sound.low_pass_filter(2000)
 
-    trimmed_sound.export(exportPath,format = "wav")  
+    processed_sound.export(exportPath,format = "wav")  
 
 @cross_origin()
 @app.route('/', methods=['POST', 'GET'])
