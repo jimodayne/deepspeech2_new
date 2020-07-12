@@ -47,7 +47,7 @@ def match_target_amplitude(path, exportPath, target_dBFS):
 def trim_silence_add_pass(path, exportPath):
     target_dBFS = -20
     sound = AudioSegment.from_file(path, format="wav")
-    silence_threshold = sound.dBFS - 10
+    silence_threshold = -30
 
     duration = len(sound)    
 
