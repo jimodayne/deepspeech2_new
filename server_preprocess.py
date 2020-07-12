@@ -56,7 +56,7 @@ def trim_silence_add_pass(path, exportPath):
 
     if (start_trim > 100):
         start_trim = start_trim - 100
-    else
+    else:
         start_trim = 0
     
     if (duration - end_trim > 200):
