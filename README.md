@@ -1,4 +1,4 @@
-# deepspeech2_new
+# VNese ASR for Extracurricular Activities
 
 ## How to Run
 
