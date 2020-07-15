@@ -154,4 +154,4 @@ def getVoiceToText():
 
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
-    app.run(host='0.0.0.0',debug=True, port=8001)
+    app.run(host='0.0.0.0',debug=True, port=8001,ssl_context='adhoc')
