@@ -112,7 +112,7 @@ def initialize_model():
 
 @app.before_request
 def get_model():
-    if 'model' not in g:
+    if g.model is None:
         g.model = initialize_model()
 
     return g.model
@@ -120,9 +120,6 @@ def get_model():
 
 
 def getVoiceToText():
-    # if g.model is None:
-    #     return redirect(url_for("index"))
-
 
     inputs = tf.placeholder(tf.float32,shape=(None, None, model_config["n_input_fetures"]),name="inputs")
     labels = tf.placeholder(tf.int32,shape=(None, None),name='labels')
@@ -138,7 +135,7 @@ def getVoiceToText():
     audio_input = [featurize("./server_audio/data.wav")]
     audio_input_length = [np.shape(audio_input)[1]]
 
-    sess = g.model
+    sess = get_model()
     # print(audio_input_length)
     l, s = sess.run(deep_speech_model, feed_dict={
         inputs: audio_input, input_lengths: audio_input_length})
@@ -154,4 +151,4 @@ if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
 
-    sess = get_model()
+   
