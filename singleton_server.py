@@ -23,7 +23,6 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
-count = 0
 
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
@@ -111,21 +110,20 @@ def initialize_model():
     
     return sess
 
+@app.before_request
 def get_model():
-    global count
-    print("count = ", count)
-    
     if 'model' not in g:
         g.model = initialize_model()
-        count = count + 1
 
     return g.model
 
 
 
-sess = get_model()
-
 def getVoiceToText():
+    # if g.model is None:
+    #     return redirect(url_for("index"))
+
+
     inputs = tf.placeholder(tf.float32,shape=(None, None, model_config["n_input_fetures"]),name="inputs")
     labels = tf.placeholder(tf.int32,shape=(None, None),name='labels')
     
@@ -140,6 +138,7 @@ def getVoiceToText():
     audio_input = [featurize("./server_audio/data.wav")]
     audio_input_length = [np.shape(audio_input)[1]]
 
+    sess = g.model
     # print(audio_input_length)
     l, s = sess.run(deep_speech_model, feed_dict={
         inputs: audio_input, input_lengths: audio_input_length})
@@ -154,3 +153,5 @@ def getVoiceToText():
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
+
+    sess = get_model()
