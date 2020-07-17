@@ -24,7 +24,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
 count = 0
-sess = get_model()
+
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
     return spectrogram_from_file(
@@ -91,17 +91,7 @@ def upload_file():
       <input type=submit value=Upload>
     </form>
     '''
-
-def get_model():
-    global count
-    print("count = ", count)
     
-    if 'model' not in g:
-        g.model = initialize_model()
-        count = count + 1
-
-    return g.model
-
 def initialize_model():
     saver = tf.train.Saver()
     init_op = tf.global_variables_initializer()
@@ -121,6 +111,19 @@ def initialize_model():
     
     return sess
 
+def get_model():
+    global count
+    print("count = ", count)
+    
+    if 'model' not in g:
+        g.model = initialize_model()
+        count = count + 1
+
+    return g.model
+
+
+
+sess = get_model()
 
 def getVoiceToText():
     inputs = tf.placeholder(tf.float32,shape=(None, None, model_config["n_input_fetures"]),name="inputs")
