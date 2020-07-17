@@ -97,16 +97,16 @@ def initialize_model():
 
     sess = tf.Session()
     sess.run(init_op)
-    try:
-        saver.restore(sess, tf.train.latest_checkpoint(
-            check_point_directory))
-        print(" ")
-        print("restore check point success")
-        print("-----------------/////////------------------")
-    except:
-        print(" ")
-        print("can not find check point at ", check_point_directory)
-        print("-----------------////=/////------------------")
+  
+    saver.restore(sess, tf.train.latest_checkpoint(
+        check_point_directory))
+    print(" ")
+    print("restore check point success")
+    print("-----------------/////////------------------")
+    # except:
+    #     print(" ")
+    #     print("can not find check point at ", check_point_directory)
+    #     print("-----------------////=/////------------------")
     
     return sess
 
