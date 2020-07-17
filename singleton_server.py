@@ -14,14 +14,6 @@ from pydub import AudioSegment
 from flask_cors import CORS, cross_origin
 import json
 
-UPLOAD_FOLDER = './server_audio'
-check_point_directory = "./check_point_cse"
-
-app = Flask(__name__)
-CORS(app)
-app.config['CORS_HEADERS'] = 'Content-Type'
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
 
 
@@ -97,22 +89,24 @@ def initialize_model():
 
     sess = tf.Session()
     sess.run(init_op)
-  
-    saver.restore(sess, tf.train.latest_checkpoint(
-        check_point_directory))
-    print(" ")
-    print("restore check point success")
-    print("-----------------/////////------------------")
-    # except:
-    #     print(" ")
-    #     print("can not find check point at ", check_point_directory)
-    #     print("-----------------////=/////------------------")
+    try:
+        saver.restore(sess, tf.train.latest_checkpoint(
+            check_point_directory))
+        print(" ")
+        print("restore check point success")
+        print("-----------------/////////------------------")
+    except:
+        print(" ")
+        print("can not find check point at ", check_point_directory)
+        print("-----------------////=/////------------------")
     
     return sess
 
-@app.before_request
-def before_request():
-    g.model = initialize_model()
+def get_db():
+    if 'model' not in g:
+        g.model = initialize_model()
+
+    return g.model
 
 
 def getVoiceToText():
@@ -143,8 +137,31 @@ def getVoiceToText():
 
 
 
+
+   
+UPLOAD_FOLDER = './server_audio'
+check_point_directory = "./check_point_cse"
+
+class AppContext(object):
+    _app = None
+
+    def __init__(self):
+        # raise Error('call instance()')
+
+    @classmethod
+    def app(cls):
+        if cls._app is None:
+            cls._app = Flask(__name__)
+            # more init opration here
+        return cls._app
+
+app = AppContext.app() # can be called as many times as you want
+CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
+
+
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
-
-   
