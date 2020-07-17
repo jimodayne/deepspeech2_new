@@ -91,18 +91,6 @@ def upload_file():
     </form>
     '''
     
-
-
-
-with app.app_context():
-    load_sess = get_model()
-
-def get_model():
-    if 'model' not in g:
-        g.model = initialize_model()
-    
-    return g.model
-
 def initialize_model():
     saver = tf.train.Saver()
     init_op = tf.global_variables_initializer()
@@ -121,6 +109,19 @@ def initialize_model():
         print("-----------------////=/////------------------")
     
     return sess
+
+
+def get_model():
+    if 'model' not in g:
+        g.model = initialize_model()
+    
+    return g.model
+
+with app.app_context():
+    load_sess = get_model()
+
+
+
 
 
 
