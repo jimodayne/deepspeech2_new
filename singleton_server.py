@@ -23,7 +23,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
-global count = 0
+count = 0
 
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
@@ -93,6 +93,7 @@ def upload_file():
     '''
 
 def get_model():
+    global count
     print("count = ", count)
     
     if 'model' not in g:
