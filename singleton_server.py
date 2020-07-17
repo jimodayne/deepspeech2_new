@@ -23,9 +23,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
-inputs = tf.placeholder(tf.float32,shape=(None, None, model_config["n_input_fetures"]),name="inputs")
 
-labels = tf.placeholder(tf.int32,shape=(None, None),name='labels')
 
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
@@ -121,6 +119,9 @@ def initialize_model():
 
 
 def getVoiceToText():
+    inputs = tf.placeholder(tf.float32,shape=(None, None, model_config["n_input_fetures"]),name="inputs")
+    labels = tf.placeholder(tf.int32,shape=(None, None),name='labels')
+    
     label_lengths = tf.placeholder(tf.int32, shape=(None))
     input_lengths = tf.placeholder(tf.int32, shape=(None))
 
