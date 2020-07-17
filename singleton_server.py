@@ -111,12 +111,8 @@ def initialize_model():
     return sess
 
 @app.before_request
-def get_model():
-    if g.model is None:
-        g.model = initialize_model()
-
-    return g.model
-
+def before_request():
+    g.model = initialize_model()
 
 
 def getVoiceToText():
@@ -135,7 +131,7 @@ def getVoiceToText():
     audio_input = [featurize("./server_audio/data.wav")]
     audio_input_length = [np.shape(audio_input)[1]]
 
-    sess = get_model()
+    sess =  g.model
     # print(audio_input_length)
     l, s = sess.run(deep_speech_model, feed_dict={
         inputs: audio_input, input_lengths: audio_input_length})
