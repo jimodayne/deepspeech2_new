@@ -91,6 +91,18 @@ def upload_file():
     </form>
     '''
     
+
+
+
+with app.app_context():
+    load_sess = get_model()
+
+def get_model():
+    if 'model' not in g:
+        g.model = initialize_model()
+    
+    return g.model
+
 def initialize_model():
     saver = tf.train.Saver()
     init_op = tf.global_variables_initializer()
@@ -111,15 +123,7 @@ def initialize_model():
     return sess
 
 
-def get_model():
-    if 'model' not in g:
-        g.model = initialize_model()
-    
-    return g.model
 
-
-with app.app_context():
-    sess = get_model()
 
 def getVoiceToText():
 
@@ -139,7 +143,7 @@ def getVoiceToText():
 
     
     # print(audio_input_length)
-    l, s = sess.run(deep_speech_model, feed_dict={
+    l, s = load_sess.run(deep_speech_model, feed_dict={
         inputs: audio_input, input_lengths: audio_input_length})
 
     decode = batch_decode(l, s)
