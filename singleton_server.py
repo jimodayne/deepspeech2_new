@@ -93,9 +93,11 @@ def upload_file():
     '''
 
 def get_model():
-    print("count = ", count++)
+    print("count = ", count)
+    
     if 'model' not in g:
         g.model = initialize_model()
+        count = count + 1
 
     return g.model
 
