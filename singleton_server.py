@@ -95,8 +95,7 @@ def initialize_model():
     saver = tf.train.Saver()
     init_op = tf.global_variables_initializer()
 
-    sess = tf.Session()
-    with sess:
+    with tf.Session() as sess:
         sess.run(init_op)
         try:
             saver.restore(sess, tf.train.latest_checkpoint(
