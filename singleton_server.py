@@ -24,7 +24,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
 count = 0
-
+sess = get_model()
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
     return spectrogram_from_file(
@@ -131,7 +131,7 @@ def getVoiceToText():
 
     deep_speech_model = model(inputs, input_lengths, labels,
                             label_lengths, model_config, 0.95, mode=ModelMode.TEST)
-    sess = get_model()
+    
     # trim_silence_add_pass("./server_audio/data.wav","./server_audio/data_edit.wav")
 
     audio_input = [featurize("./server_audio/data.wav")]
@@ -145,6 +145,7 @@ def getVoiceToText():
     result = list_char_to_string(decode[0])
 
     return result
+
 
 
 if __name__ == "__main__":
