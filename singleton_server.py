@@ -14,6 +14,14 @@ from pydub import AudioSegment
 from flask_cors import CORS, cross_origin
 import json
 
+UPLOAD_FOLDER = './server_audio'
+check_point_directory = "./check_point_cse"
+
+app = Flask(__name__)
+CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
 
 
@@ -102,12 +110,16 @@ def initialize_model():
     
     return sess
 
-def get_db():
+
+def get_model():
     if 'model' not in g:
         g.model = initialize_model()
-
+    
     return g.model
 
+
+with app.app_context():
+    sess = get_model()
 
 def getVoiceToText():
 
@@ -125,7 +137,7 @@ def getVoiceToText():
     audio_input = [featurize("./server_audio/data.wav")]
     audio_input_length = [np.shape(audio_input)[1]]
 
-    sess =  g.model
+    
     # print(audio_input_length)
     l, s = sess.run(deep_speech_model, feed_dict={
         inputs: audio_input, input_lengths: audio_input_length})
@@ -136,32 +148,8 @@ def getVoiceToText():
     return result
 
 
-
-
-   
-UPLOAD_FOLDER = './server_audio'
-check_point_directory = "./check_point_cse"
-
-class AppContext(object):
-    _app = None
-
-    def __init__(self):
-        # raise Error('call instance()')
-
-    @classmethod
-    def app(cls):
-        if cls._app is None:
-            cls._app = Flask(__name__)
-            # more init opration here
-        return cls._app
-
-app = AppContext.app() # can be called as many times as you want
-CORS(app)
-app.config['CORS_HEADERS'] = 'Content-Type'
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
-
-
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
+
+   
