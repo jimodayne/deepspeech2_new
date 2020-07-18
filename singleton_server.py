@@ -116,10 +116,6 @@ def get_model():
         g.model = initialize_model()
     return g.model
 
-with app.app_context():
-    load_sess = get_model()
-
-
 
 def getVoiceToText():
 
@@ -137,6 +133,7 @@ def getVoiceToText():
     audio_input = [featurize("./server_audio/data.wav")]
     audio_input_length = [np.shape(audio_input)[1]]
 
+    load_sess = get_model()
     
     # print(audio_input_length)
     l, s = load_sess.run(deep_speech_model, feed_dict={
