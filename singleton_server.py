@@ -24,6 +24,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
 
+load_sess = None
 
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
     return spectrogram_from_file(
@@ -148,7 +149,8 @@ def getVoiceToText():
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
-
+   
+    global load_sess
     load_sess = get_model()
 
    
