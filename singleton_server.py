@@ -95,34 +95,29 @@ def initialize_model():
     saver = tf.train.Saver()
     init_op = tf.global_variables_initializer()
 
-    with tf.Session() as sess:
-        sess.run(init_op)
-        try:
-            saver.restore(sess, tf.train.latest_checkpoint(
-                check_point_directory))
-            print(" ")
-            print("restore check point success")
-            print("-----------------/////////------------------")
-        except:
-            print(" ")
-            print("can not find check point at ", check_point_directory)
-            print("-----------------////=/////------------------")
+    initial_sess = tf.Session() 
+    initial_sess.run(init_op)
+    try:
+        saver.restore(initial_sess, tf.train.latest_checkpoint(
+            check_point_directory))
+        print(" ")
+        print("restore check point success")
+        print("-----------------/////////------------------")
+    except:
+        print(" ")
+        print("can not find check point at ", check_point_directory)
+        print("-----------------////=/////------------------")
     
-    return sess
+    return initial_sess
 
 
 def get_model():
     if 'model' not in g:
         g.model = initialize_model()
-    
     return g.model
 
 with app.app_context():
     load_sess = get_model()
-
-
-
-
 
 
 
