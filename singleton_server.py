@@ -133,7 +133,7 @@ def getVoiceToText():
     audio_input = [featurize("./server_audio/data.wav")]
     audio_input_length = [np.shape(audio_input)[1]]
 
-    load_sess = get_model()
+ 
     
     # print(audio_input_length)
     l, s = load_sess.run(deep_speech_model, feed_dict={
@@ -148,5 +148,7 @@ def getVoiceToText():
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
+
+    load_sess = get_model()
 
    
