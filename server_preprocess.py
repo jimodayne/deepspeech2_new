@@ -12,9 +12,12 @@ from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 from pydub import AudioSegment
 from flask_cors import CORS, cross_origin
+import editdistance
+from gensim.models import Word2Vec
 import json
 
 UPLOAD_FOLDER = './server_audio'
+LM_DIRECTORY = './check_point_cse/word_model_left.model'
 check_point_directory = "./check_point_cse"
 
 app = Flask(__name__)
@@ -92,7 +95,9 @@ def upload_file():
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
 
             text = getVoiceToText()
-            return  json.dumps(text, ensure_ascii=False)
+            model_w2v = Word2Vec.load(LM_DIRECTORY)
+            correct_lm = correct_by_word(text,model_w2v)
+            return  json.dumps({text,correct_lm}, ensure_ascii=False)
             # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
@@ -104,6 +109,42 @@ def upload_file():
     </form>
     '''
 
+
+
+def correct_by_word(TEXT, model_w2v):
+  text = TEXT.lower()
+  text_list = text.split()
+
+  word_vectors = model_w2v.wv
+  alter_list = list(word_vectors.vocab.keys())
+
+  for i in range(len(text_list)):
+    if text_list[i] not in alter_list:
+      min_distance = 100
+      alter_word = ""
+      check = 0
+      if i > 0 and i < len(text_list) - 1:
+        if text_list[i-1] in alter_list and text_list[i+1] in alter_list:
+          list_candidate_word = word_vectors.most_similar([text_list[i-1], text_list[i+1]], topn=400)
+          check = 1
+      elif i < len(text_list) - 1 and text_list[i+1] in alter_list:
+        list_candidate_word = word_vectors.most_similar(text_list[i+1], topn=400)
+        check = 1
+
+      if check == 1:
+        for word in list_candidate_word:
+          if editdistance.eval(word[0], text_list[i]) < min_distance:
+            min_distance = editdistance.eval(word[0], text_list[i])
+            alter_word = word[0]
+        text_list[i] = alter_word
+      else:
+        for word in alter_list:
+          if editdistance.eval(word, text_list[i]) < min_distance:
+            min_distance = editdistance.eval(word, text_list[i])
+            alter_word = word
+        text_list[i] = alter_word
+
+  return " ".join(text_list)
 
 
 def getVoiceToText():

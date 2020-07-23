@@ -38,6 +38,43 @@ def detect_leading_silence(sound, silence_threshold=-5.0, chunk_size=10):
 
     return trim_ms
 
+
+def correct_by_word(TEXT, model_w2v):
+  text = TEXT.lower()
+  text_list = text.split()
+
+  word_vectors = model_w2v.wv
+  alter_list = list(word_vectors.vocab.keys())
+
+  for i in range(len(text_list)):
+    if text_list[i] not in alter_list:
+      min_distance = 100
+      alter_word = ""
+      check = 0
+      if i > 0 and i < len(text_list) - 1:
+        if text_list[i-1] in alter_list and text_list[i+1] in alter_list:
+          list_candidate_word = word_vectors.most_similar([text_list[i-1], text_list[i+1]], topn=400)
+          check = 1
+      elif i < len(text_list) - 1 and text_list[i+1] in alter_list:
+        list_candidate_word = word_vectors.most_similar(text_list[i+1], topn=400)
+        check = 1
+
+      if check == 1:
+        for word in list_candidate_word:
+          if editdistance.eval(word[0], text_list[i]) < min_distance:
+            min_distance = editdistance.eval(word[0], text_list[i])
+            alter_word = word[0]
+        text_list[i] = alter_word
+      else:
+        for word in alter_list:
+          if editdistance.eval(word, text_list[i]) < min_distance:
+            min_distance = editdistance.eval(word, text_list[i])
+            alter_word = word
+        text_list[i] = alter_word
+
+  return " ".join(text_list)
+
+
 def trim_silence_add_pass(path, exportPath):
     sound = AudioSegment.from_file(path, format="wav")
     silence_threshold = sound.dBFS - 10
