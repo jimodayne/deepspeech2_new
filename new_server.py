@@ -12,9 +12,13 @@ from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 from pydub import AudioSegment
 from flask_cors import CORS, cross_origin
-import json
+import editdistance
+from gensim.models import Word2Vec
+from flask import jsonify
+
 
 UPLOAD_FOLDER = './server_audio'
+LM_DIRECTORY = './check_point_cse/word_model_left.model'
 check_point_directory = "./check_point_cse"
 
 app = Flask(__name__)
@@ -29,14 +33,42 @@ def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
         audio_clip, mode=ModelMode.TEST, step=step, window=window,
         max_freq=max_freq)
 
-def detect_leading_silence(sound, silence_threshold=-5.0, chunk_size=10):
-    trim_ms = 0 # ms
 
-    assert chunk_size > 0 # to avoid infinite loop
-    while sound[trim_ms:trim_ms+chunk_size].dBFS < silence_threshold and trim_ms < len(sound):
-        trim_ms += chunk_size
 
-    return trim_ms
+@cross_origin()
+@app.route('/', methods=['POST', 'GET'])
+def upload_file():
+    if request.method == 'POST':
+        # check if the post request has the file part
+        if 'file' not in request.files:
+            flash('No file part')
+            return redirect(request.url)
+        file = request.files['file']
+        # if user does not select file, browser also
+        # submit an empty part without filename
+        if file.filename == '':
+            flash('No selected file')
+            return redirect(request.url)
+        if file:
+            filename = "data.wav"
+            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+
+            text = getVoiceToText()
+            model_w2v = Word2Vec.load(LM_DIRECTORY)
+            correct_lm = correct_by_word(text,model_w2v)
+            # return  json.dumps({text,correct_lm}, ensure_ascii=False)
+            return jsonify(predict = text, correct = correct_lm)
+            # return redirect(url_for("getVoiceToText"))
+    return '''
+    <!doctype html>
+    <title>Upload new File</title>
+    <h1>Upload new File</h1>
+    <form method=post enctype=multipart/form-data>
+      <input type=file name=file>
+      <input type=submit value=Upload>
+    </form>
+    '''
+
 
 
 def correct_by_word(TEXT, model_w2v):
@@ -75,60 +107,6 @@ def correct_by_word(TEXT, model_w2v):
   return " ".join(text_list)
 
 
-def trim_silence_add_pass(path, exportPath):
-    sound = AudioSegment.from_file(path, format="wav")
-    silence_threshold = sound.dBFS - 10
-
-    duration = len(sound)    
-
-    start_trim = detect_leading_silence(sound,silence_threshold) 
-    end_trim = detect_leading_silence(sound.reverse(),silence_threshold)
-
-    if (start_trim > 100):
-        start_trim = start_trim - 50
-    if (duration - end_trim > 200):
-        end_trim = end_trim - 50
-    else:
-        end_trim = 0
-
-    trimmed_sound = sound[start_trim:duration-end_trim]
-    # trimmed_sound = trimmed_sound.low_pass_filter(2000)
-
-    trimmed_sound.export(exportPath,format = "wav")  
-
-@cross_origin()
-@app.route('/', methods=['POST', 'GET'])
-def upload_file():
-    if request.method == 'POST':
-        # check if the post request has the file part
-        if 'file' not in request.files:
-            flash('No file part')
-            return redirect(request.url)
-        file = request.files['file']
-        # if user does not select file, browser also
-        # submit an empty part without filename
-        if file.filename == '':
-            flash('No selected file')
-            return redirect(request.url)
-        if file:
-            filename = "data.wav"
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-
-            text = getVoiceToText()
-            return  json.dumps(text, ensure_ascii=False)
-            # return redirect(url_for("getVoiceToText"))
-    return '''
-    <!doctype html>
-    <title>Upload new File</title>
-    <h1>Upload new File</h1>
-    <form method=post enctype=multipart/form-data>
-      <input type=file name=file>
-      <input type=submit value=Upload>
-    </form>
-    '''
-
-
-
 def getVoiceToText():
     inputs = tf.placeholder(
         tf.float32,
@@ -160,7 +138,7 @@ def getVoiceToText():
             print("can not find check point at ", check_point_directory)
             print("-----------------////=/////------------------")
 
-        # trim_silence_add_pass("./server_audio/data.wav","./server_audio/data_edit.wav")
+    
 
         audio_input = [featurize("./server_audio/data.wav")]
         audio_input_length = [np.shape(audio_input)[1]]

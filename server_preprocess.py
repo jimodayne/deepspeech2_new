@@ -99,7 +99,7 @@ def upload_file():
             model_w2v = Word2Vec.load(LM_DIRECTORY)
             correct_lm = correct_by_word(text,model_w2v)
             # return  json.dumps({text,correct_lm}, ensure_ascii=False)
-            return jsonify(prediction = text, correct = correct_lm)
+            return jsonify(predict = text, correct = correct_lm)
             # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
