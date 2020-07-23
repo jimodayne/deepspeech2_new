@@ -14,7 +14,8 @@ from pydub import AudioSegment
 from flask_cors import CORS, cross_origin
 import editdistance
 from gensim.models import Word2Vec
-import json
+from flask import jsonify
+
 
 UPLOAD_FOLDER = './server_audio'
 LM_DIRECTORY = './check_point_cse/word_model_left.model'
@@ -97,7 +98,8 @@ def upload_file():
             text = getVoiceToText()
             model_w2v = Word2Vec.load(LM_DIRECTORY)
             correct_lm = correct_by_word(text,model_w2v)
-            return  json.dumps({text,correct_lm}, ensure_ascii=False)
+            # return  json.dumps({text,correct_lm}, ensure_ascii=False)
+            return jsonify(prediction = text, correct = correct_lm)
             # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
