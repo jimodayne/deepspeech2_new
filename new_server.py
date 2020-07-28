@@ -34,7 +34,6 @@ def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
         max_freq=max_freq)
 
 
-
 @cross_origin()
 @app.route('/', methods=['POST', 'GET'])
 def upload_file():
@@ -55,9 +54,9 @@ def upload_file():
 
             text = getVoiceToText()
             model_w2v = Word2Vec.load(LM_DIRECTORY)
-            correct_lm = correct_by_word(text,model_w2v)
+            correct_lm = correct_by_word(text, model_w2v)
             # return  json.dumps({text,correct_lm}, ensure_ascii=False)
-            return jsonify(predict = text, correct = correct_lm)
+            return jsonify(predict=text, correct=correct_lm)
             # return redirect(url_for("getVoiceToText"))
     return '''
     <!doctype html>
@@ -70,41 +69,42 @@ def upload_file():
     '''
 
 
-
 def correct_by_word(TEXT, model_w2v):
-  text = TEXT.lower()
-  text_list = text.split()
+    text = TEXT.lower()
+    text_list = text.split()
 
-  word_vectors = model_w2v.wv
-  alter_list = list(word_vectors.vocab.keys())
+    word_vectors = model_w2v.wv
+    alter_list = list(word_vectors.vocab.keys())
 
-  for i in range(len(text_list)):
-    if text_list[i] not in alter_list:
-      min_distance = 100
-      alter_word = ""
-      check = 0
-      if i > 0 and i < len(text_list) - 1:
-        if text_list[i-1] in alter_list and text_list[i+1] in alter_list:
-          list_candidate_word = word_vectors.most_similar([text_list[i-1], text_list[i+1]], topn=400)
-          check = 1
-      elif i < len(text_list) - 1 and text_list[i+1] in alter_list:
-        list_candidate_word = word_vectors.most_similar(text_list[i+1], topn=400)
-        check = 1
+    for i in range(len(text_list)):
+        if text_list[i] not in alter_list:
+            min_distance = 100
+            alter_word = ""
+            check = 0
+            if i > 0 and i < len(text_list) - 1:
+                if text_list[i-1] in alter_list and text_list[i+1] in alter_list:
+                    list_candidate_word = word_vectors.most_similar(
+                        [text_list[i-1], text_list[i+1]], topn=400)
+                    check = 1
+            elif i < len(text_list) - 1 and text_list[i+1] in alter_list:
+                list_candidate_word = word_vectors.most_similar(
+                    text_list[i+1], topn=400)
+                check = 1
 
-      if check == 1:
-        for word in list_candidate_word:
-          if editdistance.eval(word[0], text_list[i]) < min_distance:
-            min_distance = editdistance.eval(word[0], text_list[i])
-            alter_word = word[0]
-        text_list[i] = alter_word
-      else:
-        for word in alter_list:
-          if editdistance.eval(word, text_list[i]) < min_distance:
-            min_distance = editdistance.eval(word, text_list[i])
-            alter_word = word
-        text_list[i] = alter_word
+            if check == 1:
+                for word in list_candidate_word:
+                    if editdistance.eval(word[0], text_list[i]) < min_distance:
+                        min_distance = editdistance.eval(word[0], text_list[i])
+                        alter_word = word[0]
+                text_list[i] = alter_word
+            else:
+                for word in alter_list:
+                    if editdistance.eval(word, text_list[i]) < min_distance:
+                        min_distance = editdistance.eval(word, text_list[i])
+                        alter_word = word
+                text_list[i] = alter_word
 
-  return " ".join(text_list)
+    return " ".join(text_list)
 
 
 def getVoiceToText():
@@ -121,7 +121,7 @@ def getVoiceToText():
     label_lengths = tf.placeholder(tf.int32, shape=(None))
     input_lengths = tf.placeholder(tf.int32, shape=(None))
     deep_speech_model = model(inputs, input_lengths, labels,
-                              label_lengths, model_config, 0.95, mode=ModelMode.TEST)
+                              label_lengths, model_config, 0.85, mode=ModelMode.TEST)
     saver = tf.train.Saver()
 
     init_op = tf.global_variables_initializer()
@@ -138,8 +138,6 @@ def getVoiceToText():
             print("can not find check point at ", check_point_directory)
             print("-----------------////=/////------------------")
 
-    
-
         audio_input = [featurize("./server_audio/data.wav")]
         audio_input_length = [np.shape(audio_input)[1]]
 
@@ -155,4 +153,4 @@ def getVoiceToText():
 
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
-    app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
+    app.run(host='0.0.0.0', debug=True, port=8000, ssl_context='adhoc')
