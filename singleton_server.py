@@ -25,7 +25,6 @@ app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024
 
 
 
-
 def featurize(audio_clip, step=10, window=20, max_freq=22050, desc_file=None):
     return spectrogram_from_file(
         audio_clip, mode=ModelMode.TEST, step=step, window=window,
@@ -119,8 +118,7 @@ def get_model():
 
 
 def getVoiceToText():
-    global load_sess
-    
+  
     inputs = tf.placeholder(tf.float32,shape=(None, None, model_config["n_input_fetures"]),name="inputs")
     labels = tf.placeholder(tf.int32,shape=(None, None),name='labels')
     
@@ -135,7 +133,7 @@ def getVoiceToText():
     audio_input = [featurize("./server_audio/data.wav")]
     audio_input_length = [np.shape(audio_input)[1]]
 
- 
+    load_sess = get_model()
     
     # print(audio_input_length)
     l, s = load_sess.run(deep_speech_model, feed_dict={
@@ -152,6 +150,6 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0',debug=True, port=8000,ssl_context='adhoc')
    
    
-    load_sess = get_model()
+   
 
    
