@@ -45,7 +45,7 @@ def sample_recognize(local_file_path='./server_audio/data_edit.wav'):
     language_code = "vi-VN"
 
     # Sample rate in Hertz of the audio data sent
-    sample_rate_hertz = 16000
+    sample_rate_hertz = 44100
 
     # Encoding of audio data sent. This sample sets this explicitly.
     # This field is optional for FLAC and WAV audio formats.
