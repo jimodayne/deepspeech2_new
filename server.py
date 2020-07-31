@@ -19,7 +19,7 @@ from flask import jsonify
 
 UPLOAD_FOLDER = './server_audio'
 LM_DIRECTORY = './check_point_cse/word_model_left.model'
-check_point_directory = "./check_point_cse"
+check_point_directory = "./check_point_final"
 
 app = Flask(__name__)
 CORS(app)
@@ -42,12 +42,6 @@ def detect_leading_silence(sound, silence_threshold=-5.0, chunk_size=10):
         trim_ms += chunk_size
 
     return trim_ms
-
-
-def match_target_amplitude(path, exportPath, target_dBFS):
-    sound = AudioSegment.from_file(path, format="wav")
-
-    processed_sound.export(exportPath, format="wav")
 
 
 def trim_silence_add_pass(path, exportPath):
@@ -74,7 +68,6 @@ def trim_silence_add_pass(path, exportPath):
 
     change_in_dBFS = target_dBFS - trimmed_sound.dBFS
     processed_sound = trimmed_sound.apply_gain(change_in_dBFS)
-    # trimmed_sound = trimmed_sound.low_pass_filter(2000)
 
     processed_sound.export(exportPath, format="wav")
 
