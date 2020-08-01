@@ -45,8 +45,7 @@ python3 -W ignore ./train.py ./check_point/ ./json/for_newEngine/train_json.json
 4. Run the server
 
 ```
-python3 new_server.py
-python3 server_preprocess.py
+python3 server.py
 ```
 
 5. Using screen for non-stop training & server
