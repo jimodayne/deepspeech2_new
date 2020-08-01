@@ -33,7 +33,8 @@ source ./venv/bin/activate
 
 pip install --upgrade pip
 pip install --upgrade tensorflow==1.15
-pip install -r requirements.txt
+
+install some package
 ```
 
 3. Train the model
