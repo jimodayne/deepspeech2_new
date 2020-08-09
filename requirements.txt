@@ -108,7 +108,7 @@ tensorflow-estimator==1.15.1
 termcolor==1.1.0
 unattended-upgrades==0.1
 urllib3==1.24.2
-uvicorn==0.11.5
+uvicorn==0.11.7
 uvloop==0.14.0
 virtualenv==20.0.8
 websockets==8.1
