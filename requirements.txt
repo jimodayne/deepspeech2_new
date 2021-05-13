@@ -72,7 +72,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
 pycrypto==2.6.1
-pydantic==1.5.1
+pydantic==1.6.2
 pydub==0.24.1
 pygobject==3.26.1
 PyJWT==1.5.3
